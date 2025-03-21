@@ -931,8 +931,8 @@ landscape:
             description: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
             homepage_url: https://www.deepspeed.ai/
             logo: DeepSpeed_light.svg
-            repo_url: https://github.com/microsoft/DeepSpeed
-            crunchbase: https://www.crunchbase.com/organization/hugging-face
+            repo_url: https://github.com/deepspeedai/DeepSpeed
+            crunchbase: https://www.crunchbase.com/organization/pytorch
           - item:
             name: FairScale
             description: PyTorch extension library for high performance and large scale training. This library extends basic PyTorch capabilities while adding new SOTA scaling techniques. 
@@ -1126,4 +1126,5 @@ landscape:
             homepage_url: https://worldethicaldata.org/
             logo: wedf.png
             crunchbase:
-            joined: '2024-04-30'
+            joined: '2024-04-30'
+
