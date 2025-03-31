@@ -19,7 +19,7 @@ Please see [pytorch.landscape2.io](https://pytorch.landscape2.io/)
 
 * Projects must be open source and hosted on or mirrored to GitHub.
 * If you would like your project to be considered to join the Ecosystem, submit a request to [Join the Ecosystem](https://pytorch.org/ecosystem/join)
-* New projects are submitted to the PyTorch Technical Advisory Council.  If approved they will be added to the landscape by Foundation staff. 
+* New projects are submitted to the PyTorch Ecosystem Working Group, a sub-group of the PyTorch Technical Advisory Council.  If approved they will be added to the landscape by Foundation staff. 
 * Projects are placed in the category that best suits them. We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * All projects need a logo and the logo needs to include the name. Once approved, please plan to submit a logo for your project.  If you need help with creating a logo, reach out the PyTorch Foundation team and they will assist you, by sending an email to support@pytorch.org. 
 * Crunchbase organization should be the company or organization that manages the project. 
