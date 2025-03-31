@@ -13,7 +13,7 @@ This landscape is intended as a map to explore the projects in the PyTorch Found
 
 ## Interactive Version
 
-Please see [pytorch.landscape2.io](https://pytorch.landscape2.io/)
+Please see [landscape.pytorch.org](https://landscape.pytorch.org/)
 
 ## New Entries
 
