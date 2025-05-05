@@ -1025,6 +1025,12 @@ landscape:
             logo: nvidia.svg
             crunchbase: https://www.crunchbase.com/organization/nvidia
             joined: '2022-07-31' 
+          - item:
+            name: Snowflake (member)
+            homepage_url: https://snowflake.com/
+            logo: snowflake.svg
+            crunchbase: https://www.crunchbase.com/organization/snowflake
+            joined: '2023-10-31'
       - subcategory:
         name: General
         items:
@@ -1040,12 +1046,6 @@ landscape:
             logo: rebellions.svg
             crunchbase: https://www.crunchbase.com/organization/rebellions-ai
             joined: '2024-10-31'
-          - item:
-            name: Snowflake (member)
-            homepage_url: https://snowflake.com/
-            logo: snowflake.svg
-            crunchbase: https://www.crunchbase.com/organization/snowflake
-            joined: '2023-10-31'
       - subcategory:
         name: Associate
         items:
