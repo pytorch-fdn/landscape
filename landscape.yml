@@ -859,7 +859,7 @@ landscape:
             description: Torch-TensorRT is a inference compiler for PyTorch, targeting NVIDIA GPUs via NVIDIA’s TensorRT Deep Learning Optimizer and Runtime.
             homepage_url: https://pytorch.org/TensorRT/
             logo: TensorRT.svg
-            repo_url: https://github.com/RizhaoCai/PyTorch_ONNX_TensorRT
+            repo_url: https://github.com/pytorch/TensorRT
             crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: PyTorchXLA
