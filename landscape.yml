@@ -305,7 +305,7 @@ landscape:
             description: A Toolbox for Adversarial Robustness Research
             homepage_url: https://advertorch.readthedocs.io/en/latest/
             logo: AdverTorch.svg
-            project: archive
+            project: archived
             repo_url: https://github.com/BorealisAI/advertorch
             crunchbase: https://www.crunchbase.com/organization/ecopia-tech-corporation
           - item:
