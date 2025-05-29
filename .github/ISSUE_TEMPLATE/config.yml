@@ -1,4 +1,10 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Update PyTorch Member entry
+    url: https://support.pytorch.org
+    about: These changes can also be made directly in [LFX Organization Dashboard](https://docs.linuxfoundation.org/lfx/organization-dashboard/organization-profile).
+  - name: Update PyTorch Foundation Project entry
+    url: https://support.pytorch.org
+    about: These changes can also be made directly in [LFX Project Control Center (PCC)](https://docs.linuxfoundation.org/lfx/project-control-center/v2-latest-version/operations/project-definition).
   - name: Propose a new PyTorch Ecosystem Project
     url: https://github.com/pytorch-fdn/ecosystem/issues/new
