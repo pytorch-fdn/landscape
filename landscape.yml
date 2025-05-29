@@ -739,13 +739,6 @@ landscape:
             repo_url: https://github.com/arogozhnikov/einops
             crunchbase: https://www.crunchbase.com/organization/chai-discovery
           - item:
-            name: vLLM
-            description: vLLM is a fast and easy-to-use library for LLM inference and serving.
-            homepage_url: https://github.com/vllm-project/vllm
-            logo: vllm.svg
-            repo_url: https://github.com/vllm-project/vllm
-            crunchbase: https://www.crunchbase.com/organization/uc-berkeley-school-of-information
-          - item:
             name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
             homepage_url: https://docs.sglang.ai/
@@ -977,7 +970,7 @@ landscape:
         items:
           - item:
             name: DeepSpeed
-            category: foundation
+            project: foundation
             second_path:
               - Optimizations / Distributed
             description: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -991,7 +984,7 @@ landscape:
                 slug: deepspeed
           - item:
             name: vLLM
-            category: foundation
+            project: foundation
             second_path:
               - Optimizations / General
             description: vLLM is a fast and easy-to-use library for LLM inference and serving.

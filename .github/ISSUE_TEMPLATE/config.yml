@@ -1,0 +1,4 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Propose a new PyTorch Ecosystem Project
+    url: https://github.com/pytorch-fdn/ecosystem/issues/new

@@ -2,17 +2,17 @@
 
 ![PyTorch Landscape Logo](https://raw.githubusercontent.com/pytorch/pytorch/0d4cedaa47c7ee22042eb24e87eb3cfe95502404/docs/source/_static/img/pytorch-logo-dark.svg)
 
-This landscape is intended as a map to explore open source projects and working groups hosted by PyTorch, open source projects in the energy and sustainability ecosystems, and also shows the PyTorch member companies. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open-source code.
+This landscape is intended as a map to explore PyTorch Foundation and Ecosystem projects and also shows the PyTorch member companies. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open-source code.
 
 This repository contains the data files and images required to generate the [PyTorch landscape](https://landscape.pytorch.org). The software that generates it can be found at the [cncf/landscape2](https://github.com/cncf/landscape2) repository. Please see its [README file](https://github.com/cncf/landscape2#landscape2) for more information about how it works.
 
-## New Entries
+## Proposing new PyTorch Ecosystem projects
 
-New entries to the landscape must be approved by the [PyTorch Ecosystem Working Group](https://github.com/pytorch-fdn/ecosystem). Projects wishing to become a PyTorch Ecosystem Project can apply [here](https://github.com/pytorch-fdn/ecosystem/issues/new).
+PyTorch Ecosystem projects are approved by the [PyTorch Ecosystem Working Group](https://github.com/pytorch-fdn/ecosystem) per thier review guidelines. Projects wishing to become a PyTorch Ecosystem Project can apply [here](https://github.com/pytorch-fdn/ecosystem/issues/new).
 
 ## Corrections
 
-Please open a pull request with edits to [landscape.yml](landscape.yml).
+Please open a pull request with edits to [landscape.yml](landscape.yml). Changes are reviewed within two business days by the [PyTorch PMO Staff](mailto:support@pytorch.org).
 
 If the error is with data from [Crunchbase](https://www.crunchbase.com/) you should open an account there and edit the data. If you don't like a project description, edit it in GitHub. If your project isn't showing the license correctly, you may need to paste the unmodified text of the license into a LICENSE file at the root of your project in GitHub, in order for GitHub to serve the license information correctly.
 
@@ -23,7 +23,7 @@ PyTorch Member and Project data in this repository ( which in the [landscape.yml
 - For `PyTorch Members` entries, you can make these changes in [LFX Organization Dashboard](https://docs.linuxfoundation.org/lfx/organization-dashboard/organization-profile).
 - For `PyTorch Projects` entries, those changes can be made in [LFX Project Control Center (PCC)](https://docs.linuxfoundation.org/lfx/project-control-center/v2-latest-version/operations/project-definition).
 
-If you cannot access the above resources, please [create a helpdesk ticket](https://members.pytorch.org) to request those changes.
+If you cannot access the above resources, please [create a helpdesk ticket](https://members.pytorch.org) to request those changes. All changes are reviewed within two business days by the [PyTorch PMO Staff](mailto:support@pytorch.org).
 
 ## Local Build and Install
 
