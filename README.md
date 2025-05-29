@@ -1,6 +1,6 @@
 # PyTorch Landscape
 
-![PyTorch Landscape Logo](https://landscape.pytorch.org/images/left-logo.svg)
+![PyTorch Landscape Logo](https://raw.githubusercontent.com/pytorch/pytorch/0d4cedaa47c7ee22042eb24e87eb3cfe95502404/docs/source/_static/img/pytorch-logo-dark.svg)
 
 This landscape is intended as a map to explore open source projects and working groups hosted by PyTorch, open source projects in the energy and sustainability ecosystems, and also shows the PyTorch member companies. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open-source code.
 
