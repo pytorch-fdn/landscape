@@ -1305,6 +1305,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/the-university-of-tampa
           - item:
+            name: University of Leicester (member)
+            homepage_url: https://le.ac.uk/
+            logo: university_of_leicester.svg
+            description: University of Leicester
+            crunchbase: https://www.crunchbase.com/organization/university-of-leicester
+            twitter: https://twitter.com/uniofleicester
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-leicester
+          - item:
             name: William Carey University (member)
             homepage_url: https://wmcarey.edu/
             logo: william_carey_university.svg
