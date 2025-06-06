@@ -800,6 +800,13 @@ landscape:
             logo: Zeus.svg
             repo_url: https://github.com/ml-energy/zeus
             crunchbase: https://www.crunchbase.com/organization/energy-initiatives-group
+          - item:
+            name: LitServe
+            description: LitServe is a flexible serving engine for AI models built on FastAPI.
+            homepage_url: https://lightning.ai/docs/litserve/home
+            logo: LitServe Light Logo.svg
+            repo_url: https://github.com/Lightning-AI/LitServe
+            crunchbase: https://www.crunchbase.com/organization/grid-ai
       - subcategory:
         name: Compilers & Runtimes
         items:
