@@ -977,7 +977,7 @@ landscape:
         items:
           - item:
             name: DeepSpeed
-            category: foundation
+            project: foundation
             second_path:
               - Optimizations / Distributed
             description: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -991,7 +991,7 @@ landscape:
                 slug: deepspeed
           - item:
             name: vLLM
-            category: foundation
+            project: foundation
             second_path:
               - Optimizations / General
             description: vLLM is a fast and easy-to-use library for LLM inference and serving.
