@@ -970,7 +970,7 @@ landscape:
             repo_url: https://github.com/horovod/horovod
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
-    name: PyTorch Projectss
+    name: PyTorch Projects
     subcategories:
       - subcategory:
         name: Foundation

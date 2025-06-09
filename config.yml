@@ -10,7 +10,7 @@ project: a092M00001LkQdtQAF
 memberSuffix: ' (member)'
 landscapeMemberCategory: PyTorch Members
 landscapefile: landscape.yml
-landscapeProjectsCategory: PyTorch Foundation Projects
+landscapeProjectsCategory: PyTorch Projects
 landscapeProjectsSubcategories:
   - name: Foundation
     category: Foundation
