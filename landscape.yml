@@ -761,6 +761,13 @@ landscape:
             repo_url: https://github.com/ivy-llc/ivy
             crunchbase: https://www.crunchbase.com/organization/ivy
           - item:
+            name: LitServe
+            description: LitServe is a flexible serving engine for AI models built on FastAPI.
+            homepage_url: https://lightning.ai/docs/litserve/home
+            logo: litserve.svg
+            repo_url: https://github.com/Lightning-AI/LitServe
+            crunchbase: https://www.crunchbase.com/organization/grid-ai
+          - item:
             name: neural-compressor
             description: An open-source Python library supporting popular model compression techniques on all deep learning frameworks.
             homepage_url: https://intel.github.io/neural-compressor/latest/docs/source/Welcome.html
