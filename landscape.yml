@@ -169,6 +169,13 @@ landscape:
             logo: Transformers.svg
             repo_url: https://github.com/huggingface/transformers
             crunchbase: https://www.crunchbase.com/organization/hugging-face
+            - item:
+            name: LitGPT
+            description: 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+            homepage_url: https://github.com/Lightning-AI/litgpt
+            logo: LitGPT Light Mode.svg
+            repo_url: https://github.com/Lightning-AI/litgpt
+            crunchbase: 
       - subcategory:
         name: Specialized
         items:
