@@ -498,7 +498,7 @@ landscape:
             project: archived
             logo: Poutyne.svg
             repo_url: https://github.com/GRAAL-Research/poutyne
-            crunchbase: https://www.crunchbase.com/organization/grid-ai
+            crunchbase: https://www.crunchbase.com/organization/graal-0644
           - item:
             name: PyTorch Lightning
             description: Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
