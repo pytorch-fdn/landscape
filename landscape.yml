@@ -118,6 +118,13 @@ landscape:
             repo_url: https://github.com/joeynmt
             crunchbase: https://www.crunchbase.com/organization/cornell-university
           - item:
+            name: LitGPT
+            description: 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+            homepage_url: https://github.com/Lightning-AI/litgpt
+            logo: LitGPT Light Mode.svg
+            repo_url: https://github.com/Lightning-AI/litgpt
+            crunchbase: 
+          - item:
             name: OpenCompass
             description: OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
             homepage_url: https://opencompass.org.cn/home
@@ -169,13 +176,6 @@ landscape:
             logo: Transformers.svg
             repo_url: https://github.com/huggingface/transformers
             crunchbase: https://www.crunchbase.com/organization/hugging-face
-            - item:
-            name: LitGPT
-            description: 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-            homepage_url: https://github.com/Lightning-AI/litgpt
-            logo: LitGPT Light Mode.svg
-            repo_url: https://github.com/Lightning-AI/litgpt
-            crunchbase: 
       - subcategory:
         name: Specialized
         items:
