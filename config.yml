@@ -1,0 +1,20 @@
+slug: pytorch
+landscapeMemberClasses:
+   - name: Premier Membership
+     category: Premier
+   - name: General Membership
+     category: General
+   - name: Associate Membership
+     category: Associate
+project: a092M00001LkQdtQAF
+memberSuffix: ' (member)'
+landscapeMemberCategory: PyTorch Members
+landscapefile: landscape.yml
+landscapeProjectsCategory: PyTorch Projects
+landscapeProjectsSubcategories:
+  - name: Foundation
+    category: Foundation
+landscapeProjectsLevels:
+  - name: Foundation
+    level: foundation
+projectsDefaultCrunchbase: https://www.crunchbase.com/organization/pytorch

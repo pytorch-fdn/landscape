@@ -7,14 +7,16 @@ landscape:
         items:
           - item:
             name: Albumentations
-            description: a Python library for image augmentation used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data.
+            description: a Python library for image augmentation used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image 
+              augmentation is to create new training samples from the existing data.
             homepage_url: https://albumentations.ai/docs/
             logo: albumentations.svg
             repo_url: https://github.com/albumentations-team/albumentations
             crunchbase: https://www.crunchbase.com/organization/albumentations
           - item:
             name: Anomalib
-            description: An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
+            description: An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge 
+              inference.
             homepage_url: https://anomalib.readthedocs.io/en/latest/
             logo: anomalib-wide.svg
             repo_url: https://github.com/openvinotoolkit/anomalib
@@ -72,7 +74,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/quansight
           - item:
             name: raster-vision
-            description: Raster Vision is an open source library and framework for Python developers building computer vision models on satellite, aerial, and other large imagery sets (including oblique drone imagery). There is built-in support for chip classification, object detection, and semantic segmentation using PyTorch.
+            description: Raster Vision is an open source library and framework for Python developers building computer vision models on satellite, aerial, and other large imagery 
+              sets (including oblique drone imagery). There is built-in support for chip classification, object detection, and semantic segmentation using PyTorch.
             homepage_url: https://docs.rastervision.io/
             logo: raster-vision.svg
             repo_url: https://github.com/azavea/raster-vision
@@ -105,7 +108,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence
           - item:
             name: Flair
-            description: Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical texts, sense disambiguation and classification, with support for a rapidly growing number of languages
+            description: Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment 
+              analysis, part-of-speech tagging (PoS), special support for biomedical texts, sense disambiguation and classification, with support for a rapidly growing number of 
+              languages
             homepage_url: https://github.com/flairNLP/flair
             logo: flair.svg
             repo_url: https://github.com/flairNLP/flair
@@ -119,7 +124,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cornell-university
           - item:
             name: OpenCompass
-            description: OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+            description: OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ 
+              datasets.
             homepage_url: https://opencompass.org.cn/home
             logo: opencompass.svg
             repo_url: https://github.com/open-compass/opencompass
@@ -174,21 +180,24 @@ landscape:
         items:
           - item:
             name: DGL
-            description: Python package built to ease deep learning on graph, on top of existing DL frameworks.  Fast and memory-efficient message passing primitives for training Graph Neural Networks.
+            description: Python package built to ease deep learning on graph, on top of existing DL frameworks.  Fast and memory-efficient message passing primitives for training 
+              Graph Neural Networks.
             homepage_url: https://www.dgl.ai/
             logo: DGL.svg
             repo_url: https://github.com/dmlc/dgl/
             crunchbase: https://www.crunchbase.com/organization/new-york-university
           - item:
-            name: Diffusers 
-            description: Pretrained diffusion models for generating images, audio, and even 3D structures of molecules. Whether you are looking for a simple inference solution or want to train your own diffusion model, Diffusers is a modular toolbox that supports both
+            name: Diffusers
+            description: Pretrained diffusion models for generating images, audio, and even 3D structures of molecules. Whether you are looking for a simple inference solution or 
+              want to train your own diffusion model, Diffusers is a modular toolbox that supports both
             homepage_url: https://huggingface.co/docs/diffusers/index
             logo: Diffusers.svg
             repo_url: https://github.com/huggingface/diffusers
             crunchbase: https://www.crunchbase.com/organization/hugging-face
           - item:
             name: L5Kit
-            description: A python library with functionality for the development and training of learned prediction, planning and simulation models for autonomous driving applications.
+            description: A python library with functionality for the development and training of learned prediction, planning and simulation models for autonomous driving 
+              applications.
             homepage_url: https://woven-planet.github.io/l5kit/
             logo: logo_l5kit_wp.svg
             project: archived
@@ -217,7 +226,7 @@ landscape:
             repo_url: https://github.com/facebookresearch/pytorchvideo
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
-            name: SimulAI 
+            name: SimulAI
             description: A toolkit with data-driven pipelines for physics-informed machine learning.
             homepage_url: https://ibm.github.io/simulai/
             logo: SimulAI.svg
@@ -225,7 +234,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: torchaudio
-            description: Torchaudio is a library for audio and signal processing with PyTorch. It provides I/O, signal and data processing functions, datasets, model implementations and application components.
+            description: Torchaudio is a library for audio and signal processing with PyTorch. It provides I/O, signal and data processing functions, datasets, model 
+              implementations and application components.
             homepage_url: https://pytorch.org/audio/stable/index.html
             logo: PyTorch_Project_torchaudio.svg
             repo_url: https://github.com/pytorch/audio
@@ -249,7 +259,8 @@ landscape:
         items:
           - item:
             name: Clinica DL
-            description: open-source deep learning software for reproducible neuroimaging processing. It can be seen as the deep learning extension of Clinica, an open-source Python library for neuroimaging preprocessing and analysis. 
+            description: open-source deep learning software for reproducible neuroimaging processing. It can be seen as the deep learning extension of Clinica, an open-source 
+              Python library for neuroimaging preprocessing and analysis.
             homepage_url: https://clinicadl.readthedocs.io/en/latest/
             logo: clinicaDL.svg
             repo_url: https://github.com/aramis-lab/clinicadl
@@ -350,14 +361,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: NeMo
-            description: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+            description: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech 
+              Recognition and Text-to-Speech)
             homepage_url: https://docs.nvidia.com/nemo-framework/user-guide/latest/overview.html
             logo: NEMO.svg
             repo_url: https://github.com/NVIDIA/NeMo
             crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: USB
-            description: Benchmark tool for developing and evaluating Semi-suprevised learning algorithms.  Includes an implementation of 14 SSL algorithms and 15 tasks for evaluation for CV, NLP, and Audio
+            description: Benchmark tool for developing and evaluating Semi-suprevised learning algorithms.  Includes an implementation of 14 SSL algorithms and 15 tasks for 
+              evaluation for CV, NLP, and Audio
             homepage_url: https://usb.readthedocs.io/en/main/
             logo: USB.svg
             repo_url: https://github.com/microsoft/Semi-supervised-learning
@@ -382,7 +395,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: RoMa
-            description: RoMa (which stands for Rotation Manipulation) provides differentiable mappings between 3D rotation representations, mappings from Euclidean to rotation space, and various utilities related to rotations.
+            description: RoMa (which stands for Rotation Manipulation) provides differentiable mappings between 3D rotation representations, mappings from Euclidean to rotation 
+              space, and various utilities related to rotations.
             homepage_url: https://naver.github.io/roma/
             logo: RoMa.svg
             project: archived
@@ -393,7 +407,8 @@ landscape:
         items:
           - item:
             name: PennyLane
-            description: PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Train a quantum computer the same way as a neural network.
+            description: PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Train a quantum computer the same way 
+              as a neural network.
             homepage_url: https://pennylane.ai/
             logo: PennyLane.svg
             repo_url: https://github.com/PennyLaneAI/pennylane
@@ -424,7 +439,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/petuum
           - item:
             name: Catalyst
-            description: Catalyst is a PyTorch framework for Deep Learning Research and Development. It focuses on reproducibility, rapid experimentation, and codebase reuse so you can create something new rather than write yet another train loop.
+            description: Catalyst is a PyTorch framework for Deep Learning Research and Development. It focuses on reproducibility, rapid experimentation, and codebase reuse so you
+              can create something new rather than write yet another train loop.
             homepage_url: https://catalyst-team.com/
             logo: clearml-logo.svg
             project: archived
@@ -446,14 +462,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/databricks
           - item:
             name: fastai
-            description: fastai is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches
+            description: fastai is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in 
+              standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches
             homepage_url: https://docs.fast.ai/
             logo: fastai.svg
             repo_url: https://github.com/fastai/fastai
             crunchbase: https://www.crunchbase.com/organization/fast-ai
           - item:
             name: Hummingbird
-            description: Hummingbird is a library for compiling trained traditional ML models into tensor computations. Hummingbird allows users to seamlessly leverage neural network frameworks (such as PyTorch) to accelerate traditional ML models. 
+            description: Hummingbird is a library for compiling trained traditional ML models into tensor computations. Hummingbird allows users to seamlessly leverage neural 
+              network frameworks (such as PyTorch) to accelerate traditional ML models.
             homepage_url: https://github.com/microsoft/hummingbird
             logo: hummingbird.svg
             project: archived
@@ -497,7 +515,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: stoke
-            description: A lightweight wrapper for PyTorch that provides a simple declarative API for context switching between devices (e.g. CPU, GPU), distributed modes, mixed-precision, and PyTorch extensions. This allows you to switch from local full-precision CPU to mixed-precision distributed multi-GPU with extensions (like optimizer state sharding) by simply changing a few declarative flags. 
+            description: A lightweight wrapper for PyTorch that provides a simple declarative API for context switching between devices (e.g. CPU, GPU), distributed modes, 
+              mixed-precision, and PyTorch extensions. This allows you to switch from local full-precision CPU to mixed-precision distributed multi-GPU with extensions (like 
+              optimizer state sharding) by simply changing a few declarative flags.
             homepage_url: https://fidelity.github.io/stoke/
             logo: stoke.svg
             project: archived
@@ -505,13 +525,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: torchdistill
-            description: Offers various state-of-the-art knowledge distillation methods and enables you to design (new) experiments simply by editing a declarative yaml config file.
+            description: Offers various state-of-the-art knowledge distillation methods and enables you to design (new) experiments simply by editing a declarative yaml config 
+              file.
             homepage_url: https://yoshitomo-matsubara.net/torchdistill/
             logo: torchdistill.svg
             repo_url: https://github.com/yoshitomo-matsubara/torchdistill
           - item:
             name: torchdata
-            description: A Beta library of common modular data loading primitives for easily constructing flexible and performant data pipelines. 
+            description: A Beta library of common modular data loading primitives for easily constructing flexible and performant data pipelines.
             homepage_url: https://pytorch.org/data/beta/index.html
             logo: PyTorch_Project_torchdata.svg
             repo_url: https://github.com/pytorch/data
@@ -528,7 +549,8 @@ landscape:
         items:
           - item:
             name: baal
-            description: Baal is a Bayesian active learning library. Provides methods to do posterior distribution sampling in order to maximize the efficiency of labelling during active learning. Our library is suitable for research and industrial applications.
+            description: Baal is a Bayesian active learning library. Provides methods to do posterior distribution sampling in order to maximize the efficiency of labelling during 
+              active learning. Our library is suitable for research and industrial applications.
             homepage_url: https://baal.readthedocs.io/
             logo: Baal.svg
             repo_url: https://github.com/baal-org/baal
@@ -542,7 +564,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: GPyTorch
-            description: GPyTorch is a Gaussian process library implemented using PyTorch. GPyTorch is designed for creating scalable, flexible, and modular Gaussian process models with ease
+            description: GPyTorch is a Gaussian process library implemented using PyTorch. GPyTorch is designed for creating scalable, flexible, and modular Gaussian process models
+              with ease
             homepage_url: https://arxiv.org/abs/1809.11165
             logo: GPyTorch.svg
             repo_url: https://github.com/cornellius-gp/gpytorch
@@ -556,7 +579,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/preferred-networks
           - item:
             name: Pomegranate
-            description: pomegranate is a Python package that implements fast and flexible probabilistic models ranging from individual probability distributions to compositional models such as Bayesian networks and hidden Markov models
+            description: pomegranate is a Python package that implements fast and flexible probabilistic models ranging from individual probability distributions to compositional 
+              models such as Bayesian networks and hidden Markov models
             homepage_url: https://pomegranate.readthedocs.io/en/latest/
             logo: pomegranate.svg
             repo_url: https://github.com/jmschrei/pomegranate
@@ -573,7 +597,8 @@ landscape:
         items:
           - item:
             name: CrypTen
-            description: CrypTen is a Privacy Preserving Machine Learning framework written using PyTorch to train models using encrypted data. It is currently not production ready and its main use is as a research framework 
+            description: CrypTen is a Privacy Preserving Machine Learning framework written using PyTorch to train models using encrypted data. It is currently not production ready
+              and its main use is as a research framework
             homepage_url: https://crypten.readthedocs.io/en/latest/
             logo: CrypTen.svg
             project: archived
@@ -598,14 +623,16 @@ landscape:
         items:
           - item:
             name: avalanche
-            description: Avalanche is an End-to-End Continual Learning Library based on PyTorch, for fast prototyping, training, and reproducible evaluation of continual learning algorithms.
+            description: Avalanche is an End-to-End Continual Learning Library based on PyTorch, for fast prototyping, training, and reproducible evaluation of continual learning 
+              algorithms.
             homepage_url: http://avalanche.continualai.org/
             logo: Avalanche.svg
             repo_url: https://github.com/ContinualAI/avalanche
             crunchbase: https://www.crunchbase.com/organization/continualai
           - item:
             name: Renate
-            description: Renate is a Python package for automatic retraining of neural networks models. It uses advanced Continual Learning and Lifelong Learning algorithms to achieve this purpose.
+            description: Renate is a Python package for automatic retraining of neural networks models. It uses advanced Continual Learning and Lifelong Learning algorithms to 
+              achieve this purpose.
             homepage_url: https://renate.readthedocs.io/en/latest/
             logo: Renate.svg
             repo_url: https://github.com/awslabs/renate
@@ -667,7 +694,8 @@ landscape:
         items:
           - item:
             name: PyKale
-            description: PyKale has a unified pipeline-based API and focuses on multimodal learning and transfer learning for graphs, images, and videos at the moment, with supporting models on deep learning and dimensionality reduction.
+            description: PyKale has a unified pipeline-based API and focuses on multimodal learning and transfer learning for graphs, images, and videos at the moment, with 
+              supporting models on deep learning and dimensionality reduction.
             homepage_url: https://pykale.github.io/
             logo: PyKale.svg
             repo_url: https://github.com/pykale/pykale
@@ -687,7 +715,8 @@ landscape:
         items:
           - item:
             name: Ray
-            description: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+            description: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML
+              workloads.
             homepage_url: https://github.com/ray-project/ray
             logo: ray.svg
             repo_url: https://github.com/ray-project/ray
@@ -697,7 +726,8 @@ landscape:
         items:
           - item:
             name: TorchQuantum
-            description: A framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy deployments on real quantum computers.
+            description: A framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy 
+              deployments on real quantum computers.
             homepage_url: https://hanruiwanghw.wixsite.com/torchquantum
             logo: Torch_Quantum.svg
             repo_url: https://github.com/mit-han-lab/torchquantum
@@ -716,13 +746,6 @@ landscape:
             repo_url: https://github.com/arogozhnikov/einops
             crunchbase: https://www.crunchbase.com/organization/chai-discovery
           - item:
-            name: vLLM
-            description: vLLM is a fast and easy-to-use library for LLM inference and serving.
-            homepage_url: https://github.com/vllm-project/vllm
-            logo: vllm.svg
-            repo_url: https://github.com/vllm-project/vllm
-            crunchbase: https://www.crunchbase.com/organization/uc-berkeley-school-of-information
-          - item:
             name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
             homepage_url: https://docs.sglang.ai/
@@ -731,7 +754,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/uc-berkeley-school-of-information
           - item:
             name: higher
-            description: higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps. 
+            description: higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
             homepage_url: https://higher.readthedocs.io/en/latest/.
             logo: higher.svg
             project: archived
@@ -745,6 +768,13 @@ landscape:
             repo_url: https://github.com/ivy-llc/ivy
             crunchbase: https://www.crunchbase.com/organization/ivy
           - item:
+            name: LitServe
+            description: LitServe is a flexible serving engine for AI models built on FastAPI.
+            homepage_url: https://lightning.ai/docs/litserve/home
+            logo: litserve.svg
+            repo_url: https://github.com/Lightning-AI/LitServe
+            crunchbase: https://www.crunchbase.com/organization/grid-ai
+          - item:
             name: neural-compressor
             description: An open-source Python library supporting popular model compression techniques on all deep learning frameworks.
             homepage_url: https://intel.github.io/neural-compressor/latest/docs/source/Welcome.html
@@ -753,14 +783,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: TensorLy
-            description: TensorLy is a Python library that aims at making tensor learning simple and accessible. It allows to easily perform tensor decomposition, tensor learning and tensor algebra. Its backend system allows to seamlessly perform computation with NumPy, PyTorch, JAX, TensorFlow, CuPy or Paddle, and run methods at scale on CPU or GPU.
+            description: TensorLy is a Python library that aims at making tensor learning simple and accessible. It allows to easily perform tensor decomposition, tensor learning 
+              and tensor algebra. Its backend system allows to seamlessly perform computation with NumPy, PyTorch, JAX, TensorFlow, CuPy or Paddle, and run methods at scale on CPU 
+              or GPU.
             homepage_url: http://tensorly.org/
             logo: tensorly.svg
             repo_url: https://github.com/tensorly/tensorly
             crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: torcharrow
-            description: TorchArrow is a torch.Tensor-like Python DataFrame library for data preprocessing in deep learning. It supports multiple execution runtimes and Arrow as a common format.
+            description: TorchArrow is a torch.Tensor-like Python DataFrame library for data preprocessing in deep learning. It supports multiple execution runtimes and Arrow as a 
+              common format.
             homepage_url: https://pytorch.org/torcharrow/beta/index.html
             logo: PyTorch_Project_torcharrow.svg
             repo_url: https://github.com/pytorch/torcharrow
@@ -800,13 +833,6 @@ landscape:
             logo: Zeus.svg
             repo_url: https://github.com/ml-energy/zeus
             crunchbase: https://www.crunchbase.com/organization/energy-initiatives-group
-          - item:
-            name: LitServe
-            description: LitServe is a flexible serving engine for AI models built on FastAPI.
-            homepage_url: https://lightning.ai/docs/litserve/home
-            logo: LitServe Light Logo.svg
-            repo_url: https://github.com/Lightning-AI/LitServe
-            crunchbase: https://www.crunchbase.com/organization/grid-ai
       - subcategory:
         name: Compilers & Runtimes
         items:
@@ -819,7 +845,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Glow
-            description: Glow is a machine learning compiler and execution engine for hardware accelerators. It is designed to be used as a backend for high-level machine learning frameworks. The compiler is designed to allow state of the art compiler optimizations and code generation of neural network graphs
+            description: Glow is a machine learning compiler and execution engine for hardware accelerators. It is designed to be used as a backend for high-level machine learning 
+              frameworks. The compiler is designed to allow state of the art compiler optimizations and code generation of neural network graphs
             homepage_url: https://github.com/pytorch/glow
             logo: glow.svg
             project: archived
@@ -834,7 +861,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: OctoML Profiler
-            description: octoml-profile is a python library and cloud service that enables ML engineers to easily assess the performance and cost of PyTorch models on cloud hardware with state-of-the-art ML acceleration technology.
+            description: octoml-profile is a python library and cloud service that enables ML engineers to easily assess the performance and cost of PyTorch models on cloud 
+              hardware with state-of-the-art ML acceleration technology.
             homepage_url: https://github.com/octoml/octoml-profile
             logo: octoml.svg
             repo_url: https://github.com/octoml/octoml-profile
@@ -870,7 +898,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: PyTorchXLA
-            description: PyTorch runs on XLA devices, like TPUs, with the torch_xla package. 
+            description: PyTorch runs on XLA devices, like TPUs, with the torch_xla package.
             homepage_url: https://pytorch.org/xla/release/2.1/index.html
             logo: PyTorch_Project_xla.svg
             repo_url: https://github.com/pytorch/xla
@@ -894,14 +922,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/allegro-ai
           - item:
             name: Determined
-            description: Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
+            description: Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource 
+              management. Works with PyTorch and TensorFlow.
             homepage_url: https://determined.ai/
             logo: determined-logo.svg
             repo_url: https://github.com/determined-ai/determined
             crunchbase: https://www.crunchbase.com/organization/determined-ai
           - item:
             name: forte
-            description: Forte is a flexible and powerful ML workflow builder. 
+            description: Forte is a flexible and powerful ML workflow builder.
             homepage_url: https://github.com/asyml/forte
             logo: forte.svg
             project: archived
@@ -909,7 +938,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/petuum
           - item:
             name: Hydra
-            description: simplifies the development of research and other complex applications. The key feature is the ability to dynamically create a hierarchical configuration by composition and override it through config files and the command line. The name Hydra comes from its ability to run multiple similar jobs - much like a Hydra with multiple heads.
+            description: simplifies the development of research and other complex applications. The key feature is the ability to dynamically create a hierarchical configuration by
+              composition and override it through config files and the command line. The name Hydra comes from its ability to run multiple similar jobs - much like a Hydra with 
+              multiple heads.
             homepage_url: https://hydra.cc/
             logo: hydra.svg
             repo_url: https://github.com/facebookresearch/hydra
@@ -934,15 +965,9 @@ landscape:
         name: Distributed
         items:
           - item:
-            name: DeepSpeed
-            description: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-            homepage_url: https://www.deepspeed.ai/
-            logo: DeepSpeed_light.svg
-            repo_url: https://github.com/deepspeedai/DeepSpeed
-            crunchbase: https://www.crunchbase.com/organization/pytorch
-          - item:
             name: FairScale
-            description: PyTorch extension library for high performance and large scale training. This library extends basic PyTorch capabilities while adding new SOTA scaling techniques. 
+            description: PyTorch extension library for high performance and large scale training. This library extends basic PyTorch capabilities while adding new SOTA scaling 
+              techniques.
             homepage_url: https://github.com/facebookresearch/fairscale
             logo: fairscale.svg
             repo_url: https://github.com/facebookresearch/fairscale
@@ -955,183 +980,370 @@ landscape:
             repo_url: https://github.com/horovod/horovod
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
+    name: PyTorch Projects
+    subcategories:
+      - subcategory:
+        name: Foundation
+        items:
+          - item:
+            name: DeepSpeed
+            project: foundation
+            second_path:
+              - Optimizations / Distributed
+            description: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+            homepage_url: https://www.deepspeed.ai/
+            logo: DeepSpeed_light.svg
+            repo_url: https://github.com/deepspeedai/DeepSpeed
+            crunchbase: https://www.crunchbase.com/organization/pytorch
+            extra:
+              accepted: '2025-04-08'
+              annotations:
+                slug: deepspeed
+          - item:
+            name: vLLM
+            project: foundation
+            second_path:
+              - Optimizations / General
+            description: vLLM is a fast and easy-to-use library for LLM inference and serving.
+            homepage_url: https://github.com/vllm-project/vllm
+            logo: vllm.svg
+            repo_url: https://github.com/vllm-project/vllm
+            crunchbase: https://www.crunchbase.com/organization/pytorch
+            extra:
+              accepted: '2025-04-08'
+              annotations:
+                slug: vllm
+  - category:
     name: PyTorch Members
     subcategories:
       - subcategory:
         name: Premier
         items:
           - item:
-            name: AMD (member)
+            name: Advanced Micro Devices (AMD) (member)
             homepage_url: https://amd.com/
-            logo: amd.svg
+            logo: advanced_micro_devices_amd.svg
+            description: For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for gaming, 
+              immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around 
+              the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are focused on building great products that push the 
+              boundaries of what is possible.
             crunchbase: https://www.crunchbase.com/organization/amd
-            joined: '2022-07-31'
+            twitter: https://twitter.com/AMD
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amd
           - item:
-            name: arm (member)
-            homepage_url: https://www.arm.com/
-            logo: arm.svg
-            crunchbase: https://www.crunchbase.com/organization/arm
-            joined: '2024-07-31'
-          - item:
-            name: AWS (member)
-            homepage_url: https://aws.amazon.com/
-            logo: aws.svg
+            name: Amazon Web Services, Inc. (member)
+            homepage_url: https://amazon.com/
+            logo: amazon_web_services_inc.svg
+            description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, 
+              electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides 
+              cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-            joined: '2022-07-31'
+            twitter: https://twitter.com/amazon
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amazon
           - item:
-            name: Google Cloud (member)
-            homepage_url: https://cloud.google.com/gcp
-            logo: google-cloud.svg
-            crunchbase: https://www.crunchbase.com/organization/google-cloud
-            joined: '2024-07-31'
+            name: Arm Limited (member)
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is 
+              licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart 
+              homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
+            crunchbase: https://www.crunchbase.com/organization/arm
+            twitter: https://twitter.com/ArmCommunity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name: Huawei (member)
-            homepage_url: https://www.huawei.com/
-            logo: huawei.svg
+            name: Google LLC (member)
+            homepage_url: https://google.com/
+            logo: google_llc.svg
+            description: Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search engine, 
+              software, cloud computing, and advertising technologies.
+            crunchbase: https://www.crunchbase.com/organization/google
+            twitter: https://twitter.com/Google
+            extra:
+              linkedin_url: https://www.linkedin.com/company/google
+          - item:
+            name: Huawei Technologies Co., Ltd (member)
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co.svg
+            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, 
+              China.
             crunchbase: https://www.crunchbase.com/organization/huawei
-            joined: '2023-08-31'
+            twitter: https://twitter.com/Huawei
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
           - item:
-            name: Hugging Face (member)
+            name: Hugging Face Inc (member)
             homepage_url: https://huggingface.co/
-            logo: hugging-face.svg
+            logo: hugging_face_inc.svg
+            description: Hugging Face is a community that advances and democratizes artificial intelligence through open source and open science.
             crunchbase: https://www.crunchbase.com/organization/hugging-face
-            joined: '2023-06-30'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huggingface
           - item:
-            name: IBM (member)
-            homepage_url: https://www.ibm.com/
-            logo: ibm.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
-            joined: '2023-06-30'
-          - item:
-            name: Intel (member)
-            homepage_url: https://www.intel.com/
-            logo: intel.svg
+            name: Intel Corporation (member)
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, 
+              chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and 
+              multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology 
+              solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, 
+              cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in 
+              Santa Clara, California.
             crunchbase: https://www.crunchbase.com/organization/intel
-            joined: '2023-06-30'
+            twitter: https://twitter.com/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
+          - item:
+            name: International Business Machines Corporation (member)
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            description: |-
+              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.
+
+              --- Merged Data:
+
+              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+            crunchbase: https://www.crunchbase.com/organization/ibm
+            twitter: https://twitter.com/IBM
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ibm
           - item:
             name: Lightning AI (member)
             homepage_url: https://lightning.ai/
-            logo: lightning.png
+            logo: lightning_ai.svg
+            description: Lightning AI is a platform that allows you to train, deploy, and build AI models quickly using PyTorch Lightning.
             crunchbase: https://www.crunchbase.com/organization/grid-ai
-            joined: '2023-09-30'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/pytorch-lightning
           - item:
-            name: Meta (member)
+            name: Meta Platforms, Inc. (member)
             homepage_url: https://meta.com/
-            logo: meta.svg
+            logo: meta_platforms_inc.svg
+            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that 
+              provides various products to connect and share.
             crunchbase: https://www.crunchbase.com/organization/facebook
-            joined: '2022-07-31'
+            twitter: https://twitter.com/Meta
+            extra:
+              linkedin_url: https://www.linkedin.com/company/facebook
           - item:
-            name: Microsoft (member)
-            homepage_url: https://azure.microsoft.com/
-            logo: microsoft-azure.svg
-            crunchbase: https://www.crunchbase.com/organization/azure
-            joined: '2022-07-31'
+            name: Microsoft Corporation (member)
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, 
+              manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft 
+              HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            twitter: https://twitter.com/Microsoft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
-            name: NVIDIA  (member)
-            homepage_url: https://www.nvidia.com/en-us/ai-data-science/
-            logo: nvidia.svg
+            name: NVIDIA Corporation (member)
+            homepage_url: https://nvidia.com/
+            logo: nvidia_corporation.svg
+            description: Founded in 1993, NVIDIA is an AI computing company. The company is headquartered in Santa Clara, California.
             crunchbase: https://www.crunchbase.com/organization/nvidia
-            joined: '2022-07-31' 
+            twitter: https://twitter.com/nvidia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nvidia
           - item:
-            name: Snowflake (member)
+            name: Qualcomm, Inc. (member)
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            description: |-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+
+              --- Merged Data:
+
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+            twitter: https://twitter.com/Qualcomm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/firethorn
+          - item:
+            name: Snowflake Inc. (member)
             homepage_url: https://snowflake.com/
-            logo: snowflake.svg
-            crunchbase: https://www.crunchbase.com/organization/snowflake
-            joined: '2023-10-31'
+            logo: snowflake_inc.svg
+            description: Snowflake Inc. is a cloud-based data-warehousing startup that was founded in 2012.
+            crunchbase: https://www.crunchbase.com/organization/snowflake-computing
+            twitter: https://twitter.com/SnowflakeDB
+            extra:
+              linkedin_url: https://www.linkedin.com/company/snowflake-computing
       - subcategory:
         name: General
         items:
           - item:
             name: Graphcore (member)
-            homepage_url: https://www.graphcore.ai/
+            homepage_url: https://graphcore.ai/
             logo: graphcore.svg
+            description: Graphcore is a semiconductor company that develops accelerators for AI and machine learning.
             crunchbase: https://www.crunchbase.com/organization/graphcore
-            joined: '2023-07-31'
+            twitter: https://twitter.com/graphcoreai
+            extra:
+              linkedin_url: https://www.linkedin.com/company/graphcore
           - item:
             name: Rebellions (member)
             homepage_url: https://rebellions.ai/
             logo: rebellions.svg
-            crunchbase: https://www.crunchbase.com/organization/rebellions-ai
-            joined: '2024-10-31'
+            description: Rebellions revolutionizes AI silicon with rebellious compute power and energy-efficient semiconductor solutions.
+            organization:
+              name: Rebellions
+              linkedin: https://www.linkedin.com/company/rebellions-ai
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rebellions-ai
       - subcategory:
         name: Associate
         items:
           - item:
-            name: Bayero University Kano (member)
-            homepage_url: https://buk.edu.ng/home
-            logo: bayero.svg
-            crunchbase: https://www.crunchbase.com/organization/bayero-university-kano
-            joined: '2023-06-30'
-          - item:
-            name: Beijing Academy of Artificial Intelligence (member)
+            name: Beijing Academy of Artificial Intelligence aka Zhiyuan Institute (member)
             homepage_url: https://baai.ac.cn/
-            logo: baai.svg
+            logo: beijing_academy_of_artificial_intelligence_aka_zhiyuan_institute.svg
+            description: Established in November 2018 in Beijing, China, the Beijing Academy of Artificial Intelligence (BAAI) is a non-profit research institute dedicated to 
+              promoting collaboration among academia and industries, as well as fostering top talents and a focus on lo
             crunchbase: https://www.crunchbase.com/organization/baai
-            joined: '2024-10-31'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/baaibeijing
+          - item:
+            name: Carnegie Mellon University (member)
+            homepage_url: https://cmu.edu/
+            logo: carnegie_mellon_university.svg
+            description: 'Carnegie Mellon University is a private research university in Pittsburgh, Pennsylvania. Carnegie Mellon has seven colleges and independent schools: the Carnegie
+              Institute of Technology (engineering), College of Fine Arts, Dietrich College of Humanities and Social Sciences, Mellon College of Science, Tepper School of Business, H.
+              John Heinz III College and the School of Computer Science. The College is recognized for its world-class arts and technology programs, collaboration across disciplines
+              and innovative leadership in education.'
+            crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
+            twitter: https://twitter.com/CarnegieMellon
+            extra:
+              linkedin_url: https://www.linkedin.com/company/carnegie-mellon-university
           - item:
             name: Columbia University (member)
-            homepage_url: https://www.columbia.edu/
-            logo: columbia-university.svg
+            homepage_url: https://columbia.edu/
+            logo: columbia_university.svg
+            description: Columbia University in the City of New York is a private university in the United States and a member of the Ivy League. The University has 25,000 
+              students.
             crunchbase: https://www.crunchbase.com/organization/columbia-university
-            joined: '2024-10-31'
+            twitter: https://twitter.com/Columbia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/columbia-university
           - item:
-            name: Common Crawl (member)
+            name: Common Crawl Foundation (member)
             homepage_url: https://commoncrawl.org/
-            logo: common-crawl.svg
+            logo: common_crawl_foundation.svg
+            description: Common Crawl is a non-profit foundation that aims to democratize access to web information by producing and maintaining an open repository of web crawl 
+              data.
             crunchbase: https://www.crunchbase.com/organization/common-crawl
-            joined: '2024-12-31'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/common-crawl
+          - item:
+            name: Imam Abdulrahman Bin Faisal University (member)
+            homepage_url: https://iau.edu.sa/
+            logo: imam_abdulrahman_bin_faisal_university.svg
+            description: Imam Abdulrahman Bin Faisal University (IAU) is a leading government university in Saudi Arabia with a rich history dating back to 1975. Offering a wide 
+              range of academic programs across 19 colleges and 85 specializations, IAU is dedicated to providing...
+            organization:
+              name: Imam Abdulrahman Bin Faisal University
           - item:
             name: Instituto Tecnológico de La Piedad (member)
             homepage_url: https://piedad.tecnm.mx/
-            logo: dodlf.jpg
-            crunchbase: 
-            joined: '2024-12-31'
+            logo: instituto_tecnologico_de_la_piedad.svg
+            description: TecNM is Mexico's largest Technological Higher Education Institution, providing innovative educational programs to nearly 600,000 students across 254 
+              campuses.
+            organization:
+              name: Instituto Tecnológico de La Piedad
+              linkedin: https://www.linkedin.com/company/technmm3x
+            extra:
+              linkedin_url: https://www.linkedin.com/company/technmm3x
           - item:
-            name: Imam Abdulrahman Bin Faisal University (member)
-            homepage_url: https://www.iau.edu.sa/en
-            logo: iabfu.svg
-            crunchbase: 
-            joined: '2025-01-31'
+            name: Monash University (member)
+            homepage_url: https://monash.edu/
+            logo: monash_university.svg
+            description: Monash University is a public research university based in Melbourne, Australia.
+            crunchbase: https://www.crunchbase.com/organization/monash-university
+            twitter: https://twitter.com/MonashUni
+            extra:
+              linkedin_url: https://www.linkedin.com/company/monash-university
           - item:
-            name: Indian Institute of Technology Jodhpur (member)
-            homepage_url: https://www.iitj.ac.in/
-            logo: iit.png
-            crunchbase:
-            joined: '2025-01-31'
+            name: One Fact Foundation (member)
+            homepage_url: https://onefact.org/
+            logo: one_fact_foundation.svg
+            description: We build transparent data and technology to better the choices people and policymakers can make to improve health.
+            twitter: https://twitter.com/onefact_org
+            organization:
+              name: One Fact Foundation
+              linkedin: https://www.linkedin.com/company/onefact
+            extra:
+              linkedin_url: https://www.linkedin.com/company/onefact
           - item:
-            name: onefact.org (member)
-            homepage_url: https://www.onefact.org/
-            logo: onefact.svg
-            crunchbase:
-            joined: '2024-03-31'
+            name: PROM, IIT Rajasthan (member)
+            homepage_url: https://iitj.ac.in/
+            logo: prom_iit_rajasthan.svg
+            description: IIT Jodhpur is an educational institution that aims to develop long-term relationships with firms in the domains of knowledge, innovation, and research.
+            crunchbase: https://www.crunchbase.com/organization/indian-institute-of-technology-jodhpur
           - item:
             name: Rensselaer Polytechnic Institute (member)
-            homepage_url: https://www.rpi.edu/
-            logo: rensselaer.png
+            homepage_url: https://rpi.edu/
+            logo: rensselaer_polytechnic_institute.svg
+            description: Rensselaer Polytechnic Institute is a private research university located in Troy, New York. The university is one among a small group of polytechnic 
+              universities in the United States which tend to be primarily devoted to the instruction of technical arts and applied sciences.
             crunchbase: https://www.crunchbase.com/organization/rensselaer-polytechnic-institute
-            joined: '2024-12-31'
+            twitter: https://twitter.com/rpi
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rensselaer-polytechnic-institute
           - item:
             name: Texas A&M University (member)
-            homepage_url: https://www.tamu.edu/index.html
-            logo: texas-am.svg
+            homepage_url: https://tamu.edu/
+            logo: texas_a_m_university.svg
+            description: Texas A&M University is a public research university in College Station, Texas.
             crunchbase: https://www.crunchbase.com/organization/texas-a-m-university
-            joined: '2024-06-30'
+            twitter: https://twitter.com/TAMU
+            extra:
+              linkedin_url: https://www.linkedin.com/company/texas-a&m-university
+          - item:
+            name: The Iheme Isaac Foundation (member)
+            homepage_url: https://isaacihemefoundation.org/
+            logo: the_iheme_isaac_foundation.svg
+            organization:
+              name: The Iheme Isaac Foundation
           - item:
             name: University of California, Irvine (member)
             homepage_url: https://uci.edu/
-            logo: university-california.svg
+            logo: university_of_california_irvine.svg
+            description: |-
+              The University of California, Irvine is a public research university located in Irvine, California and one of the 10 general campuses in the University of California system. University of California, Irvine is considered a Public Ivy and offers 80 undergraduate degrees and 98 graduate and professional degrees.
+
+              --- Merged Data:
+
+              The University of California, Irvine is a public research university in Irvine, California.
             crunchbase: https://www.crunchbase.com/organization/university-of-california-irvine
-            joined: '2024-11-30'
+            twitter: https://twitter.com/UCIrvine
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-university-of-tampa
+          - item:
+            name: University of Leicester (member)
+            homepage_url: https://le.ac.uk/
+            logo: university_of_leicester.svg
+            description: University of Leicester
+            crunchbase: https://www.crunchbase.com/organization/university-of-leicester
+            twitter: https://twitter.com/uniofleicester
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-leicester
           - item:
             name: William Carey University (member)
-            homepage_url: https://www.wmcarey.edu/index
-            logo: william-carey.svg
+            homepage_url: https://wmcarey.edu/
+            logo: william_carey_university.svg
+            description: William Carey University guides students in finding their higher calling, excelling in scholarship, leadership, and service to inspire positive change 
+              globally.
             crunchbase: https://www.crunchbase.com/organization/william-carey-university-hattiesburg
-            joined: '2023-12-31'
           - item:
             name: World Ethical Data Foundation (member)
             homepage_url: https://worldethicaldata.org/
-            logo: wedf.png
-            crunchbase:
-            joined: '2024-04-30'
-
+            logo: world_ethical_data_foundation.svg
+            description: World Ethical Data Foundation is a non-profit organization that examines the opportunities and problems arising from the development of technologies that 
+              are opening unprecedented possibilities for knowledge and influence.
+            twitter: https://twitter.com/WEDF_foundation
+            organization:
+              name: World Ethical Data Foundation
+              linkedin: https://www.linkedin.com/company/world-ethical-data-forum
+            extra:
+              linkedin_url: https://www.linkedin.com/company/world-ethical-data-forum
