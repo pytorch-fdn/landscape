@@ -128,7 +128,7 @@ landscape:
             homepage_url: https://github.com/Lightning-AI/litgpt
             logo: LitGPT Light Mode.svg
             repo_url: https://github.com/Lightning-AI/litgpt
-            crunchbase:
+            crunchbase: null
           - item:
             name: OpenCompass
             description: OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ 
@@ -856,7 +856,7 @@ landscape:
             homepage_url: https://github.com/FlagOpen/FlagGems
             logo: FlagGems_logo.svg
             repo_url: https://github.com/FlagOpen/FlagGems
-            crunchbase:
+            crunchbase: null
           - item:
             name: Glow
             description: Glow is a machine learning compiler and execution engine for hardware accelerators. It is designed to be used as a backend for high-level machine learning 
