@@ -7,6 +7,7 @@ on:
   pull_request_target:
     branches:
       - main
+      - master
     paths:
       - 'landscape.yml'
       - 'hosted_logos/*'
@@ -17,9 +18,9 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github-script@v7
+      - uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7.0.1
         env:
-          LANDSCAPE_URL: 'https://pytorch.landscape2.io'
+          LANDSCAPE_URL: 'https://landscape.pytorch.org'
           DATA_FILE: 'landscape.yml'
           LOGOS_PATH: 'hosted_logos'
           OWNER: ${{ github.event.pull_request.head.repo.owner.login }}
