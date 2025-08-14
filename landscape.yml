@@ -968,6 +968,20 @@ landscape:
         name: Foundation
         items:
           - item:
+            name: PyTorch
+            project: foundation
+            second_path:
+              - Training / General
+            description: PyTorch is an open source machine learning framework that accelerates the path from research prototyping to production deployment.
+            homepage_url: https://pytorch.org/
+            logo: pytorch-logo.svg
+            repo_url: https://github.com/pytorch/pytorch
+            crunchbase: https://www.crunchbase.com/organization/pytorch
+            extra:
+              accepted: '2022-09-07'
+              annotations:
+                slug: ptproject
+          - item:
             name: DeepSpeed
             project: foundation
             second_path:
