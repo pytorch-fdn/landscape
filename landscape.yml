@@ -1003,7 +1003,7 @@ landscape:
             name: PyTorch
             project: foundation
             second_path:
-              - Optimizations / Distributed
+              - Training / General
             description: PyTorch is an open source machine learning framework that accelerates the path from research prototyping to production deployment.
             homepage_url: https://pytorch.org/
             logo: pytorch-logo.svg
