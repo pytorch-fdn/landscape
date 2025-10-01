@@ -1215,6 +1215,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/common-crawl
           - item:
+            name: iit guwahati (member)
+            homepage_url: https://iitg.ac.in/
+            logo: iit_guwahati.svg
+            description: Indian Institute of Technology Guwahati is a public technical and research university established by the Government of India, located in Guwahati, in the state of Assam in India.
+            crunchbase: https://www.crunchbase.com/organization/indian-institute-of-technology-guwahati
+            twitter: https://twitter.com/IITGuwahati
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iitg
+          - item:
             name: Imam Abdulrahman Bin Faisal University (member)
             homepage_url: https://iau.edu.sa/
             logo: imam_abdulrahman_bin_faisal_university.svg
@@ -1225,7 +1234,7 @@ landscape:
             name: Instituto Tecnológico de La Piedad (member)
             homepage_url: https://piedad.tecnm.mx/
             logo: instituto_tecnologico_de_la_piedad.svg
-            description: TecNM is Mexico's largest Technological Higher Education Institution, providing innovative educational programs to nearly 600,000 students across 254 campuses.
+            description: Tecnológico Nacional de México is the largest technological higher education institution in Mexico, serving nearly 600,000 students across 254 campuses.
             organization:
               name: Instituto Tecnológico de La Piedad
               linkedin: https://www.linkedin.com/company/technmm3x
