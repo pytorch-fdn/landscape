@@ -1049,6 +1049,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
+            name:  Dell Technologies (member)
+            homepage_url: https://www.dell.com/en-us
+            logo: dell_technologies.svg
+            description: Dell Technologies is an American multinational technology company that provides personal computers, servers, monitors, computer software, computer security and network security, as well as information security services. Dell Technologies has a robust ecosystem of component and assembly partners and also relies heavily on channel partners to fulfilits sales.
+            crunchbase: https://www.crunchbase.com/organization/dell-technologies
+            facebook: https://www.facebook.com/DellTechnologies/
+            extra:
+              linkedin_url: https://www.linkedin.com/company/delltechnologies/
+          - item:
             name: Google LLC (member)
             homepage_url: https://google.com/
             logo: google_llc.svg
