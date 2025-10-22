@@ -20,6 +20,13 @@ landscape:
             repo_url: https://github.com/openvinotoolkit/anomalib
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
+            name: DeepInverse
+            description: DeepInverse is a PyTorch-based library for solving imaging inverse problems with deep learning.
+            homepage_url: https://deepinv.github.io/
+            logo: deepinverse.svg
+            repo_url: https://github.com/deepinv/deepinv 
+            crunchbase: 
+          - item:
             name: Detectron2
             description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
             homepage_url: https://detectron2.readthedocs.io/en/latest/
