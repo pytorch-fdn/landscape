@@ -24,8 +24,8 @@ landscape:
             description: DeepInverse is a PyTorch-based library for solving imaging inverse problems with deep learning.
             homepage_url: https://deepinv.github.io/
             logo: deepinverse.svg
-            repo_url: https://github.com/deepinv/deepinv 
-            crunchbase: 
+            repo_url: https://github.com/deepinv/deepinv
+            crunchbase: null
           - item:
             name: Detectron2
             description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
@@ -1056,14 +1056,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name:  Dell Technologies (member)
-            homepage_url: https://www.dell.com/en-us
-            logo: dell-stacked.svg
-            description: Dell Technologies is an American multinational technology company that provides personal computers, servers, monitors, computer software, computer security and network security, as well as information security services. Dell Technologies has a robust ecosystem of component and assembly partners and also relies heavily on channel partners to fulfilits sales.
-            crunchbase: https://www.crunchbase.com/organization/dell-technologies
-            facebook: https://www.facebook.com/DellTechnologies/
+            name: Dell Technologies (member)
+            homepage_url: https://delltechnologies.com/
+            logo: dell_technologies.svg
+            description: Dell Technologies provides digital technology solutions, products, and services including consulting, deployment, education and residency services, payment solutions, cloud services, and more. Dell Technologies is headquartered in Round Rock, Texas
+            crunchbase: https://www.crunchbase.com/organization/dell
+            twitter: https://twitter.com/Dell
             extra:
-              linkedin_url: https://www.linkedin.com/company/delltechnologies/
+              linkedin_url: https://www.linkedin.com/company/delltechnologies
           - item:
             name: Google LLC (member)
             homepage_url: https://google.com/
@@ -1231,6 +1231,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/common-crawl
           - item:
+            name: iit guwahati (member)
+            homepage_url: https://iitg.ac.in/
+            logo: iit_guwahati.svg
+            description: Indian Institute of Technology Guwahati is a public technical and research university established by the Government of India, located in Guwahati, in the state of Assam in India.
+            crunchbase: https://www.crunchbase.com/organization/indian-institute-of-technology-guwahati
+            twitter: https://twitter.com/IITGuwahati
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iitg
+          - item:
             name: Imam Abdulrahman Bin Faisal University (member)
             homepage_url: https://iau.edu.sa/
             logo: imam_abdulrahman_bin_faisal_university.svg
@@ -1241,7 +1250,7 @@ landscape:
             name: Instituto Tecnológico de La Piedad (member)
             homepage_url: https://piedad.tecnm.mx/
             logo: instituto_tecnologico_de_la_piedad.svg
-            description: TecNM is Mexico's largest Technological Higher Education Institution, providing innovative educational programs to nearly 600,000 students across 254 campuses.
+            description: Tecnológico Nacional de México is the largest technological higher education institution in Mexico, serving nearly 600,000 students across 254 campuses.
             organization:
               name: Instituto Tecnológico de La Piedad
               linkedin: https://www.linkedin.com/company/technmm3x
