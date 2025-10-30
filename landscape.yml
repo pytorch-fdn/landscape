@@ -927,6 +927,13 @@ landscape:
             repo_url: https://github.com/determined-ai/determined
             crunchbase: https://www.crunchbase.com/organization/determined-ai
           - item:
+            name: Feast
+            description: Feast is an open source feature store that delivers structured data to AI and LLM applications at scale for training and inference.
+            homepage_url: https://feast.dev/ 
+            logo: feast.svg
+            repo_url: https://github.com/feast-dev/feast 
+            crunchbase: 
+          - item:
             name: forte
             description: Forte is a flexible and powerful ML workflow builder.
             homepage_url: https://github.com/asyml/forte
