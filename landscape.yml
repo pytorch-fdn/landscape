@@ -743,6 +743,13 @@ landscape:
             repo_url: https://github.com/arogozhnikov/einops
             crunchbase: https://www.crunchbase.com/organization/chai-discovery
           - item:
+            name: LMCache
+            description: LMCache is an LLM serving engine extension that combines with vLLM or SGLang to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations, including (GPU, CPU DRAM, Local Disk, Databases), LMCache reuses the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces user response delay.
+            homepage_url: https://lmcache.ai/ 
+            logo: LMCache.svg
+            repo_url: https://github.com/LMCache  
+            crunchbase: 
+          - item:
             name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
             homepage_url: https://docs.sglang.ai/
