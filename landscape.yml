@@ -2,6 +2,16 @@ landscape:
   - category:
     name: Modeling
     subcategories:
+      - subcategory: 
+        name: AI for Science and Engineering
+        items: 
+          - item:
+            name: NeuralOperator
+            description: NeuralOperator is a comprehensive library for learning neural operators in PyTorch. It is the official implementation for Fourier Neural Operators and Tensorized Neural Operators.
+            homepage_url: https://neuraloperator.github.io/dev/index.html 
+            logo: neuraloperator.svg
+            repo_url: https://github.com/neuraloperator/neuraloperator 
+            crunchbase: 
       - subcategory:
         name: Computer Vision
         items:
