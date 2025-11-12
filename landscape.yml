@@ -2,6 +2,16 @@ landscape:
   - category:
     name: Modeling
     subcategories:
+      - subcategory: 
+        name: AI for Science and Engineering
+        items: 
+          - item:
+            name: NeuralOperator
+            description: NeuralOperator is a comprehensive library for learning neural operators in PyTorch. It is the official implementation for Fourier Neural Operators and Tensorized Neural Operators.
+            homepage_url: https://neuraloperator.github.io/dev/index.html 
+            logo: neuraloperator.svg
+            repo_url: https://github.com/neuraloperator/neuraloperator 
+            crunchbase: 
       - subcategory:
         name: Computer Vision
         items:
@@ -700,13 +710,6 @@ landscape:
         name: Distributed
         items:
           - item:
-            name: Ray
-            description: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-            homepage_url: https://github.com/ray-project/ray
-            logo: ray.svg
-            repo_url: https://github.com/ray-project/ray
-            crunchbase: https://www.crunchbase.com/organization/anyscale
-          - item:
             name: Kubeflow Trainer
             description: Kubeflow Trainer is a Kubernetes-native project enabling scalable, distributed training of AI models and purpose-built for fine-tuning large language models (LLMs). It simplifies the scale-out of training workloads on multiple nodes, managing large datasets efficiently, and ensuring fault-tolerance.
             homepage_url: https://www.kubeflow.org/docs/components/trainer/
@@ -1022,6 +1025,20 @@ landscape:
               accepted: '2025-04-08'
               annotations:
                 slug: deepspeed
+          - item:
+            name: Ray
+            project: foundation
+            second_path:
+              - Optimizations / Distributed
+            description: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+            homepage_url: https://github.com/ray-project/ray
+            logo: Ray-updated.png
+            repo_url: https://github.com/ray-project/ray
+            crunchbase: 
+            extra:
+              accepted: '2025-09-01'
+              annotations:
+                slug: Ray
           - item:
             name: vLLM
             project: foundation
