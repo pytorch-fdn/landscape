@@ -12,6 +12,13 @@ landscape:
             logo: neuraloperator.svg
             repo_url: https://github.com/neuraloperator/neuraloperator 
             crunchbase: 
+          - item:
+            name: PINA
+            description: PINA is an open-source library designed to simplify and accelerate the development of Scientific Machine Learning solutions.
+            homepage_url: https://github.com/mathLab/PINA 
+            logo: PINA.svg
+            repo_url: https://github.com/mathLab/PINA 
+            crunchbase: 
       - subcategory:
         name: Computer Vision
         items:
