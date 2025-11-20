@@ -114,7 +114,7 @@ landscape:
             homepage_url: https://vissl.ai/
             logo: vissl.svg
             project: archived
-            repo_url: https://github.com/facebookresearch/vissl/graphs/commit-activity
+            repo_url: https://github.com/facebookresearch/vissl
             crunchbase: https://www.crunchbase.com/organization/facebook
       - subcategory:
         name: Language
