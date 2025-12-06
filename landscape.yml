@@ -2,23 +2,23 @@ landscape:
   - category:
     name: Modeling
     subcategories:
-      - subcategory: 
+      - subcategory:
         name: AI for Science and Engineering
-        items: 
+        items:
           - item:
             name: NeuralOperator
             description: NeuralOperator is a comprehensive library for learning neural operators in PyTorch. It is the official implementation for Fourier Neural Operators and Tensorized Neural Operators.
-            homepage_url: https://neuraloperator.github.io/dev/index.html 
+            homepage_url: https://neuraloperator.github.io/dev/index.html
             logo: neuraloperator.svg
-            repo_url: https://github.com/neuraloperator/neuraloperator 
-            crunchbase: 
+            repo_url: https://github.com/neuraloperator/neuraloperator
+            crunchbase: null
           - item:
             name: PINA
             description: PINA is an open-source library designed to simplify and accelerate the development of Scientific Machine Learning solutions.
-            homepage_url: https://github.com/mathLab/PINA 
+            homepage_url: https://github.com/mathLab/PINA
             logo: PINA.svg
-            repo_url: https://github.com/mathLab/PINA 
-            crunchbase: 
+            repo_url: https://github.com/mathLab/PINA
+            crunchbase: null
       - subcategory:
         name: Computer Vision
         items:
@@ -41,8 +41,8 @@ landscape:
             description: DeepInverse is a PyTorch-based library for solving imaging inverse problems with deep learning.
             homepage_url: https://deepinv.github.io/
             logo: deepinverse.svg
-            repo_url: https://github.com/deepinv/deepinv 
-            crunchbase: 
+            repo_url: https://github.com/deepinv/deepinv
+            crunchbase: null
           - item:
             name: Detectron2
             description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
@@ -755,10 +755,10 @@ landscape:
           - item:
             name: LMCache
             description: LMCache is an LLM serving engine extension that combines with vLLM or SGLang to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations, including (GPU, CPU DRAM, Local Disk, Databases), LMCache reuses the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces user response delay.
-            homepage_url: https://lmcache.ai/ 
+            homepage_url: https://lmcache.ai/
             logo: LMCache.svg
-            repo_url: https://github.com/LMCache  
-            crunchbase: 
+            repo_url: https://github.com/LMCache
+            crunchbase: null
           - item:
             name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
@@ -946,10 +946,10 @@ landscape:
           - item:
             name: Feast
             description: Feast is an open source feature store that delivers structured data to AI and LLM applications at scale for training and inference.
-            homepage_url: https://feast.dev/ 
+            homepage_url: https://feast.dev/
             logo: feast.svg
-            repo_url: https://github.com/feast-dev/feast 
-            crunchbase: 
+            repo_url: https://github.com/feast-dev/feast
+            crunchbase: null
           - item:
             name: forte
             description: Forte is a flexible and powerful ML workflow builder.
@@ -1041,7 +1041,7 @@ landscape:
             homepage_url: https://github.com/ray-project/ray
             logo: Ray-updated.png
             repo_url: https://github.com/ray-project/ray
-            crunchbase: 
+            crunchbase: null
             extra:
               accepted: '2025-09-01'
               annotations:
@@ -1088,20 +1088,20 @@ landscape:
             name: Arm Limited (member)
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK
             crunchbase: https://www.crunchbase.com/organization/arm
             twitter: https://twitter.com/ArmCommunity
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name:  Dell Technologies (member)
-            homepage_url: https://www.dell.com/en-us
-            logo: dell-stacked.svg
-            description: Dell Technologies is an American multinational technology company that provides personal computers, servers, monitors, computer software, computer security and network security, as well as information security services. Dell Technologies has a robust ecosystem of component and assembly partners and also relies heavily on channel partners to fulfilits sales.
-            crunchbase: https://www.crunchbase.com/organization/dell-technologies
-            facebook: https://www.facebook.com/DellTechnologies/
+            name: Dell Technologies (member)
+            homepage_url: https://delltechnologies.com/
+            logo: dell_technologies.svg
+            description: Dell Technologies provides digital technology solutions, products, and services including consulting, deployment, education and residency services, payment solutions, cloud services, and more. Dell Technologies is headquartered in Round Rock, Texas
+            crunchbase: https://www.crunchbase.com/organization/dell
+            twitter: https://twitter.com/Dell
             extra:
-              linkedin_url: https://www.linkedin.com/company/delltechnologies/
+              linkedin_url: https://www.linkedin.com/company/delltechnologies
           - item:
             name: Google LLC (member)
             homepage_url: https://google.com/
@@ -1261,6 +1261,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/columbia-university
           - item:
+            name: CommonAI C.I.C. (member)
+            homepage_url: https://commonai.org/
+            logo: commonai_c_i_c.svg
+            description: CommonAI focuses on assisting organizations in leveraging artificial intelligence by providing managed open source development services.
+            organization:
+              name: CommonAI C.I.C.
+          - item:
             name: Common Crawl Foundation (member)
             homepage_url: https://commoncrawl.org/
             logo: common_crawl_foundation.svg
@@ -1268,6 +1275,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/common-crawl
             extra:
               linkedin_url: https://www.linkedin.com/company/common-crawl
+          - item:
+            name: iit guwahati (member)
+            homepage_url: https://iitg.ac.in/
+            logo: iit_guwahati.svg
+            description: Indian Institute of Technology Guwahati is a public technical and research university established by the Government of India, located in Guwahati, in the state of Assam in India.
+            crunchbase: https://www.crunchbase.com/organization/indian-institute-of-technology-guwahati
+            twitter: https://twitter.com/IITGuwahati
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iitg
           - item:
             name: Imam Abdulrahman Bin Faisal University (member)
             homepage_url: https://iau.edu.sa/
@@ -1279,7 +1295,7 @@ landscape:
             name: Instituto Tecnológico de La Piedad (member)
             homepage_url: https://piedad.tecnm.mx/
             logo: instituto_tecnologico_de_la_piedad.svg
-            description: TecNM is Mexico's largest Technological Higher Education Institution, providing innovative educational programs to nearly 600,000 students across 254 campuses.
+            description: Tecnológico Nacional de México is the largest technological higher education institution in Mexico, serving nearly 600,000 students across 254 campuses.
             organization:
               name: Instituto Tecnológico de La Piedad
               linkedin: https://www.linkedin.com/company/technmm3x
