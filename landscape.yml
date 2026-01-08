@@ -1163,11 +1163,6 @@ landscape:
 
               --- Merged Data:
 
-              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
-            crunchbase: https://www.crunchbase.com/organization/qualcomm
-            twitter: https://twitter.com/Qualcomm
-            extra:
-              linkedin_url: https://www.linkedin.com/company/firethorn
           - item:
             name: Snowflake Inc. (member)
             homepage_url: https://snowflake.com/
@@ -1210,8 +1205,11 @@ landscape:
             name: Qualcomm, Inc. (member)
             homepage_url: https://qualcomm.com/
             logo: qualcomm_inc.svg
-            description: |-
-              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+            description: Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+            twitter: https://twitter.com/Qualcomm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/firethorn
       - subcategory:
         name: Silver
         items:
