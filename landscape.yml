@@ -2,23 +2,23 @@ landscape:
   - category:
     name: Modeling
     subcategories:
-      - subcategory: 
+      - subcategory:
         name: AI for Science and Engineering
-        items: 
+        items:
           - item:
             name: NeuralOperator
             description: NeuralOperator is a comprehensive library for learning neural operators in PyTorch. It is the official implementation for Fourier Neural Operators and Tensorized Neural Operators.
-            homepage_url: https://neuraloperator.github.io/dev/index.html 
+            homepage_url: https://neuraloperator.github.io/dev/index.html
             logo: neuraloperator.svg
-            repo_url: https://github.com/neuraloperator/neuraloperator 
-            crunchbase: 
+            repo_url: https://github.com/neuraloperator/neuraloperator
+            crunchbase: null
           - item:
             name: PINA
             description: PINA is an open-source library designed to simplify and accelerate the development of Scientific Machine Learning solutions.
-            homepage_url: https://github.com/mathLab/PINA 
+            homepage_url: https://github.com/mathLab/PINA
             logo: PINA.svg
-            repo_url: https://github.com/mathLab/PINA 
-            crunchbase: 
+            repo_url: https://github.com/mathLab/PINA
+            crunchbase: null
       - subcategory:
         name: Computer Vision
         items:
@@ -41,8 +41,8 @@ landscape:
             description: DeepInverse is a PyTorch-based library for solving imaging inverse problems with deep learning.
             homepage_url: https://deepinv.github.io/
             logo: deepinverse.svg
-            repo_url: https://github.com/deepinv/deepinv 
-            crunchbase: 
+            repo_url: https://github.com/deepinv/deepinv
+            crunchbase: null
           - item:
             name: Detectron2
             description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
@@ -755,10 +755,10 @@ landscape:
           - item:
             name: LMCache
             description: LMCache is an LLM serving engine extension that combines with vLLM or SGLang to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations, including (GPU, CPU DRAM, Local Disk, Databases), LMCache reuses the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces user response delay.
-            homepage_url: https://lmcache.ai/ 
+            homepage_url: https://lmcache.ai/
             logo: LMCache.svg
-            repo_url: https://github.com/LMCache/LMCache  
-            crunchbase: 
+            repo_url: https://github.com/LMCache/LMCache
+            crunchbase: null
           - item:
             name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
@@ -946,10 +946,10 @@ landscape:
           - item:
             name: Feast
             description: Feast is an open source feature store that delivers structured data to AI and LLM applications at scale for training and inference.
-            homepage_url: https://feast.dev/ 
+            homepage_url: https://feast.dev/
             logo: feast.svg
-            repo_url: https://github.com/feast-dev/feast 
-            crunchbase: 
+            repo_url: https://github.com/feast-dev/feast
+            crunchbase: null
           - item:
             name: forte
             description: Forte is a flexible and powerful ML workflow builder.
@@ -1041,7 +1041,7 @@ landscape:
             homepage_url: https://github.com/ray-project/ray
             logo: Ray-updated.png
             repo_url: https://github.com/ray-project/ray
-            crunchbase: 
+            crunchbase: null
             extra:
               accepted: '2025-09-01'
               annotations:
@@ -1064,175 +1064,20 @@ landscape:
     name: PyTorch Members
     subcategories:
       - subcategory:
-        name: Platinum
+        name: Premier
         items:
-          - item:
-            name: Advanced Micro Devices (AMD) (member)
-            homepage_url: https://amd.com/
-            logo: advanced_micro_devices_amd.svg
-            description: For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for gaming, immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are focused on building great products that push the boundaries of what is possible.
-            crunchbase: https://www.crunchbase.com/organization/amd
-            twitter: https://twitter.com/AMD
-            extra:
-              linkedin_url: https://www.linkedin.com/company/amd
-          - item:
-            name: Amazon Web Services, Inc. (member)
-            homepage_url: https://amazon.com/
-            logo: amazon_web_services_inc.svg
-            description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-            twitter: https://twitter.com/amazon
-            extra:
-              linkedin_url: https://www.linkedin.com/company/amazon
-          - item:
-            name: Arm Limited (member)
-            homepage_url: https://arm.com/
-            logo: arm_limited.svg
-            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
-            crunchbase: https://www.crunchbase.com/organization/arm
-            twitter: https://twitter.com/ArmCommunity
-            extra:
-              linkedin_url: https://www.linkedin.com/company/arm
-          - item:
-            name: Google LLC (member)
-            homepage_url: https://google.com/
-            logo: google_llc.svg
-            description: Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search engine, software, cloud computing, and advertising technologies.
-            crunchbase: https://www.crunchbase.com/organization/google
-            twitter: https://twitter.com/Google
-            extra:
-              linkedin_url: https://www.linkedin.com/company/google
-          - item:
-            name: Huawei Technologies Co., Ltd (member)
-            homepage_url: https://huawei.com/
-            logo: huawei_technologies_co.svg
-            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
-            crunchbase: https://www.crunchbase.com/organization/huawei
-            twitter: https://twitter.com/Huawei
-            extra:
-              linkedin_url: https://www.linkedin.com/company/huawei
-          - item:
-            name: Intel Corporation (member)
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
-            crunchbase: https://www.crunchbase.com/organization/intel
-            twitter: https://twitter.com/intel
-            extra:
-              linkedin_url: https://www.linkedin.com/company/intel-corporation
-          - item:
-            name: International Business Machines Corporation (member)
-            homepage_url: https://ibm.com/
-            logo: international_business_machines_corporation.svg
-            description: |-
-              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.
-
-              --- Merged Data:
-
-              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
-            crunchbase: https://www.crunchbase.com/organization/ibm
-            twitter: https://twitter.com/IBM
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ibm
-          - item:
-            name: Lightning AI (member)
-            homepage_url: https://lightning.ai/
-            logo: lightning_ai.svg
-            description: Lightning AI is a platform that allows you to train, deploy, and build AI models quickly using PyTorch Lightning.
-            crunchbase: https://www.crunchbase.com/organization/grid-ai
-            extra:
-              linkedin_url: https://www.linkedin.com/company/pytorch-lightning
           - item:
             name: Meta Platforms, Inc. (member)
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            description: |-
-              Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
+            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
             crunchbase: https://www.crunchbase.com/organization/facebook
             twitter: https://twitter.com/Meta
             extra:
               linkedin_url: https://www.linkedin.com/company/facebook
-          - item:
-            name: NVIDIA Corporation (member)
-            homepage_url: https://nvidia.com/
-            logo: nvidia_corporation.svg
-            description: Founded in 1993, NVIDIA is an AI computing company. The company is headquartered in Santa Clara, California.
-            crunchbase: https://www.crunchbase.com/organization/nvidia
-            twitter: https://twitter.com/nvidia
-            extra:
-              linkedin_url: https://www.linkedin.com/company/nvidia
-
-              --- Merged Data:
-
-          - item:
-            name: Snowflake Inc. (member)
-            homepage_url: https://snowflake.com/
-            logo: snowflake_inc.svg
-            description: Snowflake Inc. is a cloud-based data-warehousing startup that was founded in 2012.
-            crunchbase: https://www.crunchbase.com/organization/snowflake-computing
-            twitter: https://twitter.com/SnowflakeDB
-            extra:
-              linkedin_url: https://www.linkedin.com/company/snowflake-computing
       - subcategory:
-        name: Gold
-        items:
-          - item:
-            name:  Dell Technologies (member)
-            homepage_url: https://www.dell.com/en-us
-            logo: dell-stacked.svg
-            description: Dell Technologies is an American multinational technology company that provides personal computers, servers, monitors, computer software, computer security and network security, as well as information security services. Dell Technologies has a robust ecosystem of component and assembly partners and also relies heavily on channel partners to fulfilits sales.
-            crunchbase: https://www.crunchbase.com/organization/dell-technologies
-            facebook: https://www.facebook.com/DellTechnologies/
-            extra:
-              linkedin_url: https://www.linkedin.com/company/delltechnologies/
-          - item:
-            name: Hugging Face Inc (member)
-            homepage_url: https://huggingface.co/
-            logo: hugging_face_inc.svg
-            description: Hugging Face is a community that advances and democratizes artificial intelligence through open source and open science.
-            crunchbase: https://www.crunchbase.com/organization/hugging-face
-            extra:
-              linkedin_url: https://www.linkedin.com/company/huggingface
-          - item:
-            name: Microsoft Corporation (member)
-            homepage_url: https://microsoft.com/
-            logo: microsoft_corporation.svg
-            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
-            crunchbase: https://www.crunchbase.com/organization/microsoft
-            twitter: https://twitter.com/Microsoft
-            extra:
-              linkedin_url: https://www.linkedin.com/company/microsoft
-          - item:
-            name: Qualcomm, Inc. (member)
-            homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
-            description: Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
-            crunchbase: https://www.crunchbase.com/organization/qualcomm
-            twitter: https://twitter.com/Qualcomm
-            extra:
-              linkedin_url: https://www.linkedin.com/company/firethorn
-      - subcategory:
-        name: Silver
-        items:
-          - item:
-            name: Graphcore (member)
-            homepage_url: https://graphcore.ai/
-            logo: graphcore.svg
-            description: Graphcore is a semiconductor company that develops accelerators for AI and machine learning.
-            crunchbase: https://www.crunchbase.com/organization/graphcore
-            twitter: https://twitter.com/graphcoreai
-            extra:
-              linkedin_url: https://www.linkedin.com/company/graphcore
-          - item:
-            name: Rebellions (member)
-            homepage_url: https://rebellions.ai/
-            logo: rebellions.svg
-            description: Rebellions revolutionizes AI silicon with rebellious compute power and energy-efficient semiconductor solutions.
-            organization:
-              name: Rebellions
-              linkedin: https://www.linkedin.com/company/rebellions-ai
-            extra:
-              linkedin_url: https://www.linkedin.com/company/rebellions-ai
+        name: General
+        items: []
       - subcategory:
         name: Associate
         items:
@@ -1263,6 +1108,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/columbia-university
           - item:
+            name: CommonAI C.I.C. (member)
+            homepage_url: https://commonai.org/
+            logo: commonai_c_i_c.svg
+            description: CommonAI focuses on assisting organizations in leveraging artificial intelligence by providing managed open source development services.
+            organization:
+              name: CommonAI C.I.C.
+          - item:
             name: Common Crawl Foundation (member)
             homepage_url: https://commoncrawl.org/
             logo: common_crawl_foundation.svg
@@ -1270,6 +1122,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/common-crawl
             extra:
               linkedin_url: https://www.linkedin.com/company/common-crawl
+          - item:
+            name: iit guwahati (member)
+            homepage_url: https://iitg.ac.in/
+            logo: iit_guwahati.svg
+            description: Indian Institute of Technology Guwahati is a public technical and research university established by the Government of India, located in Guwahati, in the state of Assam in India.
+            crunchbase: https://www.crunchbase.com/organization/indian-institute-of-technology-guwahati
+            twitter: https://twitter.com/IITGuwahati
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iitg
           - item:
             name: Imam Abdulrahman Bin Faisal University (member)
             homepage_url: https://iau.edu.sa/
@@ -1281,7 +1142,7 @@ landscape:
             name: Instituto Tecnológico de La Piedad (member)
             homepage_url: https://piedad.tecnm.mx/
             logo: instituto_tecnologico_de_la_piedad.svg
-            description: TecNM is Mexico's largest Technological Higher Education Institution, providing innovative educational programs to nearly 600,000 students across 254 campuses.
+            description: Tecnológico Nacional de México is the largest technological higher education institution in Mexico, serving nearly 600,000 students across 254 campuses.
             organization:
               name: Instituto Tecnológico de La Piedad
               linkedin: https://www.linkedin.com/company/technmm3x
