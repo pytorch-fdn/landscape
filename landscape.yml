@@ -1064,7 +1064,7 @@ landscape:
     name: PyTorch Members
     subcategories:
       - subcategory:
-        name: Premier
+        name: Platinum
         items:
           - item:
             name: Advanced Micro Devices (AMD) (member)
@@ -1094,15 +1094,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name:  Dell Technologies (member)
-            homepage_url: https://www.dell.com/en-us
-            logo: dell-stacked.svg
-            description: Dell Technologies is an American multinational technology company that provides personal computers, servers, monitors, computer software, computer security and network security, as well as information security services. Dell Technologies has a robust ecosystem of component and assembly partners and also relies heavily on channel partners to fulfilits sales.
-            crunchbase: https://www.crunchbase.com/organization/dell-technologies
-            facebook: https://www.facebook.com/DellTechnologies/
-            extra:
-              linkedin_url: https://www.linkedin.com/company/delltechnologies/
-          - item:
             name: Google LLC (member)
             homepage_url: https://google.com/
             logo: google_llc.svg
@@ -1120,14 +1111,6 @@ landscape:
             twitter: https://twitter.com/Huawei
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
-          - item:
-            name: Hugging Face Inc (member)
-            homepage_url: https://huggingface.co/
-            logo: hugging_face_inc.svg
-            description: Hugging Face is a community that advances and democratizes artificial intelligence through open source and open science.
-            crunchbase: https://www.crunchbase.com/organization/hugging-face
-            extra:
-              linkedin_url: https://www.linkedin.com/company/huggingface
           - item:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
@@ -1170,15 +1153,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/facebook
           - item:
-            name: Microsoft Corporation (member)
-            homepage_url: https://microsoft.com/
-            logo: microsoft_corporation.svg
-            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
-            crunchbase: https://www.crunchbase.com/organization/microsoft
-            twitter: https://twitter.com/Microsoft
-            extra:
-              linkedin_url: https://www.linkedin.com/company/microsoft
-          - item:
             name: NVIDIA Corporation (member)
             homepage_url: https://nvidia.com/
             logo: nvidia_corporation.svg
@@ -1187,20 +1161,9 @@ landscape:
             twitter: https://twitter.com/nvidia
             extra:
               linkedin_url: https://www.linkedin.com/company/nvidia
-          - item:
-            name: Qualcomm, Inc. (member)
-            homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
-            description: |-
-              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
 
               --- Merged Data:
 
-              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
-            crunchbase: https://www.crunchbase.com/organization/qualcomm
-            twitter: https://twitter.com/Qualcomm
-            extra:
-              linkedin_url: https://www.linkedin.com/company/firethorn
           - item:
             name: Snowflake Inc. (member)
             homepage_url: https://snowflake.com/
@@ -1211,7 +1174,45 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/snowflake-computing
       - subcategory:
-        name: General
+        name: Gold
+        items:
+          - item:
+            name:  Dell Technologies (member)
+            homepage_url: https://www.dell.com/en-us
+            logo: dell-stacked.svg
+            description: Dell Technologies is an American multinational technology company that provides personal computers, servers, monitors, computer software, computer security and network security, as well as information security services. Dell Technologies has a robust ecosystem of component and assembly partners and also relies heavily on channel partners to fulfilits sales.
+            crunchbase: https://www.crunchbase.com/organization/dell-technologies
+            facebook: https://www.facebook.com/DellTechnologies/
+            extra:
+              linkedin_url: https://www.linkedin.com/company/delltechnologies/
+          - item:
+            name: Hugging Face Inc (member)
+            homepage_url: https://huggingface.co/
+            logo: hugging_face_inc.svg
+            description: Hugging Face is a community that advances and democratizes artificial intelligence through open source and open science.
+            crunchbase: https://www.crunchbase.com/organization/hugging-face
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huggingface
+          - item:
+            name: Microsoft Corporation (member)
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            twitter: https://twitter.com/Microsoft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microsoft
+          - item:
+            name: Qualcomm, Inc. (member)
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            description: Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+            twitter: https://twitter.com/Qualcomm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/firethorn
+      - subcategory:
+        name: Silver
         items:
           - item:
             name: Graphcore (member)
