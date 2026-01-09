@@ -1,9 +1,11 @@
 slug: pytorch
 landscapeMemberClasses:
-   - name: Premier Membership
-     category: Premier
-   - name: General Membership
-     category: General
+   - name: Platinum Membership
+     category: Platinum
+   - name: Gold Membership
+     category: Gold
+   - name: Silver Membership
+     category: Silver
    - name: Associate Membership
      category: Associate
 project: a092M00001LkQdtQAF
