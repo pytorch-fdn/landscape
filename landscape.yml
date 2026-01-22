@@ -1233,6 +1233,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/rebellions-ai
             extra:
               linkedin_url: https://www.linkedin.com/company/rebellions-ai
+          - item:
+            name: yasp (member)
+            homepage_url: https://yasp.ai/
+            logo: yasp.svg
+            description: yasp is a cutting-edge technology to drive innovation, efficiency, and security.
+            crunchbase: https://www.crunchbase.com/organization/yasp
+            linkedin: https://www.linkedin.com/company/yasp-ai/
+            extra:
+              linkedin_url: https://www.linkedin.com/company/yasp-ai/
       - subcategory:
         name: Associate
         items:
