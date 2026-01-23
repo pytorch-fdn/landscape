@@ -966,6 +966,13 @@ landscape:
             repo_url: https://github.com/facebookresearch/hydra
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
+            name: Kubetorch
+            description: Kubetorch is a fast, Pythonic Interface for Running ML Workloads on Kubernetes
+            homepage_url: https://github.com/run-house/kubetorch
+            logo: kubetorch.svg
+            repo_url: https://github.com/run-house/kubetorch
+            crunchbase: https://www.crunchbase.com/organization/runhouse 
+          - item:
             name: padl
             description: A pipeline builder for PyTorch.
             homepage_url: https://lf1-io.github.io/padl/latest/
