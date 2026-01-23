@@ -760,6 +760,13 @@ landscape:
             repo_url: https://github.com/LMCache/LMCache  
             crunchbase: 
           - item:
+            name: Mooncake
+            description: Mooncake is a KVCache-centric Disaggregated Architecture for LLM Serving
+            homepage_url: https://kvcache-ai.github.io/Mooncake/
+            logo: mooncake.svg
+            repo_url: https://github.com/kvcache-ai/Mooncake
+            crunchbase: 
+          - item:
             name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
             homepage_url: https://docs.sglang.ai/
