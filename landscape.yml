@@ -1259,7 +1259,7 @@ landscape:
           - item:
             name: Nota AI (member)
             homepage_url: https://www.nota.ai/
-            logo: NotaAI.svg
+            logo: nota-ai.svg
             description: Hardware-aware AI optimization and edge AI solutions.
             crunchbase: 
             linkedin: https://www.linkedin.com/company/notaai/
