@@ -1256,6 +1256,15 @@ landscape:
             linkedin: https://www.linkedin.com/company/yasp-ai/
             extra:
               linkedin_url: https://www.linkedin.com/company/yasp-ai/
+          - item:
+            name: Nota AI (member)
+            homepage_url: https://www.nota.ai/
+            logo: NotaAI.svg
+            description: Hardware-aware AI optimization and edge AI solutions.
+            crunchbase: 
+            linkedin: https://www.linkedin.com/company/notaai/
+            extra:
+              linkedin_url: https://www.linkedin.com/company/notaai/
       - subcategory:
         name: Associate
         items:
