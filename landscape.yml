@@ -1265,7 +1265,7 @@ landscape:
             linkedin: https://www.linkedin.com/company/notaai/
             extra:
               linkedin_url: https://www.linkedin.com/company/notaai/
-           - item:
+          - item:
             name: NIPA (member)
             homepage_url: https://www.nipa.kr/
             logo: nipa.svg
