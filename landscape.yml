@@ -1265,6 +1265,15 @@ landscape:
             linkedin: https://www.linkedin.com/company/notaai/
             extra:
               linkedin_url: https://www.linkedin.com/company/notaai/
+           - item:
+            name: NIPA (member)
+            homepage_url: https://www.nipa.kr/
+            logo: nipa.svg
+            description: NIPA improves the technical competitiveness of small-to-medium-sized businesses.
+            crunchbase: 
+            linkedin: https://www.linkedin.com/company/national-it-industry-promotion-agency/
+            extra:
+              linkedin_url: https://www.linkedin.com/company/national-it-industry-promotion-agency/
       - subcategory:
         name: Associate
         items:
@@ -1328,6 +1337,13 @@ landscape:
             twitter: https://twitter.com/MonashUni
             extra:
               linkedin_url: https://www.linkedin.com/company/monash-university
+          - item:
+            name: CommonAI C.I.C. (member)
+            homepage_url: https://commonai.org/
+            logo: commonai.svg
+            description: CommonAI focuses on assisting organizations in leveraging artificial intelligence by providing managed open source development services.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/commonai/
           - item:
             name: One Fact Foundation (member)
             homepage_url: https://onefact.org/
