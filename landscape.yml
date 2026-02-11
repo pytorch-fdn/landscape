@@ -62,6 +62,7 @@ landscape:
             description: A high-performing and accessible library for OCR related tasks powered by PyTorch and TensorFlow 2.
             homepage_url: https://mindee.github.io/doctr/
             logo: doctr.svg
+            project: archived
             repo_url: https://github.com/mindee/doctr
             crunchbase: https://www.crunchbase.com/organization/mindee
           - item:
