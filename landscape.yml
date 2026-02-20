@@ -1275,6 +1275,15 @@ landscape:
       - subcategory:
         name: Silver
         items:
+         - item:
+            name: Emmi AI (member)
+            homepage_url: https://www.emmi.ai/
+            logo: emmi-ai.svg
+            description: Large Engineering Models are pre-trained engineering intelligence that replace solvers, work everywhere, and deliver instant physics-accurate results for entire verticals.
+            crunchbase: https://www.crunchbase.com/organization/emmi-ai
+            linkedin_url: https://www.linkedin.com/company/emmiai/ 
+            extra:
+              linkedin_url: https://www.linkedin.com/company/emmiai/
           - item:
             name: Graphcore (member)
             homepage_url: https://graphcore.ai/
