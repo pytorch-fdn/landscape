@@ -1357,7 +1357,7 @@ landscape:
             crunchbase: 
             extra:
               twitter: 
-           - item:
+          - item:
             name: Messiah University
             homepage_url: https://messiah.edu/
             logo: messiah-university.svg
