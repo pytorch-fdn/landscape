@@ -1342,6 +1342,22 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/baaibeijing
           - item:
+            name: Messiah University (member)
+            homepage_url: https://messiah.edu/
+            logo: messiah-university.svg
+            description: Messiah College is a private Christian college of the liberal arts and applied arts and sciences located in Mechanicsburg, Pennsylvania. 
+            crunchbase: https://www.crunchbase.com/organization/messiah-college
+            extra:
+              twitter: https://x.com/messiah_univ
+          - item:
+            name: SKOPOS INDIA FOUNDATION (member)
+            homepage_url: https://incoban.org/skopos/
+            logo: skopos-india-foundation.svg
+            description: Skopos is a non-profit social enterprise, registered under section 8 of The Companies Act, 2013. It engages beyond the role of a think-tank and acts as a platform with representation from industry-academia, practitioners, professional and industry bodies, retired bureaucrats, and industry veterans.
+            crunchbase: 
+            extra:
+              twitter: 
+          - item:
             name: Carnegie Mellon University (member)
             homepage_url: https://cmu.edu/
             logo: carnegie_mellon_university.svg
