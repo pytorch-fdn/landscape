@@ -1401,6 +1401,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/technmm3x
           - item:
+            name: LightSeek Foundation (member)
+            homepage_url: https://lightseek.org
+            logo: lightseek.svg
+            description: LightSeek Foundation is a 501(c)(3) nonprofit organization advancing open research and open-source innovation for the next generation of artificial intelligence systems. We believe the future of AI should be transparent, collaborative, and inclusive. LightSeek exists to accelerate the development of open, efficient, and trustworthy AI systems—so that progress in AI benefits everyone, not just a few.
+            organization:
+              name:  LightSeek Foundation
+              linkedin: https://www.linkedin.com/company/lightseek/
+            extra:
+              twitter: https://x.com/lightseekorg
+          - item:
             name: Monash University (member)
             homepage_url: https://monash.edu/
             logo: monash_university.svg
