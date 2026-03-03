@@ -1,10 +1,10 @@
 slug: pytorch
 landscapeMemberClasses:
-   - name: Platinum Membership
+   - name: Platinum
      category: Platinum
-   - name: Gold Membership
+   - name: Gold
      category: Gold
-   - name: Silver Membership
+   - name: Silver
      category: Silver
    - name: Associate Membership
      category: Associate

@@ -2,30 +2,30 @@ landscape:
   - category:
     name: Modeling
     subcategories:
-      - subcategory: 
+      - subcategory:
         name: AI for Science and Engineering
-        items: 
+        items:
           - item:
             name: NeuralOperator
             description: NeuralOperator is a comprehensive library for learning neural operators in PyTorch. It is the official implementation for Fourier Neural Operators and Tensorized Neural Operators.
-            homepage_url: https://neuraloperator.github.io/dev/index.html 
+            homepage_url: https://neuraloperator.github.io/dev/index.html
             logo: neuraloperator.svg
-            repo_url: https://github.com/neuraloperator/neuraloperator 
-            crunchbase: 
+            repo_url: https://github.com/neuraloperator/neuraloperator
+            crunchbase: null
           - item:
             name: PhysicsNeMo
             description: PhysicsNeMo is an open source deep learning framework for building, fine tuning, and inferring Physics AI models using state-of-the-art SciML methods for AI4Science and engineering.
-            homepage_url: https://developer.nvidia.com/physicsnemo 
+            homepage_url: https://developer.nvidia.com/physicsnemo
             logo: physicsnemo.svg
-            repo_url: https://github.com/NVIDIA/physicsnemo 
-            crunchbase: 
+            repo_url: https://github.com/NVIDIA/physicsnemo
+            crunchbase: null
           - item:
             name: PINA
             description: PINA is an open-source library designed to simplify and accelerate the development of Scientific Machine Learning solutions.
-            homepage_url: https://github.com/mathLab/PINA 
+            homepage_url: https://github.com/mathLab/PINA
             logo: PINA.svg
-            repo_url: https://github.com/mathLab/PINA 
-            crunchbase: 
+            repo_url: https://github.com/mathLab/PINA
+            crunchbase: null
       - subcategory:
         name: Computer Vision
         items:
@@ -49,8 +49,8 @@ landscape:
             description: DeepInverse is a PyTorch-based library for solving imaging inverse problems with deep learning.
             homepage_url: https://deepinv.github.io/
             logo: deepinverse.svg
-            repo_url: https://github.com/deepinv/deepinv 
-            crunchbase: 
+            repo_url: https://github.com/deepinv/deepinv
+            crunchbase: null
           - item:
             name: Detectron2
             description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
@@ -813,20 +813,20 @@ landscape:
             logo: litserve.svg
             repo_url: https://github.com/Lightning-AI/LitServe
             crunchbase: https://www.crunchbase.com/organization/grid-ai
-            item:
-          - name: LMCache
+          - item:
+            name: LMCache
             description: LMCache is an LLM serving engine extension that combines with vLLM or SGLang to reduce TTFT and increase throughput, especially under long-context scenarios. By storing the KV caches of reusable texts across various locations, including (GPU, CPU DRAM, Local Disk, Databases), LMCache reuses the KV caches of any reused text (not necessarily prefix) in any serving engine instance. Thus, LMCache saves precious GPU cycles and reduces user response delay.
-            homepage_url: https://lmcache.ai/ 
+            homepage_url: https://lmcache.ai/
             logo: LMCache.svg
-            repo_url: https://github.com/LMCache/LMCache  
-            crunchbase: 
+            repo_url: https://github.com/LMCache/LMCache
+            crunchbase: null
           - item:
             name: Mooncake
             description: Mooncake is a KVCache-centric Disaggregated Architecture for LLM Serving
             homepage_url: https://kvcache-ai.github.io/Mooncake/
             logo: mooncake.svg
             repo_url: https://github.com/kvcache-ai/Mooncake
-            crunchbase: 
+            crunchbase: null
           - item:
             name: neural-compressor
             description: An open-source Python library supporting popular model compression techniques on all deep learning frameworks.
@@ -999,10 +999,10 @@ landscape:
           - item:
             name: Feast
             description: Feast is an open source feature store that delivers structured data to AI and LLM applications at scale for training and inference.
-            homepage_url: https://feast.dev/ 
+            homepage_url: https://feast.dev/
             logo: feast.svg
-            repo_url: https://github.com/feast-dev/feast 
-            crunchbase: 
+            repo_url: https://github.com/feast-dev/feast
+            crunchbase: null
           - item:
             name: forte
             description: Forte is a flexible and powerful ML workflow builder.
@@ -1024,7 +1024,7 @@ landscape:
             homepage_url: https://github.com/run-house/kubetorch
             logo: kubetorch.svg
             repo_url: https://github.com/run-house/kubetorch
-            crunchbase: https://www.crunchbase.com/organization/runhouse 
+            crunchbase: https://www.crunchbase.com/organization/runhouse
           - item:
             name: padl
             description: A pipeline builder for PyTorch.
@@ -1102,7 +1102,7 @@ landscape:
             homepage_url: https://github.com/ray-project/ray
             logo: Ray-updated.png
             repo_url: https://github.com/ray-project/ray
-            crunchbase: 
+            crunchbase: null
             extra:
               accepted: '2025-09-01'
               annotations:
@@ -1149,7 +1149,7 @@ landscape:
             name: Arm Limited (member)
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK
             crunchbase: https://www.crunchbase.com/organization/arm
             twitter: https://twitter.com/ArmCommunity
             extra:
@@ -1207,8 +1207,7 @@ landscape:
             name: Meta Platforms, Inc. (member)
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            description: |-
-              Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
+            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
             crunchbase: https://www.crunchbase.com/organization/facebook
             twitter: https://twitter.com/Meta
             extra:
@@ -1222,9 +1221,6 @@ landscape:
             twitter: https://twitter.com/nvidia
             extra:
               linkedin_url: https://www.linkedin.com/company/nvidia
-
-              --- Merged Data:
-
           - item:
             name: Snowflake Inc. (member)
             homepage_url: https://snowflake.com/
@@ -1238,14 +1234,14 @@ landscape:
         name: Gold
         items:
           - item:
-            name:  Dell Technologies (member)
-            homepage_url: https://www.dell.com/en-us
-            logo: dell-stacked.svg
-            description: Dell Technologies is an American multinational technology company that provides personal computers, servers, monitors, computer software, computer security and network security, as well as information security services. Dell Technologies has a robust ecosystem of component and assembly partners and also relies heavily on channel partners to fulfilits sales.
-            crunchbase: https://www.crunchbase.com/organization/dell-technologies
-            facebook: https://www.facebook.com/DellTechnologies/
+            name: Dell Technologies (member)
+            homepage_url: https://delltechnologies.com/
+            logo: dell_technologies.svg
+            description: Dell Technologies provides digital technology solutions, products, and services including consulting, deployment, education and residency services, payment solutions, cloud services, and more. Dell Technologies is headquartered in Round Rock, Texas
+            crunchbase: https://www.crunchbase.com/organization/dell
+            twitter: https://twitter.com/Dell
             extra:
-              linkedin_url: https://www.linkedin.com/company/delltechnologies/
+              linkedin_url: https://www.linkedin.com/company/delltechnologies
           - item:
             name: Hugging Face Inc (member)
             homepage_url: https://huggingface.co/
@@ -1267,7 +1263,12 @@ landscape:
             name: Qualcomm, Inc. (member)
             homepage_url: https://qualcomm.com/
             logo: qualcomm_inc.svg
-            description: Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+            description: |-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+
+              --- Merged Data:
+
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
             crunchbase: https://www.crunchbase.com/organization/qualcomm
             twitter: https://twitter.com/Qualcomm
             extra:
@@ -1275,6 +1276,24 @@ landscape:
       - subcategory:
         name: Silver
         items:
+          - item:
+            name: Clockwork.io (member)
+            homepage_url: https://clockwork.io/
+            logo: clockwork.svg
+            description: |-
+              Build Time-Sensitive applications with Clockwork's high accuracy common time service.
+
+              Company used to be known as TickTock
+            crunchbase: https://www.crunchbase.com/organization/clockwork-systems
+            extra:
+              linkedin_url: https://www.linkedin.com/company/clockwork-systems-inc
+          - item:
+            name: Emmi AI (member)
+            homepage_url: https://emmi.ai/
+            logo: emmi_ai.svg
+            description: Large Engineering Models are pre-trained engineering intelligence that replace solvers, work everywhere, and deliver instant physics-accurate results for entire verticals.
+            organization:
+              name: Emmi AI
           - item:
             name: Graphcore (member)
             homepage_url: https://graphcore.ai/
@@ -1285,14 +1304,26 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/graphcore
           - item:
-            name: Emmi AI (member)
-            homepage_url: https://www.emmi.ai/
-            logo: emmi-ai.svg
-            description: Large Engineering Models are pre-trained engineering intelligence that replace solvers, work everywhere, and deliver instant physics-accurate results for entire verticals.
-            crunchbase: https://www.crunchbase.com/organization/emmi-ai
-            linkedin_url: https://www.linkedin.com/company/emmiai/ 
-            extra:
-              linkedin_url: https://www.linkedin.com/company/emmiai/
+            name: LightSeek Foundation (member)
+            homepage_url: https://lightseek.org/
+            logo: lightseek_foundation.svg
+            description: Example Next.js Notion Starter Kit Site
+            organization:
+              name: LightSeek Foundation
+          - item:
+            name: NIPA (member)
+            homepage_url: https://nipa.kr/
+            logo: nipa.svg
+            description: ICT산업 경쟁력 제고와 성장동력 육성으로 경제발전과 국민 삶의 질 향상에 기여하는 ICT 산업혁신 전문기관
+            crunchbase: https://www.crunchbase.com/organization/national-it-industry-promotion-agency
+            twitter: https://twitter.com/NIPAkr
+          - item:
+            name: Nota Inc. (member)
+            homepage_url: https://nota.ai/
+            logo: nota_inc.svg
+            description: Nota AI offers a proprietary platform for hardware-aware AI optimization that automates the development of lightweight AI models, enhancing edge AI performance while minimizing memory usage and computational demands.
+            organization:
+              name: Nota Inc.
           - item:
             name: Rebellions (member)
             homepage_url: https://rebellions.ai/
@@ -1304,32 +1335,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/rebellions-ai
           - item:
-            name: yasp (member)
+            name: Yasp.ai (member)
             homepage_url: https://yasp.ai/
             logo: yasp.svg
-            description: yasp is a cutting-edge technology to drive innovation, efficiency, and security.
-            crunchbase: https://www.crunchbase.com/organization/yasp
-            linkedin: https://www.linkedin.com/company/yasp-ai/
-            extra:
-              linkedin_url: https://www.linkedin.com/company/yasp-ai/
-          - item:
-            name: Nota AI (member)
-            homepage_url: https://www.nota.ai/
-            logo: nota-ai.svg
-            description: Hardware-aware AI optimization and edge AI solutions.
-            crunchbase: 
-            linkedin: https://www.linkedin.com/company/notaai/
-            extra:
-              linkedin_url: https://www.linkedin.com/company/notaai/
-          - item:
-            name: NIPA (member)
-            homepage_url: https://www.nipa.kr/
-            logo: nipa.svg
-            description: NIPA improves the technical competitiveness of small-to-medium-sized businesses.
-            crunchbase: 
-            linkedin: https://www.linkedin.com/company/national-it-industry-promotion-agency/
-            extra:
-              linkedin_url: https://www.linkedin.com/company/national-it-industry-promotion-agency/
+            organization:
+              name: Yasp.ai
       - subcategory:
         name: Associate
         items:
@@ -1341,22 +1351,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/baai
             extra:
               linkedin_url: https://www.linkedin.com/company/baaibeijing
-          - item:
-            name: Messiah University (member)
-            homepage_url: https://messiah.edu/
-            logo: messiah-university.svg
-            description: Messiah College is a private Christian college of the liberal arts and applied arts and sciences located in Mechanicsburg, Pennsylvania. 
-            crunchbase: https://www.crunchbase.com/organization/messiah-college
-            extra:
-              twitter: https://x.com/messiah_univ
-          - item:
-            name: SKOPOS INDIA FOUNDATION (member)
-            homepage_url: https://incoban.org/skopos/
-            logo: skopos-india-foundation.svg
-            description: Skopos is a non-profit social enterprise, registered under section 8 of The Companies Act, 2013. It engages beyond the role of a think-tank and acts as a platform with representation from industry-academia, practitioners, professional and industry bodies, retired bureaucrats, and industry veterans.
-            crunchbase: 
-            extra:
-              twitter: 
           - item:
             name: Carnegie Mellon University (member)
             homepage_url: https://cmu.edu/
@@ -1376,6 +1370,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/columbia-university
           - item:
+            name: CommonAI C.I.C. (member)
+            homepage_url: https://commonai.org/
+            logo: commonai_c_i_c.svg
+            description: CommonAI focuses on assisting organizations in leveraging artificial intelligence by providing managed open source development services.
+            organization:
+              name: CommonAI C.I.C.
+          - item:
             name: Common Crawl Foundation (member)
             homepage_url: https://commoncrawl.org/
             logo: common_crawl_foundation.svg
@@ -1394,20 +1395,21 @@ landscape:
             name: Instituto Tecnológico de La Piedad (member)
             homepage_url: https://piedad.tecnm.mx/
             logo: instituto_tecnologico_de_la_piedad.svg
-            description: TecNM is Mexico's largest Technological Higher Education Institution, providing innovative educational programs to nearly 600,000 students across 254 campuses.
+            description: Tecnológico Nacional de México is the largest technological higher education institution in Mexico, serving nearly 600,000 students across 254 campuses.
             organization:
               name: Instituto Tecnológico de La Piedad
               linkedin: https://www.linkedin.com/company/technmm3x
             extra:
               linkedin_url: https://www.linkedin.com/company/technmm3x
           - item:
-            name: LightSeek Foundation (member)
-            homepage_url: https://lightseek.org
-            logo: lightseek.svg
-            description: LightSeek Foundation is a 501(c)(3) nonprofit organization advancing open research and open-source innovation for the next generation of artificial intelligence systems. We believe the future of AI should be transparent, collaborative, and inclusive. LightSeek exists to accelerate the development of open, efficient, and trustworthy AI systems—so that progress in AI benefits everyone, not just a few.
-            twitter : https://x.com/lightseekorg
+            name: Messiah University (member)
+            homepage_url: https://messiah.edu/
+            logo: messiah_university.svg
+            description: Messiah College is a private Christian college of the liberal arts and applied arts and sciences located in Mechanicsburg, Pennsylvania. Messiah College was founded in 1909 by the Brethren in Christ Church, and was originally called Messiah Bible School and Missionary Training Home. Originally located in Harrisburg, Pa., in the home of Messiah's first president, Samuel Rogers (S.R.) Smith, a local businessman and leader in the Brethren in Christ Church, the school was moved to the village of Grantham in 1911 following the construction of the campus' first building, Old Main. By the 1950s, the school offered four-year college programs and accordingly in 1951 it changed its name to Messiah College. Messiah discontinued its high school program in 1959 and added liberal arts programs during this period. It was accredited as a four-year college in 1963, and continued to expand its liberal arts programs. Even though it is no longer owned by the Brethren in Christ Church, Messiah continues to be influenced by its traditions primarily in the Anabaptist, but also the Pietist and Wesleyan holiness movements. Today, Messiah College is a nondenominational Christian college, with a faith base that is broadly evangelical and includes students and employees from a variety of denominations and Christian faith traditions.
+            crunchbase: https://www.crunchbase.com/organization/messiah-college
+            twitter: https://twitter.com/messiahsab
             extra:
-              linkedin_url: https://www.linkedin.com/company/lightseek
+              linkedin_url: https://www.linkedin.com/edu/messiah-college-20111
           - item:
             name: Monash University (member)
             homepage_url: https://monash.edu/
@@ -1417,13 +1419,6 @@ landscape:
             twitter: https://twitter.com/MonashUni
             extra:
               linkedin_url: https://www.linkedin.com/company/monash-university
-          - item:
-            name: CommonAI C.I.C. (member)
-            homepage_url: https://commonai.org/
-            logo: commonai.svg
-            description: CommonAI focuses on assisting organizations in leveraging artificial intelligence by providing managed open source development services.
-            extra:
-              linkedin_url: https://www.linkedin.com/company/commonai/
           - item:
             name: One Fact Foundation (member)
             homepage_url: https://onefact.org/
@@ -1450,6 +1445,23 @@ landscape:
             twitter: https://twitter.com/rpi
             extra:
               linkedin_url: https://www.linkedin.com/company/rensselaer-polytechnic-institute
+          - item:
+            name: Siksha 'O' Anusandhan (member)
+            homepage_url: https://soa.ac.in/
+            logo: siksha_o_anusandhan.svg
+            description: Siksha 'O' Anusandhan (SOA) Deemed to be University, located in Bhubaneswar, Odisha, is a prestigious institution accredited with an 'A++' grade by NAAC. Recognized internationally by QS and THE World University Rankings 2023, SOA offers a wide range o...
+            organization:
+              name: Siksha 'O' Anusandhan
+          - item:
+            name: SKOPOS INDIA FOUNDATION (member)
+            homepage_url: https://incoban.org/
+            logo: skopos_india_foundation.svg
+            description: InCoBAN is an ecosystem that possesses leadership qualities as an industry improvement initiative, positioned to tackle the absolute challenges that the Indian Construction Sector grapples with, impacting the livelihoods of over 60 to 70 million indivi...
+            organization:
+              name: SKOPOS INDIA FOUNDATION
+              linkedin: https://www.linkedin.com/company/incoban
+            extra:
+              linkedin_url: https://www.linkedin.com/company/incoban
           - item:
             name: Texas A&M University (member)
             homepage_url: https://tamu.edu/
