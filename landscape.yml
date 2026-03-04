@@ -1307,7 +1307,9 @@ landscape:
             name: LightSeek Foundation (member)
             homepage_url: https://lightseek.org/
             logo: lightseek_foundation.svg
-            description: Example Next.js Notion Starter Kit Site
+            description: LightSeek Foundation is a 501(c)(3) nonprofit organization advancing open research and open-source innovation for the next generation of artificial intelligence systems. We believe the future of AI should be transparent, collaborative, and inclusive. LightSeek exists to accelerate the development of open, efficient, and trustworthy AI systems—so that progress in AI benefits everyone, not just a few.
+            twitter: https://twitter.com/NIPAkr
+            linkedin_url: https://www.linkedin.com/company/lightseek/
             organization:
               name: LightSeek Foundation
           - item:
