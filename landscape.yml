@@ -583,6 +583,13 @@ landscape:
             logo: Torchmetrics.svg
             repo_url: https://github.com/Lightning-AI/torchmetrics
             crunchbase: https://www.crunchbase.com/organization/grid-ai
+          - item:
+            name: Unsloth
+            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM. 
+            homepage_url: https://unsloth.ai/
+            logo: unsloth.svg
+            repo_url: https://github.com/unslothai/unsloth   
+            crunchbase: https://www.crunchbase.com/organization/unsloth-ai
       - subcategory:
         name: Probabilistic & Optimization
         items:
