@@ -585,10 +585,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/grid-ai
           - item:
             name: Unsloth
-            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM. 
+            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM.
             homepage_url: https://unsloth.ai/
             logo: unsloth.svg
-            repo_url: https://github.com/unslothai/unsloth   
+            repo_url: https://github.com/unslothai/unsloth
             crunchbase: https://www.crunchbase.com/organization/unsloth-ai
       - subcategory:
         name: Probabilistic & Optimization
@@ -1314,9 +1314,7 @@ landscape:
             name: LightSeek Foundation (member)
             homepage_url: https://lightseek.org/
             logo: lightseek_foundation.svg
-            description: LightSeek Foundation is a 501(c)(3) nonprofit organization advancing open research and open-source innovation for the next generation of artificial intelligence systems. We believe the future of AI should be transparent, collaborative, and inclusive. LightSeek exists to accelerate the development of open, efficient, and trustworthy AI systems—so that progress in AI benefits everyone, not just a few.
-            twitter: https://twitter.com/NIPAkr
-            linkedin_url: https://www.linkedin.com/company/lightseek/
+            description: Example Next.js Notion Starter Kit Site
             organization:
               name: LightSeek Foundation
           - item:
