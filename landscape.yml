@@ -259,11 +259,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/spatial-ai
           - item:
             name: PyPOTS
-            description: a Python toolbox for machine learning on Partially-Observed Time Series
+            description: A Python toolkit for reality-centric machine/deep learning and data mining on partially-observed time series, including SOTA neural network models for scientific analysis tasks of imputation/classification/clustering/forecasting/anomaly detection/cleaning on incomplete industrial (irregularly-sampled) multivariate TS with NaN missing values
             homepage_url: https://pypots.com/
             logo: PyPOTS.svg
             repo_url: https://github.com/WenjieDu/PyPOTS
-            crunchbase: https://www.crunchbase.com/organization/concordia-university
+            crunchbase: https://www.crunchbase.com/organization/pypots
           - item:
             name: PyTorchVideo
             description: A deep learning library for video understanding research.
