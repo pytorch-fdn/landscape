@@ -849,6 +849,13 @@ landscape:
             repo_url: https://github.com/intel/neural-compressor
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
+            name: ONNX
+            description: An open standard and ecosystem for interoperable machine learning models across frameworks and runtimes.
+            homepage_url: https://onnx.ai/  
+            logo: onnx.svg
+            repo_url: https://github.com/onnx/onnx    
+            crunchbase: 
+          - item:
             name: tensordict
             description: TensorDict is a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device etc.
             homepage_url: https://pytorch.org/tensordict/stable/index.html
