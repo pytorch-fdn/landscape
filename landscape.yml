@@ -821,6 +821,13 @@ landscape:
             repo_url: https://github.com/ivy-llc/ivy
             crunchbase: https://www.crunchbase.com/organization/ivy
           - item:
+            name: KTransformers
+            description: Efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing.
+            homepage_url: https://kvcache-ai.github.io/ktransformers/ 
+            logo: ktransformers.svg
+            repo_url: https://github.com/kvcache-ai/ktransformers    
+            crunchbase: 
+          - item:
             name: LitServe
             description: LitServe is a flexible serving engine for AI models built on FastAPI.
             homepage_url: https://lightning.ai/docs/litserve/home
