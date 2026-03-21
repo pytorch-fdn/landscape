@@ -150,10 +150,10 @@ landscape:
           - item:
             name: Helion
             description: Helion is a Python-embedded domain-specific language (DSL) for authoring machine learning kernels, designed to compile down to Triton, a performant backend for programming GPUs and other devices.
-            homepage_url: https://helionlang.com/ 
+            homepage_url: https://helionlang.com/
             logo: helion.svg
-            repo_url: https://github.com/pytorch/helion   
-            crunchbase: 
+            repo_url: https://github.com/pytorch/helion
+            crunchbase: null
           - item:
             name: joeynmt
             description: JoeyNMT is a minimalist neural machine translation toolkit for educational purposes.
@@ -299,8 +299,8 @@ landscape:
             description: TorchGeo is a toolkit containing datasets, samplers, transforms, and pre-trained models for geospatial data.
             homepage_url: https://www.osgeo.org/projects/torchgeo/
             logo: TorchGeo.svg
-            repo_url: https://github.com/torchgeo/torchgeo 
-            crunchbase: 
+            repo_url: https://github.com/torchgeo/torchgeo
+            crunchbase: null
       - subcategory:
         name: Medical & Biology
         items:
@@ -592,10 +592,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/grid-ai
           - item:
             name: Unsloth
-            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM. 
+            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM.
             homepage_url: https://unsloth.ai/
             logo: unsloth.svg
-            repo_url: https://github.com/unslothai/unsloth   
+            repo_url: https://github.com/unslothai/unsloth
             crunchbase: https://www.crunchbase.com/organization/unsloth-ai
       - subcategory:
         name: Probabilistic & Optimization
@@ -823,10 +823,10 @@ landscape:
           - item:
             name: KTransformers
             description: Efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing.
-            homepage_url: https://kvcache-ai.github.io/ktransformers/ 
+            homepage_url: https://kvcache-ai.github.io/ktransformers/
             logo: ktransformers.svg
-            repo_url: https://github.com/kvcache-ai/ktransformers    
-            crunchbase: 
+            repo_url: https://github.com/kvcache-ai/ktransformers
+            crunchbase: null
           - item:
             name: LitServe
             description: LitServe is a flexible serving engine for AI models built on FastAPI.
@@ -858,10 +858,10 @@ landscape:
           - item:
             name: ONNX
             description: An open standard and ecosystem for interoperable machine learning models across frameworks and runtimes.
-            homepage_url: https://onnx.ai/  
+            homepage_url: https://onnx.ai/
             logo: onnx.svg
-            repo_url: https://github.com/onnx/onnx    
-            crunchbase: 
+            repo_url: https://github.com/onnx/onnx
+            crunchbase: null
           - item:
             name: tensordict
             description: TensorDict is a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device etc.
@@ -1166,7 +1166,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/amd
           - item:
             name: Amazon Web Services, Inc. (member)
-            homepage_url: https://amazon.com/
+            homepage_url: https://aws.amazon.com/
             logo: amazon_web_services_inc.svg
             description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
@@ -1319,7 +1319,12 @@ landscape:
             name: Emmi AI (member)
             homepage_url: https://emmi.ai/
             logo: emmi_ai.svg
-            description: Large Engineering Models are pre-trained engineering intelligence that replace solvers, work everywhere, and deliver instant physics-accurate results for entire verticals.
+            description: |-
+              Every day, thousands of hours are spent modeling turbulence, simulating fluid flows, heat transfer, structural mechanics - across aviation, energy, semiconductors, automotive, and beyond. These processes follow similar patterns but require different specialized software, creating bottlenecks everywhere.  
+
+              We're changing that. Our deep learning models run simulations in seconds instead of weeks. One architecture, universal application. When simulation becomes instant, everything changes. Engineers explore design spaces that were computationally impossible. Manufacturing lines self-optimize in real-time. Innovation cycles compress from months to days. The constraints that defined engineering for decades simply disappear. 
+
+              We have the three critical ingredients: a scalable modeling paradigm, millions of high-fidelity simulations, and deep domain understanding. Engineering's transformative moment has arrived.
             organization:
               name: Emmi AI
           - item:
@@ -1335,12 +1340,9 @@ landscape:
             name: LightSeek Foundation (member)
             homepage_url: https://lightseek.org/
             logo: lightseek_foundation.svg
-            description: LightSeek Foundation is a 501(c)(3) nonprofit organization advancing open research and open-source innovation for the next generation of artificial intelligence systems. We believe the future of AI should be transparent, collaborative, and inclusive. LightSeek exists to accelerate the development of open, efficient, and trustworthy AI systems—so that progress in AI benefits everyone, not just a few.
-            twitter:  https://x.com/lightseekorg
+            description: Example Next.js Notion Starter Kit Site
             organization:
               name: LightSeek Foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/lightseek/
           - item:
             name: NIPA (member)
             homepage_url: https://nipa.kr/
