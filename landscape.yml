@@ -148,13 +148,6 @@ landscape:
             repo_url: https://github.com/flairNLP/flair
             crunchbase: https://www.crunchbase.com/organization/humboldt-university-of-berlin
           - item:
-            name: Helion
-            description: Helion is a Python-embedded domain-specific language (DSL) for authoring machine learning kernels, designed to compile down to Triton, a performant backend for programming GPUs and other devices.
-            homepage_url: https://helionlang.com/ 
-            logo: helion.svg
-            repo_url: https://github.com/pytorch/helion   
-            crunchbase: 
-          - item:
             name: joeynmt
             description: JoeyNMT is a minimalist neural machine translation toolkit for educational purposes.
             homepage_url: https://joeynmt.readthedocs.io/en/latest/#
@@ -1149,6 +1142,20 @@ landscape:
               accepted: '2025-04-08'
               annotations:
                 slug: vllm
+          - item:
+            name: Helion
+            project: foundation
+            second_path:
+              - Optimizations / Compilers & Runtimes
+            description: Helion is a Python-embedded domain-specific language (DSL) for authoring machine learning kernels.
+            homepage_url: https://helionlang.com/
+            logo: helion.svg
+            repo_url: https://github.com/pytorch/helion
+            crunchbase: 
+            extra:
+              accepted: '2026-04-07'
+              annotations:
+                slug: Helion
   - category:
     name: PyTorch Members
     subcategories:
