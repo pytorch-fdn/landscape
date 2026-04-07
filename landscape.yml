@@ -1149,6 +1149,34 @@ landscape:
               accepted: '2025-04-08'
               annotations:
                 slug: vllm
+          - item:
+            name: Helion
+            project: foundation
+            second_path:
+              - Optimizations / Compilers & Runtimes
+            description: Helion is a Python-embedded domain-specific language (DSL) for authoring machine learning kernels.
+            homepage_url: https://helionlang.com/index.html
+            logo: helion.svg
+            repo_url: https://github.com/pytorch/helion
+            crunchbase: 
+            extra:
+              accepted: '2026-04-07'
+              annotations:
+                slug: Helion
+          - item:
+            name: Safetoners
+            project: foundation
+            second_path:
+              - Optimizations / MLOps
+            description: Safetensors is a new simple format for storing tensors safely (as opposed to pickle) and that is still fast (zero-copy).
+            homepage_url: https://huggingface.co/docs/safetensors/index
+            logo: safetensors.svg
+            repo_url: https://github.com/huggingface/safetensors
+            crunchbase:
+            extra:
+              accepted: '2026-04-08'
+              annotations:
+                slug: Safetoners
   - category:
     name: PyTorch Members
     subcategories:
