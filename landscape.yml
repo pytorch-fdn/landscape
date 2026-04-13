@@ -292,8 +292,8 @@ landscape:
             description: TorchGeo is a toolkit containing datasets, samplers, transforms, and pre-trained models for geospatial data.
             homepage_url: https://www.osgeo.org/projects/torchgeo/
             logo: TorchGeo.svg
-            repo_url: https://github.com/torchgeo/torchgeo 
-            crunchbase: 
+            repo_url: https://github.com/torchgeo/torchgeo
+            crunchbase: null
       - subcategory:
         name: Medical & Biology
         items:
@@ -585,10 +585,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/grid-ai
           - item:
             name: Unsloth
-            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM. 
+            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM.
             homepage_url: https://unsloth.ai/
             logo: unsloth.svg
-            repo_url: https://github.com/unslothai/unsloth   
+            repo_url: https://github.com/unslothai/unsloth
             crunchbase: https://www.crunchbase.com/organization/unsloth-ai
       - subcategory:
         name: Probabilistic & Optimization
@@ -816,10 +816,10 @@ landscape:
           - item:
             name: KTransformers
             description: Efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing.
-            homepage_url: https://kvcache-ai.github.io/ktransformers/ 
+            homepage_url: https://kvcache-ai.github.io/ktransformers/
             logo: ktransformers.svg
-            repo_url: https://github.com/kvcache-ai/ktransformers    
-            crunchbase: 
+            repo_url: https://github.com/kvcache-ai/ktransformers
+            crunchbase: null
           - item:
             name: LitServe
             description: LitServe is a flexible serving engine for AI models built on FastAPI.
@@ -851,17 +851,17 @@ landscape:
           - item:
             name: ONNX
             description: An open standard and ecosystem for interoperable machine learning models across frameworks and runtimes.
-            homepage_url: https://onnx.ai/  
+            homepage_url: https://onnx.ai/
             logo: onnx.svg
-            repo_url: https://github.com/onnx/onnx    
-            crunchbase: 
+            repo_url: https://github.com/onnx/onnx
+            crunchbase: null
           - item:
             name: PerforatedAI
             description: Dendritic Optimization, for smarter, smaller, cheaper ML Models.
-            homepage_url: https://www.perforatedai.com/  
+            homepage_url: https://www.perforatedai.com/
             logo: perforatedai.svg
-            repo_url: https://github.com/PerforatedAI/PerforatedAI     
-            crunchbase: 
+            repo_url: https://github.com/PerforatedAI/PerforatedAI
+            crunchbase: null
           - item:
             name: tensordict
             description: TensorDict is a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device etc.
@@ -1158,7 +1158,7 @@ landscape:
             homepage_url: https://helionlang.com/
             logo: helion.svg
             repo_url: https://github.com/pytorch/helion
-            crunchbase: 
+            crunchbase: null
             extra:
               accepted: '2026-04-07'
               annotations:
@@ -1172,7 +1172,7 @@ landscape:
             homepage_url: https://huggingface.co/docs/safetensors
             logo: safetensors.svg
             repo_url: https://github.com/huggingface/safetensors
-            crunchbase:
+            crunchbase: null
             extra:
               accepted: '2026-04-08'
               annotations:
@@ -1194,7 +1194,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/amd
           - item:
             name: Amazon Web Services, Inc. (member)
-            homepage_url: https://amazon.com/
+            homepage_url: https://aws.amazon.com/
             logo: amazon_web_services_inc.svg
             description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
@@ -1232,7 +1232,7 @@ landscape:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices such as keyboards, mice, monitors, hard drives or solid-state drives, and optical disc drives; as well as system-on-chip and multichip packaging products. Additionally, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. Founded in 1968 and based in Santa Clara, California, Intel underpins everyday life. We design and manufacture technology that helps us all connect, create, and achieve great things—together. We deliver AI experiences that power businesses with industry-leading platforms. With 50 years of unmatched innovation and global scale, you get the reliability and resilience needed to launch into a future full of creativity and ingenuity.
             crunchbase: https://www.crunchbase.com/organization/intel
             twitter: https://twitter.com/intel
             extra:
@@ -1316,9 +1316,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
-            name: Qualcomm, Inc. (member)
+            name: Qualcomm Technologies, Inc. (member)
             homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
+            logo: qualcomm_technologies_inc.svg
             description: |-
               Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
 
@@ -1347,7 +1347,12 @@ landscape:
             name: Emmi AI (member)
             homepage_url: https://emmi.ai/
             logo: emmi_ai.svg
-            description: Large Engineering Models are pre-trained engineering intelligence that replace solvers, work everywhere, and deliver instant physics-accurate results for entire verticals.
+            description: |-
+              Every day, thousands of hours are spent modeling turbulence, simulating fluid flows, heat transfer, structural mechanics - across aviation, energy, semiconductors, automotive, and beyond. These processes follow similar patterns but require different specialized software, creating bottlenecks everywhere.  
+
+              We're changing that. Our deep learning models run simulations in seconds instead of weeks. One architecture, universal application. When simulation becomes instant, everything changes. Engineers explore design spaces that were computationally impossible. Manufacturing lines self-optimize in real-time. Innovation cycles compress from months to days. The constraints that defined engineering for decades simply disappear. 
+
+              We have the three critical ingredients: a scalable modeling paradigm, millions of high-fidelity simulations, and deep domain understanding. Engineering's transformative moment has arrived.
             organization:
               name: Emmi AI
           - item:
@@ -1363,19 +1368,9 @@ landscape:
             name: LightSeek Foundation (member)
             homepage_url: https://lightseek.org/
             logo: lightseek_foundation.svg
-            description: LightSeek Foundation is a 501(c)(3) nonprofit organization advancing open research and open-source innovation for the next generation of artificial intelligence systems. We believe the future of AI should be transparent, collaborative, and inclusive. LightSeek exists to accelerate the development of open, efficient, and trustworthy AI systems—so that progress in AI benefits everyone, not just a few.
-            twitter:  https://x.com/lightseekorg
+            description: Example Next.js Notion Starter Kit Site
             organization:
               name: LightSeek Foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/lightseek/
-          - item:
-            name: NIPA (member)
-            homepage_url: https://nipa.kr/
-            logo: nipa.svg
-            description: ICT산업 경쟁력 제고와 성장동력 육성으로 경제발전과 국민 삶의 질 향상에 기여하는 ICT 산업혁신 전문기관
-            crunchbase: https://www.crunchbase.com/organization/national-it-industry-promotion-agency
-            twitter: https://twitter.com/NIPAkr
           - item:
             name: Nota Inc. (member)
             homepage_url: https://nota.ai/
@@ -1479,6 +1474,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/monash-university
           - item:
+            name: NIPA (member)
+            homepage_url: https://nipa.kr/
+            logo: nipa.svg
+            description: ICT산업 경쟁력 제고와 성장동력 육성으로 경제발전과 국민 삶의 질 향상에 기여하는 ICT 산업혁신 전문기관
+            crunchbase: https://www.crunchbase.com/organization/national-it-industry-promotion-agency
+            twitter: https://twitter.com/NIPAkr
+          - item:
             name: One Fact Foundation (member)
             homepage_url: https://onefact.org/
             logo: one_fact_foundation.svg
@@ -1511,16 +1513,6 @@ landscape:
             description: Siksha 'O' Anusandhan (SOA) Deemed to be University, located in Bhubaneswar, Odisha, is a prestigious institution accredited with an 'A++' grade by NAAC. Recognized internationally by QS and THE World University Rankings 2023, SOA offers a wide range o...
             organization:
               name: Siksha 'O' Anusandhan
-          - item:
-            name: SKOPOS INDIA FOUNDATION (member)
-            homepage_url: https://incoban.org/
-            logo: skopos_india_foundation.svg
-            description: InCoBAN is an ecosystem that possesses leadership qualities as an industry improvement initiative, positioned to tackle the absolute challenges that the Indian Construction Sector grapples with, impacting the livelihoods of over 60 to 70 million indivi...
-            organization:
-              name: SKOPOS INDIA FOUNDATION
-              linkedin: https://www.linkedin.com/company/incoban
-            extra:
-              linkedin_url: https://www.linkedin.com/company/incoban
           - item:
             name: Texas A&M University (member)
             homepage_url: https://tamu.edu/
