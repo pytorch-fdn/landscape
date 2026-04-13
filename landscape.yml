@@ -856,6 +856,13 @@ landscape:
             repo_url: https://github.com/onnx/onnx    
             crunchbase: 
           - item:
+            name: PerforatedAI
+            description: Dendritic Optimization, for smarter, smaller, cheaper ML Models.
+            homepage_url: https://www.perforatedai.com/  
+            logo: perforatedai.svg
+            repo_url: https://github.com/PerforatedAI/PerforatedAI     
+            crunchbase: 
+          - item:
             name: tensordict
             description: TensorDict is a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device etc.
             homepage_url: https://pytorch.org/tensordict/stable/index.html
