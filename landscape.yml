@@ -857,7 +857,7 @@ landscape:
             crunchbase: 
           - item:
             name: PerforatedAI
-            description: Dendritic Optimization, for smarter, smaller, cheaper ML Models.
+            description: The dendritic-optimization library. Use modern neuroscience to improve the accuracy and efficiency of your model with a few lines of code.
             homepage_url: https://www.perforatedai.com/  
             logo: perforatedai.svg
             repo_url: https://github.com/PerforatedAI/PerforatedAI     
