@@ -1193,6 +1193,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/amd
           - item:
+            name: Alibaba Cloud (Singapore) Private LTD (Alibaba Cloud) (member)
+            homepage_url: https://www.alibabacloud.com/
+            logo: alibaba_com.svg
+            description: Alibaba Group, founded in 1999, is a company that helps connect businesses to other businesses through cloud computing, logistics, core commerce, local services sectors, and mobile media and entertainment. Alibaba Group is headquartered in Xixi District of Hangzhou, China and maintains offices in China, France, Germany, Hong Kong, India, Italy, Korea, Taiwan, Turkey, Russia, Singapore, the United Arab Emirates, the United Kingdom and the United States.
+            crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
+            facebook: https://www.facebook.com/alibabacloud
+            extra:
+              linkedin_url: https://www.linkedin.com/company/alibaba-cloud-computing-company
+          - item:
             name: Amazon Web Services, Inc. (member)
             homepage_url: https://amazon.com/
             logo: amazon_web_services_inc.svg
