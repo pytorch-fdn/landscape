@@ -1171,7 +1171,7 @@ landscape:
               annotations:
                 slug: Helion
           - item:
-            name: Safetoners
+            name: Safetensors
             project: foundation
             second_path:
               - Optimizations / MLOps
@@ -1183,7 +1183,7 @@ landscape:
             extra:
               accepted: '2026-04-08'
               annotations:
-                slug: Safetoners
+                slug: Safetensors
   - category:
     name: PyTorch Members
     subcategories:
