@@ -1202,9 +1202,8 @@ landscape:
           - item:
             name: Alibaba Cloud (Singapore) Private LTD (Alibaba Cloud) (member)
             homepage_url: https://www.alibabacloud.com/
-            logo: alibaba_com.svg
-            description: Alibaba Group, founded in 1999, is a company that helps connect businesses to other businesses through cloud computing, logistics, core commerce, local services sectors, and mobile media and entertainment. Alibaba Group is headquartered in Xixi District of Hangzhou, China and maintains offices in China, France, Germany, Hong Kong, India, Italy, Korea, Taiwan, Turkey, Russia, Singapore, the United Arab Emirates, the United Kingdom and the United States.
-            crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
+            logo: alibaba_cloud.svg
+            description: Alibaba Cloud is a global leader in full-stack artificial intelligence services, offering state-of-the-art intelligent capabilities and a worldwide AI cloud computing network, providing developer-friendly AI services across the globe. Qwen, the family of large language and multimodal AI models developed by Alibaba, has become one of the most influential and widely adopted open-weight model series since its debut in 2023, earning strong recognition from the global developer communities.
             facebook: https://www.facebook.com/alibabacloud
             extra:
               linkedin_url: https://www.linkedin.com/company/alibaba-cloud-computing-company
