@@ -576,6 +576,13 @@ landscape:
             logo: PyTorch_Project_torchdata.svg
             repo_url: https://github.com/pytorch/data
             crunchbase: https://www.crunchbase.com/organization/facebook
+           - item:
+            name: TorchJD
+            Description: Efficient multi-objective optimization in PyTorch using Jacobian descent and conflict-free updates.
+            homepage_url: https://torchjd.org/   
+            logo: torchjd.svg
+            repo_url: https://github.com/SimplexLab/TorchJD       
+            crunchbase: 
           - item:
             name: TorchMetrics
             description: Machine learning metrics for distributed, scalable PyTorch applications.
