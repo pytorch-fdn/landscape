@@ -720,6 +720,13 @@ landscape:
             repo_url: https://github.com/pfnet/pfrl
             crunchbase: https://www.crunchbase.com/organization/preferred-networks
           - item:
+            name: RLinf
+            description: RLinf is a flexible and scalable reinforcement learning infrastructure for embodied and agentic AI.
+            homepage_url: https://rlinf.readthedocs.io/   
+            logo: rlinf.svg
+            repo_url: https://github.com/RLinf/RLinf       
+            crunchbase:
+          - item:
             name: Stable Baselines3
             description: Stable Baselines3 (SB3) is a set of implementations of reinforcement learning algorithms
             homepage_url: https://stable-baselines3.readthedocs.io/
