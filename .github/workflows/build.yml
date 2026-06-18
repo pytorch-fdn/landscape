@@ -5,18 +5,24 @@ on:
   schedule:
   - cron: "0 23 * * *"
 
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
-      - name: Harden Runner
-        uses: step-security/harden-runner@5ef0c079ce82195b2a36a210272d6b661572d83e # v2.14.2
+      - uses: jmertic/lfx-landscape-tools@9bfbf8485c52f28f128e5b85e78bedfcfe321f2c # 20260612
         with:
-          egress-policy: audit
-      - uses: jmertic/lfx-landscape-tools@main
-        with:
-          project_processing: skip
+          project_processing: skip # see options in action.yml
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
           ref: ${{ github.ref }}
+  

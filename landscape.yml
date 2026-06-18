@@ -578,7 +578,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: TorchJD
-            Description: Efficient multi-objective optimization in PyTorch using Jacobian descent and conflict-free updates.
+            description: Efficient multi-objective optimization in PyTorch using Jacobian descent and conflict-free updates.
             homepage_url: https://torchjd.org/   
             logo: torchjd.svg
             repo_url: https://github.com/SimplexLab/TorchJD       
@@ -719,6 +719,13 @@ landscape:
             project: archived
             repo_url: https://github.com/pfnet/pfrl
             crunchbase: https://www.crunchbase.com/organization/preferred-networks
+          - item:
+            name: RLinf
+            description: RLinf is a flexible and scalable reinforcement learning infrastructure for embodied and agentic AI.
+            homepage_url: https://rlinf.readthedocs.io/   
+            logo: rlinf.svg
+            repo_url: https://github.com/RLinf/RLinf       
+            crunchbase:
           - item:
             name: Stable Baselines3
             description: Stable Baselines3 (SB3) is a set of implementations of reinforcement learning algorithms
@@ -1250,6 +1257,15 @@ landscape:
             twitter: https://twitter.com/Huawei
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
+          - item:
+            name: Shopify (member)
+            homepage_url: https://www.shopify.com/
+            logo: shopify_logo.svg
+            description: Founded in 2004 and launched in 2006, Shopify is a leading cloud-based, multi-channel commerce platform designed for small and medium-sized businesses. Merchants can use the software to design, set up, and manage their stores across multiple sales channels, including web, mobile, social media, marketplaces, brick-and-mortar locations, and pop-up shops. The platform also provides merchants with a powerful back-office and a single view of their business. Shopify currently powers over 500,000 businesses in approximately 175 countries and is used by brands such as Red Bull, Nestle, GE, Kylie Cosmetics, and many more.
+            crunchbase: https://www.crunchbase.com/organization/shopify
+            twitter: https://x.com/shopify
+            extra:
+              linkedin_url: https://www.linkedin.com/company/shopify
           - item:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
