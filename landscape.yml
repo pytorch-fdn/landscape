@@ -877,8 +877,8 @@ landscape:
             repo_url: https://github.com/onnx/onnx    
             crunchbase: 
           - item:
-            name: PerforatedAI
-            description: The dendritic-optimization library. Use modern neuroscience to improve the accuracy and efficiency of your model with a few lines of code.
+            name: Perforated
+            description: A data-efficiency library for PyTorch that improves model performance by adding neuron-specific learning signals during training.
             homepage_url: https://www.perforatedai.com/  
             logo: perforatedai.svg
             repo_url: https://github.com/PerforatedAI/PerforatedAI     
