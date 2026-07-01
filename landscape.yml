@@ -533,6 +533,13 @@ landscape:
             repo_url: https://github.com/ludwig-ai/ludwig
             crunchbase: https://www.crunchbase.com/organization/predibase
           - item:
+            name: Miles
+            description: Miles is a high-performance, open-source RL framework for large-scale model post-training, with novel systems work for trillion-parameter MoE stability and unified low-precision training-and-inference.
+            homepage_url: https://www.radixark.com/miles/docs     
+            logo: miles.svg
+            repo_url: https://github.com/radixark/miles       
+            crunchbase: 
+          - item:
             name: Poutyne
             description: Poutyne is a simplified framework for PyTorch and handles much of the boilerplating code needed to train neural networks.
             homepage_url: https://poutyne.org/
