@@ -29,14 +29,14 @@ landscape:
       - subcategory:
         name: Computer Vision
         items:
-          - item:
-            name: Albumentations
-            description: a Python library for image augmentation used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data.
-            homepage_url: https://albumentations.ai/docs/
-            logo: albumentations.svg
-            project: archived
-            repo_url: https://github.com/albumentations-team/albumentations
-            crunchbase: https://www.crunchbase.com/organization/albumentations
+#           - item:
+#             name: Albumentations
+#             description: a Python library for image augmentation used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data.
+#             homepage_url: https://albumentations.ai/docs/
+#             logo: albumentations.svg
+#             project: archived
+#             repo_url: https://github.com/albumentations-team/albumentations
+#             crunchbase: https://www.crunchbase.com/organization/albumentations
           - item:
             name: Anomalib
             description: An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
@@ -51,22 +51,22 @@ landscape:
             logo: deepinverse.svg
             repo_url: https://github.com/deepinv/deepinv
             crunchbase: null
-          - item:
-            name: Detectron2
-            description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
-            homepage_url: https://detectron2.readthedocs.io/en/latest/
-            logo: detectron2.svg
-            project: archived
-            repo_url: https://github.com/facebookresearch/detectron2
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: docTR
-            description: A high-performing and accessible library for OCR related tasks powered by PyTorch and TensorFlow 2.
-            homepage_url: https://mindee.github.io/doctr/
-            logo: doctr.svg
-            project: archived
-            repo_url: https://github.com/mindee/doctr
-            crunchbase: https://www.crunchbase.com/organization/mindee
+#           - item:
+#             name: Detectron2
+#             description: Decectron is a platform for object detection, segmentation and other visual recognition tasks.
+#             homepage_url: https://detectron2.readthedocs.io/en/latest/
+#             logo: detectron2.svg
+#             project: archived
+#             repo_url: https://github.com/facebookresearch/detectron2
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: docTR
+#             description: A high-performing and accessible library for OCR related tasks powered by PyTorch and TensorFlow 2.
+#             homepage_url: https://mindee.github.io/doctr/
+#             logo: doctr.svg
+#             project: archived
+#             repo_url: https://github.com/mindee/doctr
+#             crunchbase: https://www.crunchbase.com/organization/mindee
           - item:
             name: Kornia
             description: Kornia is a geometric computer vision Library for spatial AI library that allows classical computer vision to be integrated into deep learning models.
@@ -81,38 +81,38 @@ landscape:
             logo: lightly_SSL_logo_crop_white_text.svg
             repo_url: https://github.com/lightly-ai/lightly
             crunchbase: https://www.crunchbase.com/organization/mirage
-          - item:
-            name: MMEditing
-            description: Image and Video Restoration, Editing and Generation Toolbox
-            homepage_url: https://mmagic.readthedocs.io/en/latest/
-            logo: mmediting.svg
-            project: archived
-            repo_url: https://github.com/open-mmlab/mmediting
-            crunchbase: https://www.crunchbase.com/organization/mm-lab-fd2d
-          - item:
-            name: OpenMMLab
-            description: Open-source computer vision algorithms and models.
-            homepage_url: https://openmmlab.com/
-            logo: openmmlab.svg
-            project: archived
-            repo_url: https://github.com/open-mmlab
-            crunchbase: https://www.crunchbase.com/organization/mm-lab-fd2d
-          - item:
-            name: pystiche
-            description: Framework for Neural Style Transfer (NST) built upon PyTorch
-            homepage_url: https://github.com/pystiche/pystiche
-            logo: pystiche.svg
-            project: archived
-            repo_url: https://github.com/pystiche/pystiche
-            crunchbase: https://www.crunchbase.com/organization/quansight
-          - item:
-            name: raster-vision
-            description: Raster Vision is an open source library and framework for Python developers building computer vision models on satellite, aerial, and other large imagery sets (including oblique drone imagery). There is built-in support for chip classification, object detection, and semantic segmentation using PyTorch.
-            homepage_url: https://docs.rastervision.io/
-            logo: raster-vision.svg
-            project: archived
-            repo_url: https://github.com/azavea/raster-vision
-            crunchbase: https://www.crunchbase.com/organization/azavea
+#           - item:
+#             name: MMEditing
+#             description: Image and Video Restoration, Editing and Generation Toolbox
+#             homepage_url: https://mmagic.readthedocs.io/en/latest/
+#             logo: mmediting.svg
+#             project: archived
+#             repo_url: https://github.com/open-mmlab/mmediting
+#             crunchbase: https://www.crunchbase.com/organization/mm-lab-fd2d
+#           - item:
+#             name: OpenMMLab
+#             description: Open-source computer vision algorithms and models.
+#             homepage_url: https://openmmlab.com/
+#             logo: openmmlab.svg
+#             project: archived
+#             repo_url: https://github.com/open-mmlab
+#             crunchbase: https://www.crunchbase.com/organization/mm-lab-fd2d
+#           - item:
+#             name: pystiche
+#             description: Framework for Neural Style Transfer (NST) built upon PyTorch
+#             homepage_url: https://github.com/pystiche/pystiche
+#             logo: pystiche.svg
+#             project: archived
+#             repo_url: https://github.com/pystiche/pystiche
+#             crunchbase: https://www.crunchbase.com/organization/quansight
+#           - item:
+#             name: raster-vision
+#             description: Raster Vision is an open source library and framework for Python developers building computer vision models on satellite, aerial, and other large imagery sets (including oblique drone imagery). There is built-in support for chip classification, object detection, and semantic segmentation using PyTorch.
+#             homepage_url: https://docs.rastervision.io/
+#             logo: raster-vision.svg
+#             project: archived
+#             repo_url: https://github.com/azavea/raster-vision
+#             crunchbase: https://www.crunchbase.com/organization/azavea
           - item:
             name: torchvision
             description: The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.
@@ -120,41 +120,41 @@ landscape:
             logo: PyTorch_Project_torchvision.svg
             repo_url: https://github.com/pytorch/vision
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: VISSL
-            description: A library for state-of-the-art self-supervised learning from images
-            homepage_url: https://vissl.ai/
-            logo: vissl.svg
-            project: archived
-            repo_url: https://github.com/facebookresearch/vissl/graphs/commit-activity
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: VISSL
+#             description: A library for state-of-the-art self-supervised learning from images
+#             homepage_url: https://vissl.ai/
+#             logo: vissl.svg
+#             project: archived
+#             repo_url: https://github.com/facebookresearch/vissl/graphs/commit-activity
+#             crunchbase: https://www.crunchbase.com/organization/facebook
       - subcategory:
         name: Language
         items:
-          - item:
-            name: AllenNLP
-            description: An NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
-            homepage_url: https://allenai.org/allennlp
-            logo: AllenNLP.svg
-            project: archived
-            repo_url: https://github.com/allenai/allennlp
-            crunchbase: https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence
-          - item:
-            name: Flair
-            description: Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical texts, sense disambiguation and classification, with support for a rapidly growing number of languages
-            homepage_url: https://github.com/flairNLP/flair
-            logo: flair.svg
-            project: archived
-            repo_url: https://github.com/flairNLP/flair
-            crunchbase: https://www.crunchbase.com/organization/humboldt-university-of-berlin
-          - item:
-            name: joeynmt
-            description: JoeyNMT is a minimalist neural machine translation toolkit for educational purposes.
-            homepage_url: https://joeynmt.readthedocs.io/en/latest/#
-            logo: joeynmt.svg
-            project: archived
-            repo_url: https://github.com/joeynmt
-            crunchbase: https://www.crunchbase.com/organization/cornell-university
+#           - item:
+#             name: AllenNLP
+#             description: An NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
+#             homepage_url: https://allenai.org/allennlp
+#             logo: AllenNLP.svg
+#             project: archived
+#             repo_url: https://github.com/allenai/allennlp
+#             crunchbase: https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence
+#           - item:
+#             name: Flair
+#             description: Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical texts, sense disambiguation and classification, with support for a rapidly growing number of languages
+#             homepage_url: https://github.com/flairNLP/flair
+#             logo: flair.svg
+#             project: archived
+#             repo_url: https://github.com/flairNLP/flair
+#             crunchbase: https://www.crunchbase.com/organization/humboldt-university-of-berlin
+#           - item:
+#             name: joeynmt
+#             description: JoeyNMT is a minimalist neural machine translation toolkit for educational purposes.
+#             homepage_url: https://joeynmt.readthedocs.io/en/latest/#
+#             logo: joeynmt.svg
+#             project: archived
+#             repo_url: https://github.com/joeynmt
+#             crunchbase: https://www.crunchbase.com/organization/cornell-university
           - item:
             name: LitGPT
             description: 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
@@ -169,46 +169,46 @@ landscape:
             logo: opencompass.svg
             repo_url: https://github.com/open-compass/opencompass
             crunchbase: https://www.crunchbase.com/organization/openailab
-          - item:
-            name: ParlAI
-            description: A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
-            homepage_url: https://parl.ai/
-            logo: parlai.svg
-            project: archived
-            repo_url: https://github.com/facebookresearch/ParlAI
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: PyTorch-NLP
-            description: Basic Utilities for PyTorch Natural Language Processing (NLP)
-            homepage_url: https://pytorchnlp.readthedocs.io/en/latest/
-            logo: PyTorch_NLP.svg
-            project: archived
-            repo_url: https://github.com/PetrochukM/PyTorch-NLP
-            crunchbase: https://www.crunchbase.com/organization/wellsaid-labs
-          - item:
-            name: TextBrewer
-            description: A PyTorch-based knowledge distillation toolkit for natural language processing
-            homepage_url: http://textbrewer.hfl-rc.com/
-            logo: TextBrewer.svg
-            project: archived
-            repo_url: https://github.com/airaria/TextBrewer
-            crunchbase: https://www.crunchbase.com/organization/cognitive-labs
-          - item:
-            name: torchtune
-            description: A Native-PyTorch library for LLM fine-tuning.
-            homepage_url: https://pytorch.org/torchtune/stable/index.html
-            logo: PyTorch_Project_torchtune.svg
-            project: archived
-            repo_url: https://github.com/pytorch/torchtune
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: torchtext
-            description: The torchtext package consists of data processing utilities and popular datasets for natural language.
-            homepage_url: https://pytorch.org/text/stable/index.html
-            logo: PyTorch_Project_torchtext.svg
-            project: archived
-            repo_url: https://github.com/pytorch/text
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: ParlAI
+#             description: A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+#             homepage_url: https://parl.ai/
+#             logo: parlai.svg
+#             project: archived
+#             repo_url: https://github.com/facebookresearch/ParlAI
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: PyTorch-NLP
+#             description: Basic Utilities for PyTorch Natural Language Processing (NLP)
+#             homepage_url: https://pytorchnlp.readthedocs.io/en/latest/
+#             logo: PyTorch_NLP.svg
+#             project: archived
+#             repo_url: https://github.com/PetrochukM/PyTorch-NLP
+#             crunchbase: https://www.crunchbase.com/organization/wellsaid-labs
+#           - item:
+#             name: TextBrewer
+#             description: A PyTorch-based knowledge distillation toolkit for natural language processing
+#             homepage_url: http://textbrewer.hfl-rc.com/
+#             logo: TextBrewer.svg
+#             project: archived
+#             repo_url: https://github.com/airaria/TextBrewer
+#             crunchbase: https://www.crunchbase.com/organization/cognitive-labs
+#           - item:
+#             name: torchtune
+#             description: A Native-PyTorch library for LLM fine-tuning.
+#             homepage_url: https://pytorch.org/torchtune/stable/index.html
+#             logo: PyTorch_Project_torchtune.svg
+#             project: archived
+#             repo_url: https://github.com/pytorch/torchtune
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: torchtext
+#             description: The torchtext package consists of data processing utilities and popular datasets for natural language.
+#             homepage_url: https://pytorch.org/text/stable/index.html
+#             logo: PyTorch_Project_torchtext.svg
+#             project: archived
+#             repo_url: https://github.com/pytorch/text
+#             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Transformers
             description: Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio.
@@ -219,14 +219,14 @@ landscape:
       - subcategory:
         name: Specialized
         items:
-          - item:
-            name: DGL
-            description: Python package built to ease deep learning on graph, on top of existing DL frameworks.  Fast and memory-efficient message passing primitives for training Graph Neural Networks.
-            homepage_url: https://www.dgl.ai/
-            logo: DGL.svg
-            project: archived
-            repo_url: https://github.com/dmlc/dgl/
-            crunchbase: https://www.crunchbase.com/organization/new-york-university
+#           - item:
+#             name: DGL
+#             description: Python package built to ease deep learning on graph, on top of existing DL frameworks.  Fast and memory-efficient message passing primitives for training Graph Neural Networks.
+#             homepage_url: https://www.dgl.ai/
+#             logo: DGL.svg
+#             project: archived
+#             repo_url: https://github.com/dmlc/dgl/
+#             crunchbase: https://www.crunchbase.com/organization/new-york-university
           - item:
             name: Diffusers
             description: Pretrained diffusion models for generating images, audio, and even 3D structures of molecules. Whether you are looking for a simple inference solution or want to train your own diffusion model, Diffusers is a modular toolbox that supports both
@@ -234,22 +234,22 @@ landscape:
             logo: Diffusers.svg
             repo_url: https://github.com/huggingface/diffusers
             crunchbase: https://www.crunchbase.com/organization/hugging-face
-          - item:
-            name: L5Kit
-            description: A python library with functionality for the development and training of learned prediction, planning and simulation models for autonomous driving applications.
-            homepage_url: https://woven-planet.github.io/l5kit/
-            logo: logo_l5kit_wp.svg
-            project: archived
-            repo_url: https://github.com/woven-planet/l5kit
-            crunchbase: https://www.crunchbase.com/organization/lyft
-          - item:
-            name: PyPose
-            description: PyPose is a library for Robot Learning with Physics-based Optimization
-            homepage_url: https://pypose.org/
-            logo: PyPose.svg
-            project: archived
-            repo_url: https://github.com/pypose/pypose
-            crunchbase: https://www.crunchbase.com/organization/spatial-ai
+#           - item:
+#             name: L5Kit
+#             description: A python library with functionality for the development and training of learned prediction, planning and simulation models for autonomous driving applications.
+#             homepage_url: https://woven-planet.github.io/l5kit/
+#             logo: logo_l5kit_wp.svg
+#             project: archived
+#             repo_url: https://github.com/woven-planet/l5kit
+#             crunchbase: https://www.crunchbase.com/organization/lyft
+#           - item:
+#             name: PyPose
+#             description: PyPose is a library for Robot Learning with Physics-based Optimization
+#             homepage_url: https://pypose.org/
+#             logo: PyPose.svg
+#             project: archived
+#             repo_url: https://github.com/pypose/pypose
+#             crunchbase: https://www.crunchbase.com/organization/spatial-ai
           - item:
             name: PyPOTS
             description: A Python toolkit for reality-centric machine/deep learning and data mining on partially-observed time series, including SOTA neural network models for scientific analysis tasks of imputation/classification/clustering/forecasting/anomaly detection/cleaning on incomplete industrial (irregularly-sampled) multivariate TS with NaN missing values
@@ -257,22 +257,22 @@ landscape:
             logo: PyPOTS.svg
             repo_url: https://github.com/WenjieDu/PyPOTS
             crunchbase: https://www.crunchbase.com/organization/pypots
-          - item:
-            name: PyTorchVideo
-            description: A deep learning library for video understanding research.
-            homepage_url: https://pytorchvideo.org/
-            logo: PyTorchVideo.svg
-            project: archived
-            repo_url: https://github.com/facebookresearch/pytorchvideo
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: SimulAI
-            description: A toolkit with data-driven pipelines for physics-informed machine learning.
-            homepage_url: https://ibm.github.io/simulai/
-            logo: SimulAI.svg
-            project: archived
-            repo_url: https://github.com/IBM/simulai
-            crunchbase: https://www.crunchbase.com/organization/ibm
+#           - item:
+#             name: PyTorchVideo
+#             description: A deep learning library for video understanding research.
+#             homepage_url: https://pytorchvideo.org/
+#             logo: PyTorchVideo.svg
+#             project: archived
+#             repo_url: https://github.com/facebookresearch/pytorchvideo
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: SimulAI
+#             description: A toolkit with data-driven pipelines for physics-informed machine learning.
+#             homepage_url: https://ibm.github.io/simulai/
+#             logo: SimulAI.svg
+#             project: archived
+#             repo_url: https://github.com/IBM/simulai
+#             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: torchaudio
             description: Torchaudio is a library for audio and signal processing with PyTorch. It provides I/O, signal and data processing functions, datasets, model implementations and application components.
@@ -297,30 +297,30 @@ landscape:
       - subcategory:
         name: Medical & Biology
         items:
-          - item:
-            name: Clinica DL
-            description: open-source deep learning software for reproducible neuroimaging processing. It can be seen as the deep learning extension of Clinica, an open-source Python library for neuroimaging preprocessing and analysis.
-            homepage_url: https://clinicadl.readthedocs.io/en/latest/
-            logo: clinicaDL.svg
-            project: archived
-            repo_url: https://github.com/aramis-lab/clinicadl
-            crunchbase: https://www.crunchbase.com/organization/sorbonne-university
-          - item:
-            name: FuseMedML
-            description: A python framework accelerating ML based discovery in the medical field by encouraging code reuse
-            homepage_url: https://pytorch.org/ecosystem/
-            logo: FuseMedMLlogo.svg
-            project: archived
-            repo_url: https://github.com/BiomedSciAI/fuse-med-ml
-            crunchbase: https://www.crunchbase.com/organization/ibm-research
-          - item:
-            name: GaNDLF
-            description: The Generally Nuanced Deep Learning Framework (GaNDLF) for image segmentation and classification, especially in the biomedical field.
-            homepage_url: https://www.nature.com/articles/s44172-023-00066-3
-            logo: GaNDLF.svg
-            project: archived
-            repo_url: https://github.com/mlcommons/gandlf
-            crunchbase: https://www.crunchbase.com/organization/mlcommons
+#           - item:
+#             name: Clinica DL
+#             description: open-source deep learning software for reproducible neuroimaging processing. It can be seen as the deep learning extension of Clinica, an open-source Python library for neuroimaging preprocessing and analysis.
+#             homepage_url: https://clinicadl.readthedocs.io/en/latest/
+#             logo: clinicaDL.svg
+#             project: archived
+#             repo_url: https://github.com/aramis-lab/clinicadl
+#             crunchbase: https://www.crunchbase.com/organization/sorbonne-university
+#           - item:
+#             name: FuseMedML
+#             description: A python framework accelerating ML based discovery in the medical field by encouraging code reuse
+#             homepage_url: https://pytorch.org/ecosystem/
+#             logo: FuseMedMLlogo.svg
+#             project: archived
+#             repo_url: https://github.com/BiomedSciAI/fuse-med-ml
+#             crunchbase: https://www.crunchbase.com/organization/ibm-research
+#           - item:
+#             name: GaNDLF
+#             description: The Generally Nuanced Deep Learning Framework (GaNDLF) for image segmentation and classification, especially in the biomedical field.
+#             homepage_url: https://www.nature.com/articles/s44172-023-00066-3
+#             logo: GaNDLF.svg
+#             project: archived
+#             repo_url: https://github.com/mlcommons/gandlf
+#             crunchbase: https://www.crunchbase.com/organization/mlcommons
           - item:
             name: MONAI
             description: AI Toolkit for Healthcare Imaging
@@ -335,14 +335,14 @@ landscape:
             logo: TIAToolbox.svg
             repo_url: https://github.com/TissueImageAnalytics/tiatoolbox
             crunchbase: https://www.crunchbase.com/organization/university-of-warwick
-          - item:
-            name: torchdrug
-            description: A powerful and flexible machine learning platform for drug discovery
-            homepage_url: https://torchdrug.ai/
-            logo: TorchDrug.svg
-            project: archived
-            repo_url: https://github.com/DeepGraphLearning/torchdrug
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: torchdrug
+#             description: A powerful and flexible machine learning platform for drug discovery
+#             homepage_url: https://torchdrug.ai/
+#             logo: TorchDrug.svg
+#             project: archived
+#             repo_url: https://github.com/DeepGraphLearning/torchdrug
+#             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: TorchIO
             description: Medical imaging toolkit for deep learning
@@ -353,14 +353,14 @@ landscape:
       - subcategory:
         name: Adversarial & Robustness
         items:
-          - item:
-            name: AdverTorch
-            description: A Toolbox for Adversarial Robustness Research
-            homepage_url: https://advertorch.readthedocs.io/en/latest/
-            logo: AdverTorch.svg
-            project: archived
-            repo_url: https://github.com/BorealisAI/advertorch
-            crunchbase: https://www.crunchbase.com/organization/ecopia-tech-corporation
+#           - item:
+#             name: AdverTorch
+#             description: A Toolbox for Adversarial Robustness Research
+#             homepage_url: https://advertorch.readthedocs.io/en/latest/
+#             logo: AdverTorch.svg
+#             project: archived
+#             repo_url: https://github.com/BorealisAI/advertorch
+#             crunchbase: https://www.crunchbase.com/organization/ecopia-tech-corporation
           - item:
             name: Captum
             description: An open source, extensible library for model interpretability built on PyTorch.
@@ -368,41 +368,41 @@ landscape:
             logo: Captum.svg
             repo_url: https://github.com/pytorch/captum
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: Ensemble-Pytorch
-            description: unified ensemble framework for PyTorch to improve the performance and robustness of your ensemble based deep learning model
-            homepage_url: https://ensemble-pytorch.readthedocs.io/
-            logo: Ensemble_PyTorch.svg
-            project: archived
-            repo_url: https://github.com/TorchEnsemble-Community/Ensemble-Pytorch
-            crunchbase: https://www.crunchbase.com/organization/nanjing-university
-          - item:
-            name: pytorchfi
-            description: A runtime fault injection tool for PyTorch
-            homepage_url: https://pytorchfi.dev/
-            logo: PyTorchFI.svg
-            project: archived
-            repo_url: https://github.com/pytorchfi/pytorchfi
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: TorchDrift
-            description: TorchDrift is a data and concept drift library for PyTorch. It lets you monitor your PyTorch models to see if they operate within spec.
-            homepage_url: https://torchdrift.org/
-            logo: TorchDrift.svg
-            project: archived
-            repo_url: https://github.com/TorchDrift/TorchDrift
-            crunchbase: https://www.crunchbase.com/organization/grid-ai
+#           - item:
+#             name: Ensemble-Pytorch
+#             description: unified ensemble framework for PyTorch to improve the performance and robustness of your ensemble based deep learning model
+#             homepage_url: https://ensemble-pytorch.readthedocs.io/
+#             logo: Ensemble_PyTorch.svg
+#             project: archived
+#             repo_url: https://github.com/TorchEnsemble-Community/Ensemble-Pytorch
+#             crunchbase: https://www.crunchbase.com/organization/nanjing-university
+#           - item:
+#             name: pytorchfi
+#             description: A runtime fault injection tool for PyTorch
+#             homepage_url: https://pytorchfi.dev/
+#             logo: PyTorchFI.svg
+#             project: archived
+#             repo_url: https://github.com/pytorchfi/pytorchfi
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: TorchDrift
+#             description: TorchDrift is a data and concept drift library for PyTorch. It lets you monitor your PyTorch models to see if they operate within spec.
+#             homepage_url: https://torchdrift.org/
+#             logo: TorchDrift.svg
+#             project: archived
+#             repo_url: https://github.com/TorchDrift/TorchDrift
+#             crunchbase: https://www.crunchbase.com/organization/grid-ai
       - subcategory:
         name: Multimodal
         items:
-          - item:
-            name: MMF
-            description: A modular framework for vision & language multimodal research.
-            homepage_url: https://mmf.sh/
-            logo: mmf.svg
-            project: archived
-            repo_url: https://github.com/facebookresearch/mmf
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: MMF
+#             description: A modular framework for vision & language multimodal research.
+#             homepage_url: https://mmf.sh/
+#             logo: mmf.svg
+#             project: archived
+#             repo_url: https://github.com/facebookresearch/mmf
+#             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: NeMo
             description: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
@@ -410,41 +410,41 @@ landscape:
             logo: NEMO.svg
             repo_url: https://github.com/NVIDIA/NeMo
             crunchbase: https://www.crunchbase.com/organization/nvidia
-          - item:
-            name: USB
-            description: Benchmark tool for developing and evaluating Semi-suprevised learning algorithms.  Includes an implementation of 14 SSL algorithms and 15 tasks for evaluation for CV, NLP, and Audio
-            homepage_url: https://usb.readthedocs.io/en/main/
-            logo: USB.svg
-            project: archived
-            repo_url: https://github.com/microsoft/Semi-supervised-learning
-            crunchbase: https://www.crunchbase.com/organization/microsoft
+#           - item:
+#             name: USB
+#             description: Benchmark tool for developing and evaluating Semi-suprevised learning algorithms.  Includes an implementation of 14 SSL algorithms and 15 tasks for evaluation for CV, NLP, and Audio
+#             homepage_url: https://usb.readthedocs.io/en/main/
+#             logo: USB.svg
+#             project: archived
+#             repo_url: https://github.com/microsoft/Semi-supervised-learning
+#             crunchbase: https://www.crunchbase.com/organization/microsoft
       - subcategory:
         name: 3D
         items:
-          - item:
-            name: PyTorch-Points3d
-            description: A framework for developing and testing common deep learning models to solve tasks related to unstructured 3D spatial data
-            homepage_url: https://torch-points3d.readthedocs.io/en/latest/
-            logo: PyTorch_Points3D.svg
-            project: archived
-            repo_url: https://github.com/torch-points3d/torch-points3d
-            crunchbase: https://www.crunchbase.com/organization/fujitsu
-          - item:
-            name: PyTorch3D
-            description: PyTorch3D is a library of reusable components for deep learning with 3D data
-            homepage_url: https://pytorch3d.org/
-            logo: PyTorch3D.svg
-            project: archived
-            repo_url: https://github.com/facebookresearch/pytorch3d
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: RoMa
-            description: RoMa (which stands for Rotation Manipulation) provides differentiable mappings between 3D rotation representations, mappings from Euclidean to rotation space, and various utilities related to rotations.
-            homepage_url: https://naver.github.io/roma/
-            logo: RoMa.svg
-            project: archived
-            repo_url: https://github.com/naver/roma
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: PyTorch-Points3d
+#             description: A framework for developing and testing common deep learning models to solve tasks related to unstructured 3D spatial data
+#             homepage_url: https://torch-points3d.readthedocs.io/en/latest/
+#             logo: PyTorch_Points3D.svg
+#             project: archived
+#             repo_url: https://github.com/torch-points3d/torch-points3d
+#             crunchbase: https://www.crunchbase.com/organization/fujitsu
+#           - item:
+#             name: PyTorch3D
+#             description: PyTorch3D is a library of reusable components for deep learning with 3D data
+#             homepage_url: https://pytorch3d.org/
+#             logo: PyTorch3D.svg
+#             project: archived
+#             repo_url: https://github.com/facebookresearch/pytorch3d
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: RoMa
+#             description: RoMa (which stands for Rotation Manipulation) provides differentiable mappings between 3D rotation representations, mappings from Euclidean to rotation space, and various utilities related to rotations.
+#             homepage_url: https://naver.github.io/roma/
+#             logo: RoMa.svg
+#             project: archived
+#             repo_url: https://github.com/naver/roma
+#             crunchbase: https://www.crunchbase.com/organization/facebook
       - subcategory:
         name: Quantum
         items:
@@ -471,22 +471,22 @@ landscape:
       - subcategory:
         name: General
         items:
-          - item:
-            name: AdaptDL
-            description: AdaptDL is a resource-adaptive deep learning (DL) training and scheduling framework, and is part of the CASL open source project.
-            homepage_url: https://adaptdl.readthedocs.io/en/latest/
-            logo: adaptdl.svg
-            project: archived
-            repo_url: https://github.com/petuum/adaptdl
-            crunchbase: https://www.crunchbase.com/organization/petuum
-          - item:
-            name: Catalyst
-            description: Catalyst is a PyTorch framework for Deep Learning Research and Development. It focuses on reproducibility, rapid experimentation, and codebase reuse so you can create something new rather than write yet another train loop.
-            homepage_url: https://catalyst-team.com/
-            logo: clearml-logo.svg
-            project: archived
-            repo_url: https://github.com/catalyst-team/catalyst
-            crunchbase: https://www.crunchbase.com/organization/open-collective-75c2
+#           - item:
+#             name: AdaptDL
+#             description: AdaptDL is a resource-adaptive deep learning (DL) training and scheduling framework, and is part of the CASL open source project.
+#             homepage_url: https://adaptdl.readthedocs.io/en/latest/
+#             logo: adaptdl.svg
+#             project: archived
+#             repo_url: https://github.com/petuum/adaptdl
+#             crunchbase: https://www.crunchbase.com/organization/petuum
+#           - item:
+#             name: Catalyst
+#             description: Catalyst is a PyTorch framework for Deep Learning Research and Development. It focuses on reproducibility, rapid experimentation, and codebase reuse so you can create something new rather than write yet another train loop.
+#             homepage_url: https://catalyst-team.com/
+#             logo: clearml-logo.svg
+#             project: archived
+#             repo_url: https://github.com/catalyst-team/catalyst
+#             crunchbase: https://www.crunchbase.com/organization/open-collective-75c2
           - item:
             name: ColossalAI
             description: Tools to kickstart distributed training and inference
@@ -494,14 +494,14 @@ landscape:
             logo: ColossalAI.svg
             repo_url: https://github.com/hpcaitech/ColossalAI
             crunchbase: https://www.crunchbase.com/organization/hpc-ai-technology
-          - item:
-            name: composer
-            description: A open-source deep learning training library optimized for scalability and usability, integrating best practices for efficient, multi-node training
-            homepage_url: http://docs.mosaicml.com/
-            logo: composerMosaicML.svg
-            project: archived
-            repo_url: https://github.com/mosaicml/composer
-            crunchbase: https://www.crunchbase.com/organization/databricks
+#           - item:
+#             name: composer
+#             description: A open-source deep learning training library optimized for scalability and usability, integrating best practices for efficient, multi-node training
+#             homepage_url: http://docs.mosaicml.com/
+#             logo: composerMosaicML.svg
+#             project: archived
+#             repo_url: https://github.com/mosaicml/composer
+#             crunchbase: https://www.crunchbase.com/organization/databricks
           - item:
             name: fastai
             description: fastai is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches
@@ -509,14 +509,14 @@ landscape:
             logo: fastai.svg
             repo_url: https://github.com/fastai/fastai
             crunchbase: https://www.crunchbase.com/organization/fast-ai
-          - item:
-            name: Hummingbird
-            description: Hummingbird is a library for compiling trained traditional ML models into tensor computations. Hummingbird allows users to seamlessly leverage neural network frameworks (such as PyTorch) to accelerate traditional ML models.
-            homepage_url: https://github.com/microsoft/hummingbird
-            logo: hummingbird.svg
-            project: archived
-            repo_url: https://github.com/microsoft/hummingbird
-            crunchbase: https://www.crunchbase.com/organization/microsoft
+#           - item:
+#             name: Hummingbird
+#             description: Hummingbird is a library for compiling trained traditional ML models into tensor computations. Hummingbird allows users to seamlessly leverage neural network frameworks (such as PyTorch) to accelerate traditional ML models.
+#             homepage_url: https://github.com/microsoft/hummingbird
+#             logo: hummingbird.svg
+#             project: archived
+#             repo_url: https://github.com/microsoft/hummingbird
+#             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Ignite
             description: High-level library to help with training and evaluating neural networks in PyTorch
@@ -524,14 +524,14 @@ landscape:
             logo: ignite_mixed.svg
             repo_url: https://github.com/pytorch/ignite
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: ludwig
-            description: Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
-            homepage_url: https://ludwig.ai/latest/
-            logo: ludwig_hero_smaller.svg
-            project: archived
-            repo_url: https://github.com/ludwig-ai/ludwig
-            crunchbase: https://www.crunchbase.com/organization/predibase
+#           - item:
+#             name: ludwig
+#             description: Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
+#             homepage_url: https://ludwig.ai/latest/
+#             logo: ludwig_hero_smaller.svg
+#             project: archived
+#             repo_url: https://github.com/ludwig-ai/ludwig
+#             crunchbase: https://www.crunchbase.com/organization/predibase
           - item:
             name: Miles
             description: Miles is a high-performance, open-source RL framework for large-scale model post-training, with novel systems work for trillion-parameter MoE stability and unified low-precision training-and-inference.
@@ -539,14 +539,14 @@ landscape:
             logo: miles.svg
             repo_url: https://github.com/radixark/miles       
             crunchbase: 
-          - item:
-            name: Poutyne
-            description: Poutyne is a simplified framework for PyTorch and handles much of the boilerplating code needed to train neural networks.
-            homepage_url: https://poutyne.org/
-            project: archived
-            logo: Poutyne.svg
-            repo_url: https://github.com/GRAAL-Research/poutyne
-            crunchbase: https://www.crunchbase.com/organization/graal-0644
+#           - item:
+#             name: Poutyne
+#             description: Poutyne is a simplified framework for PyTorch and handles much of the boilerplating code needed to train neural networks.
+#             homepage_url: https://poutyne.org/
+#             project: archived
+#             logo: Poutyne.svg
+#             repo_url: https://github.com/GRAAL-Research/poutyne
+#             crunchbase: https://www.crunchbase.com/organization/graal-0644
           - item:
             name: PyTorch Lightning
             description: Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
@@ -561,21 +561,21 @@ landscape:
             logo: skorch.svg
             repo_url: https://github.com/skorch-dev/skorch
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: stoke
-            description: A lightweight wrapper for PyTorch that provides a simple declarative API for context switching between devices (e.g. CPU, GPU), distributed modes, mixed-precision, and PyTorch extensions. This allows you to switch from local full-precision CPU to mixed-precision distributed multi-GPU with extensions (like optimizer state sharding) by simply changing a few declarative flags.
-            homepage_url: https://fidelity.github.io/stoke/
-            logo: stoke.svg
-            project: archived
-            repo_url: https://github.com/StanfordPL/stoke
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: torchdistill
-            description: Offers various state-of-the-art knowledge distillation methods and enables you to design (new) experiments simply by editing a declarative yaml config file.
-            homepage_url: https://yoshitomo-matsubara.net/torchdistill/
-            logo: torchdistill.svg
-            project: archived
-            repo_url: https://github.com/yoshitomo-matsubara/torchdistill
+#           - item:
+#             name: stoke
+#             description: A lightweight wrapper for PyTorch that provides a simple declarative API for context switching between devices (e.g. CPU, GPU), distributed modes, mixed-precision, and PyTorch extensions. This allows you to switch from local full-precision CPU to mixed-precision distributed multi-GPU with extensions (like optimizer state sharding) by simply changing a few declarative flags.
+#             homepage_url: https://fidelity.github.io/stoke/
+#             logo: stoke.svg
+#             project: archived
+#             repo_url: https://github.com/StanfordPL/stoke
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: torchdistill
+#             description: Offers various state-of-the-art knowledge distillation methods and enables you to design (new) experiments simply by editing a declarative yaml config file.
+#             homepage_url: https://yoshitomo-matsubara.net/torchdistill/
+#             logo: torchdistill.svg
+#             project: archived
+#             repo_url: https://github.com/yoshitomo-matsubara/torchdistill
           - item:
             name: torchdata
             description: A Beta library of common modular data loading primitives for easily constructing flexible and performant data pipelines.
@@ -607,14 +607,14 @@ landscape:
       - subcategory:
         name: Probabilistic & Optimization
         items:
-          - item:
-            name: baal
-            description: Baal is a Bayesian active learning library. Provides methods to do posterior distribution sampling in order to maximize the efficiency of labelling during active learning. Our library is suitable for research and industrial applications.
-            homepage_url: https://baal.readthedocs.io/
-            logo: Baal.svg
-            project: archived
-            repo_url: https://github.com/baal-org/baal
-            crunchbase: https://www.crunchbase.com/organization/element-ai
+#           - item:
+#             name: baal
+#             description: Baal is a Bayesian active learning library. Provides methods to do posterior distribution sampling in order to maximize the efficiency of labelling during active learning. Our library is suitable for research and industrial applications.
+#             homepage_url: https://baal.readthedocs.io/
+#             logo: Baal.svg
+#             project: archived
+#             repo_url: https://github.com/baal-org/baal
+#             crunchbase: https://www.crunchbase.com/organization/element-ai
           - item:
             name: BoTorch
             description: A Framework for Efficient Monte-Carlo Bayesian Optimization
@@ -636,33 +636,33 @@ landscape:
             logo: optuna-logo.svg
             repo_url: https://github.com/optuna/optuna
             crunchbase: https://www.crunchbase.com/organization/preferred-networks
-          - item:
-            name: Pomegranate
-            description: pomegranate is a Python package that implements fast and flexible probabilistic models ranging from individual probability distributions to compositional models such as Bayesian networks and hidden Markov models
-            homepage_url: https://pomegranate.readthedocs.io/en/latest/
-            logo: pomegranate.svg
-            project: archived
-            repo_url: https://github.com/jmschrei/pomegranate
-            crunchbase: https://www.crunchbase.com/organization/research-institute-of-molecular-pathology
-          - item:
-            name: Pyro
-            description: Deep universal probabilistic programming with Python and PyTorch
-            homepage_url: https://pyro.ai/
-            logo: Pyro.svg
-            project: archived
-            repo_url: https://github.com/pyro-ppl/pyro
-            crunchbase: https://www.crunchbase.com/organization/uber
+#           - item:
+#             name: Pomegranate
+#             description: pomegranate is a Python package that implements fast and flexible probabilistic models ranging from individual probability distributions to compositional models such as Bayesian networks and hidden Markov models
+#             homepage_url: https://pomegranate.readthedocs.io/en/latest/
+#             logo: pomegranate.svg
+#             project: archived
+#             repo_url: https://github.com/jmschrei/pomegranate
+#             crunchbase: https://www.crunchbase.com/organization/research-institute-of-molecular-pathology
+#           - item:
+#             name: Pyro
+#             description: Deep universal probabilistic programming with Python and PyTorch
+#             homepage_url: https://pyro.ai/
+#             logo: Pyro.svg
+#             project: archived
+#             repo_url: https://github.com/pyro-ppl/pyro
+#             crunchbase: https://www.crunchbase.com/organization/uber
       - subcategory:
         name: Privacy
         items:
-          - item:
-            name: CrypTen
-            description: CrypTen is a Privacy Preserving Machine Learning framework written using PyTorch to train models using encrypted data. It is currently not production ready and its main use is as a research framework
-            homepage_url: https://crypten.readthedocs.io/en/latest/
-            logo: CrypTen.svg
-            project: archived
-            repo_url: https://github.com/facebookresearch/CrypTen
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: CrypTen
+#             description: CrypTen is a Privacy Preserving Machine Learning framework written using PyTorch to train models using encrypted data. It is currently not production ready and its main use is as a research framework
+#             homepage_url: https://crypten.readthedocs.io/en/latest/
+#             logo: CrypTen.svg
+#             project: archived
+#             repo_url: https://github.com/facebookresearch/CrypTen
+#             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Opacus
             description: Train PyTorch models with Differential Privacy
@@ -670,33 +670,33 @@ landscape:
             logo: opacus_logo.svg
             repo_url: https://github.com/pytorch/opacus
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: PySyft
-            description: Perform data science on data that remains in someone else's server
-            homepage_url: https://www.openmined.org/
-            logo: PySyft.svg
-            project: archived
-            repo_url: https://github.com/OpenMined/PySyft
-            crunchbase: https://www.crunchbase.com/organization/openmined
+#           - item:
+#             name: PySyft
+#             description: Perform data science on data that remains in someone else's server
+#             homepage_url: https://www.openmined.org/
+#             logo: PySyft.svg
+#             project: archived
+#             repo_url: https://github.com/OpenMined/PySyft
+#             crunchbase: https://www.crunchbase.com/organization/openmined
       - subcategory:
         name: Continuous Learning
         items:
-          - item:
-            name: avalanche
-            description: Avalanche is an End-to-End Continual Learning Library based on PyTorch, for fast prototyping, training, and reproducible evaluation of continual learning algorithms.
-            homepage_url: http://avalanche.continualai.org/
-            logo: Avalanche.svg
-            project: archived
-            repo_url: https://github.com/ContinualAI/avalanche
-            crunchbase: https://www.crunchbase.com/organization/continualai
-          - item:
-            name: Renate
-            description: Renate is a Python package for automatic retraining of neural networks models. It uses advanced Continual Learning and Lifelong Learning algorithms to achieve this purpose.
-            homepage_url: https://renate.readthedocs.io/en/latest/
-            logo: Renate.svg
-            project: archived
-            repo_url: https://github.com/awslabs/renate
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+#           - item:
+#             name: avalanche
+#             description: Avalanche is an End-to-End Continual Learning Library based on PyTorch, for fast prototyping, training, and reproducible evaluation of continual learning algorithms.
+#             homepage_url: http://avalanche.continualai.org/
+#             logo: Avalanche.svg
+#             project: archived
+#             repo_url: https://github.com/ContinualAI/avalanche
+#             crunchbase: https://www.crunchbase.com/organization/continualai
+#           - item:
+#             name: Renate
+#             description: Renate is a Python package for automatic retraining of neural networks models. It uses advanced Continual Learning and Lifelong Learning algorithms to achieve this purpose.
+#             homepage_url: https://renate.readthedocs.io/en/latest/
+#             logo: Renate.svg
+#             project: archived
+#             repo_url: https://github.com/awslabs/renate
+#             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
       - subcategory:
         name: Federated Learning
         items:
@@ -707,25 +707,25 @@ landscape:
             logo: flower.svg
             repo_url: https://github.com/adap/flower
             crunchbase: https://www.crunchbase.com/organization/flower-1de8
-          - item:
-            name: Substra
-            description: Substra is used to run complex federated learning experiments at scale.
-            homepage_url: https://docs.substra.org/
-            logo: Substra.svg
-            project: archived
-            repo_url: https://github.com/Substra
-            crunchbase: https://www.crunchbase.com/organization/owkin-2
+#           - item:
+#             name: Substra
+#             description: Substra is used to run complex federated learning experiments at scale.
+#             homepage_url: https://docs.substra.org/
+#             logo: Substra.svg
+#             project: archived
+#             repo_url: https://github.com/Substra
+#             crunchbase: https://www.crunchbase.com/organization/owkin-2
       - subcategory:
         name: Reinforcement Learning
         items:
-          - item:
-            name: PFRL
-            description: PFRL is a PyTorch-based deep reinforcement learning library
-            homepage_url: https://github.com/pfnet/pfrl
-            logo: PFRL.svg
-            project: archived
-            repo_url: https://github.com/pfnet/pfrl
-            crunchbase: https://www.crunchbase.com/organization/preferred-networks
+#           - item:
+#             name: PFRL
+#             description: PFRL is a PyTorch-based deep reinforcement learning library
+#             homepage_url: https://github.com/pfnet/pfrl
+#             logo: PFRL.svg
+#             project: archived
+#             repo_url: https://github.com/pfnet/pfrl
+#             crunchbase: https://www.crunchbase.com/organization/preferred-networks
           - item:
             name: RLinf
             description: RLinf is a flexible and scalable reinforcement learning infrastructure for embodied and agentic AI.
@@ -750,14 +750,14 @@ landscape:
             logo: PyTorch_Geometric.svg
             repo_url: https://github.com/pyg-team/pytorch_geometric
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: PyTorch Geometric Temporal
-            description: PyTorch Geometric Temporal is a Spatiotemporal Signal Processing with Neural Machine Learning Models
-            homepage_url: https://github.com/benedekrozemberczki/pytorch_geometric_temporal
-            logo: PyTorch_Geometric_Temporal.svg
-            project: archived
-            repo_url: https://github.com/benedekrozemberczki/pytorch_geometric_temporal
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: PyTorch Geometric Temporal
+#             description: PyTorch Geometric Temporal is a Spatiotemporal Signal Processing with Neural Machine Learning Models
+#             homepage_url: https://github.com/benedekrozemberczki/pytorch_geometric_temporal
+#             logo: PyTorch_Geometric_Temporal.svg
+#             project: archived
+#             repo_url: https://github.com/benedekrozemberczki/pytorch_geometric_temporal
+#             crunchbase: https://www.crunchbase.com/organization/facebook
       - subcategory:
         name: Multimodal
         items:
@@ -771,14 +771,14 @@ landscape:
       - subcategory:
         name: Self supervised
         items:
-          - item:
-            name: PyTorch Metric Learning
-            description: Modular, flexible, and extensible library for deep metric learning.
-            homepage_url: https://kevinmusgrave.github.io/pytorch-metric-learning/
-            logo: PyTorch_Metric_Learning.svg
-            project: archived
-            repo_url: https://github.com/KevinMusgrave/pytorch-metric-learning
-            crunchbase: https://www.crunchbase.com/organization/pento
+#           - item:
+#             name: PyTorch Metric Learning
+#             description: Modular, flexible, and extensible library for deep metric learning.
+#             homepage_url: https://kevinmusgrave.github.io/pytorch-metric-learning/
+#             logo: PyTorch_Metric_Learning.svg
+#             project: archived
+#             repo_url: https://github.com/KevinMusgrave/pytorch-metric-learning
+#             crunchbase: https://www.crunchbase.com/organization/pento
       - subcategory:
         name: Distributed
         items:
@@ -805,14 +805,14 @@ landscape:
       - subcategory:
         name: Quantum
         items:
-          - item:
-            name: TorchQuantum
-            description: A framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy deployments on real quantum computers.
-            homepage_url: https://hanruiwanghw.wixsite.com/torchquantum
-            logo: Torch_Quantum.svg
-            project: archived
-            repo_url: https://github.com/mit-han-lab/torchquantum
-            crunchbase: https://www.crunchbase.com/organization/ibm
+#           - item:
+#             name: TorchQuantum
+#             description: A framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy deployments on real quantum computers.
+#             homepage_url: https://hanruiwanghw.wixsite.com/torchquantum
+#             logo: Torch_Quantum.svg
+#             project: archived
+#             repo_url: https://github.com/mit-han-lab/torchquantum
+#             crunchbase: https://www.crunchbase.com/organization/ibm
   - category:
     name: Optimizations
     subcategories:
@@ -826,14 +826,14 @@ landscape:
             logo: einops.svg
             repo_url: https://github.com/arogozhnikov/einops
             crunchbase: https://www.crunchbase.com/organization/chai-discovery
-          - item:
-            name: higher
-            description: higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
-            homepage_url: https://higher.readthedocs.io/en/latest/.
-            logo: higher.svg
-            project: archived
-            repo_url: https://github.com/facebookresearch/higher
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: higher
+#             description: higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
+#             homepage_url: https://higher.readthedocs.io/en/latest/.
+#             logo: higher.svg
+#             project: archived
+#             repo_url: https://github.com/facebookresearch/higher
+#             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: ivy
             description: Convert Machine Learning Code Between Frameworks
@@ -911,30 +911,30 @@ landscape:
             logo: PyTorch_Project_torchao.svg
             repo_url: https://github.com/pytorch/ao
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: torcharrow
-            description: TorchArrow is a torch.Tensor-like Python DataFrame library for data preprocessing in deep learning. It supports multiple execution runtimes and Arrow as a common format.
-            homepage_url: https://pytorch.org/torcharrow/beta/index.html
-            logo: PyTorch_Project_torcharrow.svg
-            project: archived
-            repo_url: https://github.com/pytorch/torcharrow
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: Torchopt
-            description: An efficient library for differentiable optimization built upon PyTorch
-            homepage_url: https://torchopt.readthedocs.io/en/latest/
-            logo: TorchOpt.svg
-            project: archived
-            repo_url: https://github.com/metaopt/TorchOpt
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: TorchServe
-            description: TorchServe is a performant, flexible and easy to use tool for serving PyTorch models in production.
-            homepage_url: https://github.com/pytorch/serve
-            logo: PyTorch_Project_torchserve.svg
-            project: archived
-            repo_url: https://github.com/pytorch/serve
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: torcharrow
+#             description: TorchArrow is a torch.Tensor-like Python DataFrame library for data preprocessing in deep learning. It supports multiple execution runtimes and Arrow as a common format.
+#             homepage_url: https://pytorch.org/torcharrow/beta/index.html
+#             logo: PyTorch_Project_torcharrow.svg
+#             project: archived
+#             repo_url: https://github.com/pytorch/torcharrow
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: Torchopt
+#             description: An efficient library for differentiable optimization built upon PyTorch
+#             homepage_url: https://torchopt.readthedocs.io/en/latest/
+#             logo: TorchOpt.svg
+#             project: archived
+#             repo_url: https://github.com/metaopt/TorchOpt
+#             crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: TorchServe
+#             description: TorchServe is a performant, flexible and easy to use tool for serving PyTorch models in production.
+#             homepage_url: https://github.com/pytorch/serve
+#             logo: PyTorch_Project_torchserve.svg
+#             project: archived
+#             repo_url: https://github.com/pytorch/serve
+#             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: SGLang
             description: SGLang is a fast serving framework for large language models and vision language models.
@@ -952,14 +952,14 @@ landscape:
       - subcategory:
         name: Compilers & Runtimes
         items:
-          - item:
-            name: Depyf
-            description: depyf is a tool to help you understand debug and get insights into pytorch.compile
-            homepage_url: https://depyf.readthedocs.io/en/latest/
-            logo: depfy.svg
-            project: archived
-            repo_url: https://github.com/thuml/depyf
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: Depyf
+#             description: depyf is a tool to help you understand debug and get insights into pytorch.compile
+#             homepage_url: https://depyf.readthedocs.io/en/latest/
+#             logo: depfy.svg
+#             project: archived
+#             repo_url: https://github.com/thuml/depyf
+#             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: FlagGems
             description: FlagGems is an operator library for large language models implemented in the Triton Language.
@@ -967,14 +967,14 @@ landscape:
             logo: FlagGems_logo.svg
             repo_url: https://github.com/FlagOpen/FlagGems
             crunchbase: https://www.crunchbase.com/organization/baai
-          - item:
-            name: Glow
-            description: Glow is a machine learning compiler and execution engine for hardware accelerators. It is designed to be used as a backend for high-level machine learning frameworks. The compiler is designed to allow state of the art compiler optimizations and code generation of neural network graphs
-            homepage_url: https://github.com/pytorch/glow
-            logo: glow.svg
-            project: archived
-            repo_url: https://github.com/pytorch/glow
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#           - item:
+#             name: Glow
+#             description: Glow is a machine learning compiler and execution engine for hardware accelerators. It is designed to be used as a backend for high-level machine learning frameworks. The compiler is designed to allow state of the art compiler optimizations and code generation of neural network graphs
+#             homepage_url: https://github.com/pytorch/glow
+#             logo: glow.svg
+#             project: archived
+#             repo_url: https://github.com/pytorch/glow
+#             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: intel-extension-for-pytorch
             description: A Python extension to optimize performance on an Intel platform.
@@ -982,14 +982,14 @@ landscape:
             logo: intelex.svg
             repo_url: https://github.com/intel/intel-extension-for-pytorch
             crunchbase: https://www.crunchbase.com/organization/intel
-          - item:
-            name: OctoML Profiler
-            description: octoml-profile is a python library and cloud service that enables ML engineers to easily assess the performance and cost of PyTorch models on cloud hardware with state-of-the-art ML acceleration technology.
-            homepage_url: https://github.com/octoml/octoml-profile
-            logo: octoml.svg
-            project: archived
-            repo_url: https://github.com/octoml/octoml-profile
-            crunchbase: https://www.crunchbase.com/organization/octoml
+#           - item:
+#             name: OctoML Profiler
+#             description: octoml-profile is a python library and cloud service that enables ML engineers to easily assess the performance and cost of PyTorch models on cloud hardware with state-of-the-art ML acceleration technology.
+#             homepage_url: https://github.com/octoml/octoml-profile
+#             logo: octoml.svg
+#             project: archived
+#             repo_url: https://github.com/octoml/octoml-profile
+#             crunchbase: https://www.crunchbase.com/organization/octoml
           - item:
             name: ONNX runtime
             description: High performance ML inferencing and training accelerator
@@ -997,22 +997,22 @@ landscape:
             logo: ONNX_Runtime.svg
             repo_url: https://github.com/microsoft/onnxruntime
             crunchbase: https://www.crunchbase.com/organization/microsoft
-          - item:
-            name: PopTorch
-            description: PopTorch is a set of extensions for PyTorch enabling models to be trained, evaluated and used on the Graphcore IPU.
-            homepage_url: https://docs.graphcore.ai/projects/poptorch-user-guide/en/latest/
-            logo: poptorch.svg
-            project: archived
-            repo_url: https://github.com/graphcore/poptorch
-            crunchbase: https://www.crunchbase.com/organization/graphcore
-          - item:
-            name: Speedster
-            description: Speedster reduces inference costs by leveraging SOTA optimization techniques that best couple your AI models with the underlying hardware (GPUs and CPUs).
-            homepage_url: https://www.nebuly.com/
-            logo: speedster.svg
-            project: archived
-            repo_url: https://github.com/nebuly-ai/optimate/tree/main/optimization/speedster
-            crunchbase: https://www.crunchbase.com/organization/nebuly
+#           - item:
+#             name: PopTorch
+#             description: PopTorch is a set of extensions for PyTorch enabling models to be trained, evaluated and used on the Graphcore IPU.
+#             homepage_url: https://docs.graphcore.ai/projects/poptorch-user-guide/en/latest/
+#             logo: poptorch.svg
+#             project: archived
+#             repo_url: https://github.com/graphcore/poptorch
+#             crunchbase: https://www.crunchbase.com/organization/graphcore
+#           - item:
+#             name: Speedster
+#             description: Speedster reduces inference costs by leveraging SOTA optimization techniques that best couple your AI models with the underlying hardware (GPUs and CPUs).
+#             homepage_url: https://www.nebuly.com/
+#             logo: speedster.svg
+#             project: archived
+#             repo_url: https://github.com/nebuly-ai/optimate/tree/main/optimization/speedster
+#             crunchbase: https://www.crunchbase.com/organization/nebuly
           - item:
             name: Torch-TensorRT
             description: Torch-TensorRT is a inference compiler for PyTorch, targeting NVIDIA GPUs via NVIDIA’s TensorRT Deep Learning Optimizer and Runtime.
@@ -1044,14 +1044,14 @@ landscape:
             logo: clearml-logo.svg
             repo_url: https://github.com/allegroai/clearml
             crunchbase: https://www.crunchbase.com/organization/allegro-ai
-          - item:
-            name: Determined
-            description: Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
-            homepage_url: https://determined.ai/
-            logo: determined-logo.svg
-            project: archived
-            repo_url: https://github.com/determined-ai/determined
-            crunchbase: https://www.crunchbase.com/organization/determined-ai
+#           - item:
+#             name: Determined
+#             description: Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
+#             homepage_url: https://determined.ai/
+#             logo: determined-logo.svg
+#             project: archived
+#             repo_url: https://github.com/determined-ai/determined
+#             crunchbase: https://www.crunchbase.com/organization/determined-ai
           - item:
             name: Feast
             description: Feast is an open source feature store that delivers structured data to AI and LLM applications at scale for training and inference.
@@ -1059,14 +1059,14 @@ landscape:
             logo: feast.svg
             repo_url: https://github.com/feast-dev/feast
             crunchbase: null
-          - item:
-            name: forte
-            description: Forte is a flexible and powerful ML workflow builder.
-            homepage_url: https://github.com/asyml/forte
-            logo: forte.svg
-            project: archived
-            repo_url: https://github.com/asyml/forte
-            crunchbase: https://www.crunchbase.com/organization/petuum
+#           - item:
+#             name: forte
+#             description: Forte is a flexible and powerful ML workflow builder.
+#             homepage_url: https://github.com/asyml/forte
+#             logo: forte.svg
+#             project: archived
+#             repo_url: https://github.com/asyml/forte
+#             crunchbase: https://www.crunchbase.com/organization/petuum
           - item:
             name: Hydra
             description: simplifies the development of research and other complex applications. The key feature is the ability to dynamically create a hierarchical configuration by composition and override it through config files and the command line. The name Hydra comes from its ability to run multiple similar jobs - much like a Hydra with multiple heads.
@@ -1081,22 +1081,22 @@ landscape:
             logo: kubetorch.svg
             repo_url: https://github.com/run-house/kubetorch
             crunchbase: https://www.crunchbase.com/organization/runhouse
-          - item:
-            name: padl
-            description: A pipeline builder for PyTorch.
-            homepage_url: https://lf1-io.github.io/padl/latest/
-            logo: padl.svg
-            project: archived
-            repo_url: https://github.com/lf1-io/padl
-            crunchbase: https://www.crunchbase.com/organization/lf1
-          - item:
-            name: Polyaxon
-            description: MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
-            homepage_url: https://polyaxon.com/
-            logo: Polyaxon.svg
-            project: archived
-            repo_url: https://github.com/polyaxon/polyaxon
-            crunchbase: https://www.crunchbase.com/organization/polyaxon
+#           - item:
+#             name: padl
+#             description: A pipeline builder for PyTorch.
+#             homepage_url: https://lf1-io.github.io/padl/latest/
+#             logo: padl.svg
+#             project: archived
+#             repo_url: https://github.com/lf1-io/padl
+#             crunchbase: https://www.crunchbase.com/organization/lf1
+#           - item:
+#             name: Polyaxon
+#             description: MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+#             homepage_url: https://polyaxon.com/
+#             logo: Polyaxon.svg
+#             project: archived
+#             repo_url: https://github.com/polyaxon/polyaxon
+#             crunchbase: https://www.crunchbase.com/organization/polyaxon
       - subcategory:
         name: Distributed
         items:
@@ -1107,14 +1107,14 @@ landscape:
             logo: fairscale.svg
             repo_url: https://github.com/facebookresearch/fairscale
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: Horovod
-            description: Horovod is a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
-            homepage_url: http://horovod.ai/
-            logo: HOROVOD.svg
-            project: archived
-            repo_url: https://github.com/horovod/horovod
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+#           - item:
+#             name: Horovod
+#             description: Horovod is a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
+#             homepage_url: http://horovod.ai/
+#             logo: HOROVOD.svg
+#             project: archived
+#             repo_url: https://github.com/horovod/horovod
+#             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: PyTorch Projects
     subcategories:
