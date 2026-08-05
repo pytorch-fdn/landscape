@@ -905,6 +905,13 @@ landscape:
             repo_url: https://github.com/tensorly/tensorly
             crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
+            name: TokenSpeed
+            description: TokenSpeed is a high-performance PyTorch-based LLM inference engine optimized for production agentic workloads. 
+            homepage_url: https://lightseek.org/tokenspeed/      
+            logo: tokenspeed.svg
+            repo_url: https://github.com/lightseekorg/tokenspeed       
+            crunchbase: 
+          - item:
             name: torchao
             description: PyTorch library for custom data types & optimizations. Quantize and sparsify weights, gradients, optimizers & activations for inference and training.
             homepage_url: https://pytorch.org/blog/pytorch-native-architecture-optimization/
