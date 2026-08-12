@@ -950,6 +950,13 @@ landscape:
             repo_url: https://github.com/sgl-project/sglang
             crunchbase: https://www.crunchbase.com/organization/uc-berkeley-school-of-information
           - item:
+            name: VisualTorch
+            description: VisualTorch is a PyTorch model visualization library for generating publication-ready diagrams of neural network architectures.
+            homepage_url: https://visualtorch.readthedocs.io/en/latest/   
+            logo: visualtorch.svg
+            repo_url: https://github.com/willyfh/visualtorch       
+            crunchbase: 
+          - item:
             name: Zeus
             description: Zeus is a library for measuring the energy consumption of Deep Learning workloads and optimizing their energy consumption.
             homepage_url: https://ml.energy/zeus/
