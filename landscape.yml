@@ -395,6 +395,13 @@ landscape:
       - subcategory:
         name: Multimodal
         items:
+          - item:
+            name: FiftyOne
+            description: FiftyOne is the open source multimodal data platform for physical AI. It helps developers build better computer vision and multimodal AI systems through interactive data visualization, curation, annotation, and model evaluation across images, video, and multimodal sensor data. 
+            homepage_url: https://voxel51.com/fiftyone
+            logo: fiftyone.svg
+            repo_url: https://github.com/voxel51/fiftyone      
+            crunchbase: https://www.crunchbase.com/organization/voxel51  
 #           - item:
 #             name: MMF
 #             description: A modular framework for vision & language multimodal research.
