@@ -898,6 +898,13 @@ landscape:
             repo_url: https://github.com/PerforatedAI/PerforatedAI     
             crunchbase: 
           - item:
+            name: SMG
+            description: SMG is a high-performance model-routing gateway for large-scale LLM deployments.
+            homepage_url: https://lightseek.org/smg/ 
+            logo: smg.svg
+            repo_url: https://github.com/smg-project/smg      
+            crunchbase: 
+          - item:
             name: tensordict
             description: TensorDict is a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device etc.
             homepage_url: https://pytorch.org/tensordict/stable/index.html
