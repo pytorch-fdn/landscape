@@ -1363,6 +1363,15 @@ landscape:
         name: Gold
         items:
           - item:
+            name: Ant Group (member)
+            homepage_url: https://www.antgroup.com/
+            logo: ant_group.svg
+            description: Ant Financial Services Group, formerly known as Alipay, is an affiliate company of the Chinese Alibaba Group.
+            crunchbase: https://www.crunchbase.com/organization/ant-group
+            twitter: https://x.com/alipay
+            extra:
+              linkedin_url: https://www.linkedin.com/company/antgroup
+          - item:
             name: Dell Technologies (member)
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
