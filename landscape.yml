@@ -292,8 +292,8 @@ landscape:
             description: TorchGeo is a toolkit containing datasets, samplers, transforms, and pre-trained models for geospatial data.
             homepage_url: https://www.osgeo.org/projects/torchgeo/
             logo: TorchGeo.svg
-            repo_url: https://github.com/torchgeo/torchgeo 
-            crunchbase: 
+            repo_url: https://github.com/torchgeo/torchgeo
+            crunchbase:
       - subcategory:
         name: Medical & Biology
         items:
@@ -542,10 +542,10 @@ landscape:
           - item:
             name: Miles
             description: Miles is a high-performance, open-source RL framework for large-scale model post-training, with novel systems work for trillion-parameter MoE stability and unified low-precision training-and-inference.
-            homepage_url: https://www.radixark.com/miles/docs     
+            homepage_url: https://www.radixark.com/miles/docs
             logo: miles.svg
-            repo_url: https://github.com/radixark/miles       
-            crunchbase: 
+            repo_url: https://github.com/radixark/miles
+            crunchbase:
 #           - item:
 #             name: Poutyne
 #             description: Poutyne is a simplified framework for PyTorch and handles much of the boilerplating code needed to train neural networks.
@@ -593,10 +593,10 @@ landscape:
           - item:
             name: TorchJD
             description: Efficient multi-objective optimization in PyTorch using Jacobian descent and conflict-free updates.
-            homepage_url: https://torchjd.org/   
+            homepage_url: https://torchjd.org/
             logo: torchjd.svg
-            repo_url: https://github.com/SimplexLab/TorchJD       
-            crunchbase: 
+            repo_url: https://github.com/SimplexLab/TorchJD
+            crunchbase:
           - item:
             name: TorchMetrics
             description: Machine learning metrics for distributed, scalable PyTorch applications.
@@ -606,10 +606,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/grid-ai
           - item:
             name: Unsloth
-            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM. 
+            description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM.
             homepage_url: https://unsloth.ai/
             logo: unsloth.svg
-            repo_url: https://github.com/unslothai/unsloth   
+            repo_url: https://github.com/unslothai/unsloth
             crunchbase: https://www.crunchbase.com/organization/unsloth-ai
       - subcategory:
         name: Probabilistic & Optimization
@@ -736,9 +736,9 @@ landscape:
           - item:
             name: RLinf
             description: RLinf is a flexible and scalable reinforcement learning infrastructure for embodied and agentic AI.
-            homepage_url: https://rlinf.readthedocs.io/   
+            homepage_url: https://rlinf.readthedocs.io/
             logo: rlinf.svg
-            repo_url: https://github.com/RLinf/RLinf       
+            repo_url: https://github.com/RLinf/RLinf
             crunchbase:
           - item:
             name: Stable Baselines3
@@ -792,10 +792,10 @@ landscape:
           - item:
             name: AReaL
             description: AReaL is a scalable, PyTorch-native reinforcement learning (RL) infrastructure designed to bridge foundation model training with modern agent-based applications.
-            homepage_url: https://github.com/inclusionAI/AReaL  
+            homepage_url: https://areal-ai.io/
             logo: areal.svg
-            repo_url: https://github.com/inclusionAI/AReaL     
-            crunchbase: 
+            repo_url: https://github.com/areal-project/AReaL
+            crunchbase:
           - item:
             name: Kubeflow Trainer
             description: Kubeflow Trainer is a Kubernetes-native project enabling scalable, distributed training of AI models and purpose-built for fine-tuning large language models (LLMs). It simplifies the scale-out of training workloads on multiple nodes, managing large datasets efficiently, and ensuring fault-tolerance.
@@ -851,10 +851,10 @@ landscape:
           - item:
             name: KTransformers
             description: Efficient inference and fine-tuning of large language models through CPU-GPU heterogeneous computing.
-            homepage_url: https://kvcache-ai.github.io/ktransformers/ 
+            homepage_url: https://kvcache-ai.github.io/ktransformers/
             logo: ktransformers.svg
-            repo_url: https://github.com/kvcache-ai/ktransformers    
-            crunchbase: 
+            repo_url: https://github.com/kvcache-ai/ktransformers
+            crunchbase:
           - item:
             name: LitServe
             description: LitServe is a flexible serving engine for AI models built on FastAPI.
@@ -886,17 +886,17 @@ landscape:
           - item:
             name: ONNX
             description: An open standard and ecosystem for interoperable machine learning models across frameworks and runtimes.
-            homepage_url: https://onnx.ai/  
+            homepage_url: https://onnx.ai/
             logo: onnx.svg
-            repo_url: https://github.com/onnx/onnx    
-            crunchbase: 
+            repo_url: https://github.com/onnx/onnx
+            crunchbase:
           - item:
             name: Perforated
             description: A data-efficiency library for PyTorch that improves model performance by adding neuron-specific learning signals during training.
-            homepage_url: https://www.perforatedai.com/  
+            homepage_url: https://www.perforatedai.com/
             logo: perforatedai.svg
-            repo_url: https://github.com/PerforatedAI/PerforatedAI     
-            crunchbase: 
+            repo_url: https://github.com/PerforatedAI/PerforatedAI
+            crunchbase:
           - item:
             name: SMG
             description: SMG is a high-performance model-routing gateway for large-scale LLM deployments.
@@ -1214,7 +1214,7 @@ landscape:
             homepage_url: https://helionlang.com/
             logo: helion.svg
             repo_url: https://github.com/pytorch/helion
-            crunchbase: 
+            crunchbase:
             extra:
               accepted: '2026-04-07'
               annotations:
