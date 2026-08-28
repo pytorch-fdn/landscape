@@ -605,6 +605,13 @@ landscape:
             repo_url: https://github.com/Lightning-AI/torchmetrics
             crunchbase: https://www.crunchbase.com/organization/grid-ai
           - item:
+            name: TorchSurv
+            description: TorchSurv is a lightweight Python package for deep survival analysis built entirely on PyTorch. It provides differentiable loss functions (Cox proportional hazards, Weibull AFT) and evaluation metrics (concordance index, time-dependent AUC, Brier score) that integrate seamlessly into standard PyTorch training loops..
+            homepage_url: https://opensource.nibr.com/torchsurv/index.html 
+            logo: torchsurv.svg
+            repo_url: https://github.com/Novartis/torchsurv     
+            crunchbase: 
+          - item:
             name: Unsloth
             description: Unsloth provides fine-tuning & reinforcement learning for LLMs. Train LLMs, VLMs 2x faster with 70% less VRAM. 
             homepage_url: https://unsloth.ai/
