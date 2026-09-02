@@ -1449,6 +1449,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/graphcore
           - item:
+            name: Lablup Inc (member)
+            homepage_url: https://lablup.com/
+            logo: lablup-inc.svg
+            description: Lablup makes AI accessible and scalable with Backend.AI, transforming GPU complexity into operational simplicity.
+            organization:
+              name: Lablup
+            extra:
+              linkedin_url: https://www.linkedin.com/company/lablup-inc
+          - item:
             name: LightSeek Foundation (member)
             homepage_url: https://lightseek.org/
             logo: lightseek_foundation.svg
