@@ -1282,6 +1282,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
+            name: Cambricon (member)
+            homepage_url: https://cambricon.com/
+            logo: cambricon.svg
+            description: Cambricon pioneers in global intelligent chip technology, specializing in AI processor chip development to enhance machine understanding and service to humanity.
+            crunchbase: https://www.crunchbase.com/organization/cambricon-technologies
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cambricon
+          - item:
             name: Google LLC (member)
             homepage_url: https://google.com/
             logo: google_llc.svg
