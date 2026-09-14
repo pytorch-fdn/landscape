@@ -581,7 +581,6 @@ landscape:
             description: Offers various state-of-the-art knowledge distillation methods and enables you to design (new) experiments simply by editing a declarative yaml config file.
             homepage_url: https://yoshitomo-matsubara.net/torchdistill/
             logo: torchdistill.svg
-            project: archived
             repo_url: https://github.com/yoshitomo-matsubara/torchdistill
           - item:
             name: torchdata
