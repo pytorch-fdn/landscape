@@ -1647,6 +1647,12 @@ landscape:
             logo: university_of_california_irvine.svg
             description: |-
               The University of California, Irvine is a public research university located in Irvine, California and one of the 10 general campuses in the University of California system. University of California, Irvine is considered a Public Ivy and offers 80 undergraduate degrees and 98 graduate and professional degrees.
+          - item:
+            name: Valencia College (member)
+            homepage_url: https://valenciacollege.edu/
+            logo: valencia-college.svg
+            description: |-
+              Valencia College provides opportunities for academic, technical, and lifelong learning in a collaborative culture
 
               --- Merged Data:
 
