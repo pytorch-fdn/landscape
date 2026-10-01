@@ -800,7 +800,7 @@ landscape:
             description: AReaL is a scalable, PyTorch-native reinforcement learning (RL) infrastructure designed to bridge foundation model training with modern agent-based applications.
             homepage_url: https://github.com/inclusionAI/AReaL  
             logo: areal.svg
-            repo_url: https://github.com/inclusionAI/AReaL     
+            repo_url: https://github.com/areal-project/AReaL   
             crunchbase: 
           - item:
             name: Kubeflow Trainer
