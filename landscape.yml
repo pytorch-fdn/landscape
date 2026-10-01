@@ -1134,13 +1134,13 @@ landscape:
       - subcategory:
         name: Distributed
         items:
-          - item:
-            name: FairScale
-            description: PyTorch extension library for high performance and large scale training. This library extends basic PyTorch capabilities while adding new SOTA scaling techniques.
-            homepage_url: https://github.com/facebookresearch/fairscale
-            logo: fairscale.svg
-            repo_url: https://github.com/facebookresearch/fairscale
-            crunchbase: https://www.crunchbase.com/organization/facebook
+#          - item:
+#            name: FairScale
+#            description: PyTorch extension library for high performance and large scale training. This library extends basic PyTorch capabilities while adding new SOTA scaling techniques.
+#            homepage_url: https://github.com/facebookresearch/fairscale
+#            logo: fairscale.svg
+#            repo_url: https://github.com/facebookresearch/fairscale
+#            crunchbase: https://www.crunchbase.com/organization/facebook
 #           - item:
 #             name: Horovod
 #             description: Horovod is a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
