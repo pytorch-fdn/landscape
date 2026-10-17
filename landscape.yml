@@ -1307,6 +1307,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
           - item:
+            name: Nebius B.V. (member)
+            homepage_url: https://nebius.com/
+            logo: NEBIUS-color.svg
+            description: Nebius is a cloud platform designed for artificial intelligence development, training, and inference.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nebius-group
+          - item:
             name: Shopify (member)
             homepage_url: https://www.shopify.com/
             logo: shopify_logo.svg
