@@ -1313,6 +1313,14 @@ landscape:
             description: Nebius is a cloud platform designed for artificial intelligence development, training, and inference.
             extra:
               linkedin_url: https://www.linkedin.com/company/nebius-group
+          - item:  
+            name: Nscale (member)
+            homepage_url: https://www.nscale.com/
+            logo: Nscale-logo_blue.svg
+            description: Nscale builds AI data centers and provides GPU cloud infrastructure that companies use to train, run, and scale large AI models.
+            crunchbase: https://www.crunchbase.com/organization/nscale
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nscale-cloud
           - item:
             name: Shopify (member)
             homepage_url: https://www.shopify.com/
