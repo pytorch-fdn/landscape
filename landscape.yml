@@ -1025,6 +1025,13 @@ landscape:
 #             repo_url: https://github.com/octoml/octoml-profile
 #             crunchbase: https://www.crunchbase.com/organization/octoml
           - item:
+            name: LiteRT
+            description: LiteRT is Google's open-source, high-performance, cross-platform, and production-proven on-device inference runtime for deploying PyTorch models on edge, mobile, desktop, web, and embedded devices.
+            homepage_url: https://ai.google.dev/edge/litert 
+            logo: litert.svg
+            repo_url: https://github.com/google-ai-edge/LiteRT      
+            crunchbase: 
+          - item:
             name: ONNX runtime
             description: High performance ML inferencing and training accelerator
             homepage_url: https://onnxruntime.ai/
