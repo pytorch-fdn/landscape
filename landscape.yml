@@ -977,6 +977,13 @@ landscape:
             repo_url: https://github.com/willyfh/visualtorch       
             crunchbase: 
           - item:
+            name: XGrammar
+            description: XGrammar is a widely-adopted open-source library for efficient structured generation in PyTorch-based large language model inference.
+            homepage_url: https://xgrammar.mlc.ai/  
+            logo: xgrammar.svg
+            repo_url: https://github.com/mlc-ai/xgrammar        
+            crunchbase: 
+          - item:
             name: Zeus
             description: Zeus is a library for measuring the energy consumption of Deep Learning workloads and optimizing their energy consumption.
             homepage_url: https://ml.energy/zeus/
