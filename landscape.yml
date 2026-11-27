@@ -916,7 +916,7 @@ landscape:
             homepage_url: https://docs.pytorch.org/tensordict/stable/
             logo: PyTorch_Project_tensordict.svg
             repo_url: https://github.com/pytorch/tensordict
-            crunchbase: https://www.crunchbase.com/organization/pytorch
+            crunchbase: https://www.crunchbase.com/organization/facebook
             second_path:
               - Modeling / AI for Science and Engineering
           - item:
